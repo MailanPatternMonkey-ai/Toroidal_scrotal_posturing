@@ -1,0 +1,1202 @@
+{
+  "review_date": "2026-10-18",
+  "started_utc": "2026-10-18T23:49:58.221652+00:00",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "scope": "Pinned public Git snapshots; selected source review, manifest comparison, and bounded mathematical runs. No sampler replay or physical experiment.",
+  "repositories": {
+    "Math_n_shiz": {
+      "url": "https://github.com/aureoncorner-dotcom/Math_n_shiz",
+      "commit": "ea9c230942f442b3aeb0bdcc82c9aeb71b1d8334",
+      "commit_date": "2026-10-18T19:45:00-04:00",
+      "tracked_files": 211,
+      "selected_blobs": {
+        "geometry_engine.py": {
+          "bytes": 9196,
+          "sha256": "cb42d10f30d94aa6fc44bb1d64b6daebdf9ea41a9c267a98d227c087ab721d3b"
+        },
+        "geometry_tests.py": {
+          "bytes": 13376,
+          "sha256": "4f8ce500441f3343b15c04b337bb9dfdcebc886601bb83dd4d279a182ddba224"
+        },
+        "geometry_verification.json": {
+          "bytes": 1271,
+          "sha256": "7c8509e0b7277418f7718f62bb90b47fda7aa9fa893930f82ae2122b0a3725db"
+        },
+        "geometry_adaptive.py": {
+          "bytes": 10914,
+          "sha256": "903a86a2a39695d798256bd509a6064c413077a7ee19a8e75a5a71d35ba880fc"
+        },
+        "geometry_adaptive_tests.py": {
+          "bytes": 11572,
+          "sha256": "16c53cd15d5c1651749481a597301e0828173b7881db00423a0441ac856494a8"
+        },
+        "geometry_adaptive_verification.json": {
+          "bytes": 642,
+          "sha256": "8c1520dad06133cf829a2d25de5e268b046ac8013f44a5518265c79540737234"
+        },
+        "geometry_verify_label_tables.py": {
+          "bytes": 18581,
+          "sha256": "a8207f4d44aa3c25e1fad1511a38cf16d882f295a52e6c6efa8fad91a2d5fbb9"
+        },
+        "geometry_adaptive_source_receipt.json": {
+          "bytes": 1906,
+          "sha256": "b4587e63c8922f77186c5dca247aa7cd3aad1580112142ccca1018c14fbf8bf1"
+        },
+        "Geometry_Adaptive_Repair_Source.md": {
+          "bytes": 29565,
+          "sha256": "640545be6a55599c6c18bf1de714208ef32a6a6d802f344baf61a54f4c22e90c"
+        }
+      },
+      "manifest_comparisons": [
+        {
+          "manifest": "GEOMETRY_Release_Manifest.json",
+          "file": "geometry_engine.py",
+          "expected": {
+            "bytes": 9196,
+            "sha256": "cb42d10f30d94aa6fc44bb1d64b6daebdf9ea41a9c267a98d227c087ab721d3b"
+          },
+          "actual": {
+            "bytes": 9196,
+            "sha256": "cb42d10f30d94aa6fc44bb1d64b6daebdf9ea41a9c267a98d227c087ab721d3b"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_Release_Manifest.json",
+          "file": "geometry_tests.py",
+          "expected": {
+            "bytes": 13376,
+            "sha256": "4f8ce500441f3343b15c04b337bb9dfdcebc886601bb83dd4d279a182ddba224"
+          },
+          "actual": {
+            "bytes": 13376,
+            "sha256": "4f8ce500441f3343b15c04b337bb9dfdcebc886601bb83dd4d279a182ddba224"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_Release_Manifest.json",
+          "file": "geometry_verification.json",
+          "expected": {
+            "bytes": 1271,
+            "sha256": "7c8509e0b7277418f7718f62bb90b47fda7aa9fa893930f82ae2122b0a3725db"
+          },
+          "actual": {
+            "bytes": 1271,
+            "sha256": "7c8509e0b7277418f7718f62bb90b47fda7aa9fa893930f82ae2122b0a3725db"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_engine.py",
+          "expected": {
+            "bytes": 9196,
+            "sha256": "cb42d10f30d94aa6fc44bb1d64b6daebdf9ea41a9c267a98d227c087ab721d3b"
+          },
+          "actual": {
+            "bytes": 9196,
+            "sha256": "cb42d10f30d94aa6fc44bb1d64b6daebdf9ea41a9c267a98d227c087ab721d3b"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_adaptive.py",
+          "expected": {
+            "bytes": 10914,
+            "sha256": "903a86a2a39695d798256bd509a6064c413077a7ee19a8e75a5a71d35ba880fc"
+          },
+          "actual": {
+            "bytes": 10914,
+            "sha256": "903a86a2a39695d798256bd509a6064c413077a7ee19a8e75a5a71d35ba880fc"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_adaptive_tests.py",
+          "expected": {
+            "bytes": 11572,
+            "sha256": "16c53cd15d5c1651749481a597301e0828173b7881db00423a0441ac856494a8"
+          },
+          "actual": {
+            "bytes": 11572,
+            "sha256": "16c53cd15d5c1651749481a597301e0828173b7881db00423a0441ac856494a8"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_adaptive_verification.json",
+          "expected": {
+            "bytes": 642,
+            "sha256": "8c1520dad06133cf829a2d25de5e268b046ac8013f44a5518265c79540737234"
+          },
+          "actual": {
+            "bytes": 642,
+            "sha256": "8c1520dad06133cf829a2d25de5e268b046ac8013f44a5518265c79540737234"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_verify_label_tables.py",
+          "expected": {
+            "bytes": 18581,
+            "sha256": "a8207f4d44aa3c25e1fad1511a38cf16d882f295a52e6c6efa8fad91a2d5fbb9"
+          },
+          "actual": {
+            "bytes": 18581,
+            "sha256": "a8207f4d44aa3c25e1fad1511a38cf16d882f295a52e6c6efa8fad91a2d5fbb9"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "geometry_adaptive_source_receipt.json",
+          "expected": {
+            "bytes": 1906,
+            "sha256": "b4587e63c8922f77186c5dca247aa7cd3aad1580112142ccca1018c14fbf8bf1"
+          },
+          "actual": {
+            "bytes": 1906,
+            "sha256": "b4587e63c8922f77186c5dca247aa7cd3aad1580112142ccca1018c14fbf8bf1"
+          },
+          "matches": true
+        },
+        {
+          "manifest": "GEOMETRY_v2.5_Manifest.json",
+          "file": "Geometry_Adaptive_Repair_Source.md",
+          "expected": {
+            "bytes": 29565,
+            "sha256": "640545be6a55599c6c18bf1de714208ef32a6a6d802f344baf61a54f4c22e90c"
+          },
+          "actual": {
+            "bytes": 29565,
+            "sha256": "640545be6a55599c6c18bf1de714208ef32a6a6d802f344baf61a54f4c22e90c"
+          },
+          "matches": true
+        }
+      ],
+      "portable_master_comparison_before_upgrade": {
+        "git_blob_sha256": "47e81e3830e210bf42c7281fa6d2e6383b460b83b8aa52c2378edfb14bf8efbc",
+        "local_sha256": "47e81e3830e210bf42c7281fa6d2e6383b460b83b8aa52c2378edfb14bf8efbc",
+        "byte_identical": true
+      }
+    },
+    "Toroidal_scrotal_posturing": {
+      "url": "https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing",
+      "commit": "bbf8bb615002c76a833b2317998d5cd2a462e935",
+      "commit_date": "2026-09-28T14:28:04-04:00",
+      "tracked_files": 221,
+      "selected_blobs": {
+        "verify.py": {
+          "bytes": 4850,
+          "sha256": "96c2d72c9e1e0de55e86392cc1f2546633d4a076f5f580e7408990aa13166e8f"
+        },
+        "verification_original.json": {
+          "bytes": 2538,
+          "sha256": "25ea6e583f75ac5dafcd88761e1f4499d91fbe20f273613db5f682a00c9eb48a"
+        }
+      },
+      "manifest_comparisons": [],
+      "root_verify_release_required_directories": {
+        "reference/": {
+          "tracked_file_count": 0
+        },
+        "configs/": {
+          "tracked_file_count": 0
+        },
+        "examples/": {
+          "tracked_file_count": 0
+        }
+      },
+      "root_checksum_manifest_paths": [
+        "README.md",
+        "ordering_solver.py",
+        "results/projection_witness.json",
+        "results/receipts.jsonl",
+        "results/summary.json",
+        "run.py",
+        "source/LICENSE",
+        "source/tasks.json",
+        "source_manifest.json"
+      ],
+      "root_checksum_manifest_missing_paths": [
+        "results/projection_witness.json",
+        "results/receipts.jsonl",
+        "results/summary.json",
+        "source/LICENSE",
+        "source/tasks.json"
+      ]
+    }
+  },
+  "runs": [
+    {
+      "repository": "Math_n_shiz",
+      "script": "geometry_tests.py",
+      "returncode": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "d3441f740f8d17ce472c697a34753a1051c10c415c0839a0d5e7c4522a0234e7",
+      "result": {
+        "status": "PASS",
+        "scope": "Exact synthetic finite examples and exhaustive small declared tables only.",
+        "python_version": "3.12.14",
+        "test_methods": 16,
+        "failures": 0,
+        "errors": 0,
+        "exhaustive_case_counts": {
+          "D1": 512,
+          "D2": 256,
+          "D3": 1728,
+          "D4": 512,
+          "D5": 216,
+          "coordinate_repairs": 512,
+          "deterministic_compiler": 216,
+          "strong_lumpability_compiler": 512
+        },
+        "exhaustive_cases_total": 4464,
+        "duration_seconds": 0.0969,
+        "demonstration": {
+          "scope": "synthetic finite examples only",
+          "delayed_split_class_counts": [
+            2,
+            3,
+            4
+          ],
+          "inclusion_minimal_repairs": [
+            [
+              "a"
+            ],
+            [
+              "b",
+              "c"
+            ]
+          ],
+          "minimum_cardinality_repairs": [
+            [
+              "a"
+            ]
+          ]
+        },
+        "historical_replay_performed": false,
+        "physical_experiment_performed": false,
+        "temporal_experiment_performed": false,
+        "limitations": [
+          "No finite test proves an unrestricted theorem.",
+          "Declared table completeness does not establish empirical coverage.",
+          "Coordinate repair search is exponential and menu-relative.",
+          "Strong lumpability is different from history-level finite Markov order."
+        ]
+      }
+    },
+    {
+      "repository": "Math_n_shiz",
+      "script": "geometry_adaptive_tests.py",
+      "returncode": 0,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "ee81f17b1088ca5e51067558ffa03403bde7edd3f761e49c94fe9a138071be07",
+      "test_output": "test_callables_evaluated_once (__main__.AdaptiveRepairTests.test_callables_evaluated_once) ... ok\r\ntest_deterministic_tie_uses_menu_order_not_sortable_names (__main__.AdaptiveRepairTests.test_deterministic_tie_uses_menu_order_not_sortable_names) ... ok\r\ntest_empty_menu_constant_witness (__main__.AdaptiveRepairTests.test_empty_menu_constant_witness) ... ok\r\ntest_empty_menu_different_values_between_labels_already_descend (__main__.AdaptiveRepairTests.test_empty_menu_different_values_between_labels_already_descend) ... ok\r\ntest_empty_menu_impossible_returns_real_pair (__main__.AdaptiveRepairTests.test_empty_menu_impossible_returns_real_pair) ... ok\r\ntest_equal_cost_tie_chooses_fewer_coordinates (__main__.AdaptiveRepairTests.test_equal_cost_tie_chooses_fewer_coordinates) ... ok\r\ntest_exact_fraction_costs_and_probabilities (__main__.AdaptiveRepairTests.test_exact_fraction_costs_and_probabilities) ... ok\r\ntest_example_is_reusable_and_synthetic (__main__.AdaptiveRepairTests.test_example_is_reusable_and_synthetic) ... ok\r\ntest_four_state_strict_gain_and_every_label (__main__.AdaptiveRepairTests.test_four_state_strict_gain_and_every_label) ... ok\r\ntest_guards_bound_exhaustive_search_and_generator_consumption (__main__.AdaptiveRepairTests.test_guards_bound_exhaustive_search_and_generator_consumption) ... ok\r\ntest_impossible_zero_probability_fiber_invalidates_all_domain (__main__.AdaptiveRepairTests.test_impossible_zero_probability_fiber_invalidates_all_domain) ... ok\r\ntest_incomplete_table_is_rejected_even_on_zero_probability_label (__main__.AdaptiveRepairTests.test_incomplete_table_is_rejected_even_on_zero_probability_label) ... ok\r\ntest_invalid_cost_values (__main__.AdaptiveRepairTests.test_invalid_cost_values) ... ok\r\ntest_invalid_domain_and_labels (__main__.AdaptiveRepairTests.test_invalid_domain_and_labels) ... ok\r\ntest_invalid_probabilities (__main__.AdaptiveRepairTests.test_invalid_probabilities) ... ok\r\ntest_labels_use_first_occurrence (__main__.AdaptiveRepairTests.test_labels_use_first_occurrence) ... ok\r\ntest_local_policy_inventory_can_exceed_optimal_inventory (__main__.AdaptiveRepairTests.test_local_policy_inventory_can_exceed_optimal_inventory) ... ok\r\ntest_missing_extra_and_nonmapping_costs (__main__.AdaptiveRepairTests.test_missing_extra_and_nonmapping_costs) ... ok\r\ntest_one_label_fixed_and_label_costs_coincide (__main__.AdaptiveRepairTests.test_one_label_fixed_and_label_costs_coincide) ... ok\r\ntest_probabilities_are_optional_not_assumed_uniform (__main__.AdaptiveRepairTests.test_probabilities_are_optional_not_assumed_uniform) ... ok\r\ntest_unhashable_witness_and_coordinate_values_use_equality (__main__.AdaptiveRepairTests.test_unhashable_witness_and_coordinate_values_use_equality) ... ok\r\ntest_zero_costs_do_not_require_redundant_coordinates (__main__.AdaptiveRepairTests.test_zero_costs_do_not_require_redundant_coordinates) ... ok\r\ntest_zero_probability_labels_still_repaired (__main__.AdaptiveRepairTests.test_zero_probability_labels_still_repaired) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 23 tests in 0.002s\r\n\r\nOK\r\n"
+    },
+    {
+      "repository": "Math_n_shiz",
+      "script": "geometry_verify_label_tables.py",
+      "returncode": 0,
+      "stdout_sha256": "9ab97baf8ede1191d1f7cb67ed362e31b6307c67ac3d54734adb7deac7dc60b1",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result": {
+        "status": "PASS",
+        "verification_kind": "Independent synthetic finite reconstruction; no existing source verifier or geometry engine imported/executed.",
+        "scope": "All binary target/c1/c2 columns on four states, labels A,A,B,B. Exact integer and rational arithmetic; queries read one fixed state without changing it.",
+        "source_review": {
+          "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\verification_2026-10-18\\Math_n_shiz\\Geometry_Adaptive_Repair_Source.md",
+          "sha256": "640545be6a55599c6c18bf1de714208ef32a6a6d802f344baf61a54f4c22e90c"
+        },
+        "source_reported_receipt": {
+          "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\verification_2026-10-18\\Math_n_shiz\\geometry_adaptive_source_receipt.json",
+          "sha256": "b4587e63c8922f77186c5dca247aa7cd3aad1580112142ccca1018c14fbf8bf1"
+        },
+        "checker": {
+          "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\verification_2026-10-18\\Math_n_shiz\\geometry_verify_label_tables.py",
+          "sha256": "a8207f4d44aa3c25e1fad1511a38cf16d882f295a52e6c6efa8fad91a2d5fbb9"
+        },
+        "cost_profiles": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "four_state": {
+          "counts": {
+            "binary_tables": 4096,
+            "fixed_set_sufficiency_comparisons": 16384,
+            "policy_sufficiency_comparisons": 65536,
+            "unrepairable_tables": 960,
+            "tables_with_an_already_clean_fiber": 3072,
+            "empty_bad_pair_families": 4096,
+            "weighted_objective_bundles": 12288,
+            "individual_objective_equalities": 49152,
+            "cost_ordering_checks": 9408,
+            "label_factor_bound_checks": 9408,
+            "strict_unit_cost_worst_advantage_tables": 128
+          },
+          "profiles": {
+            "(1, 1)": {
+              "tables": 4096,
+              "unrepairable": 960,
+              "strict_worst_cost_advantage": 128,
+              "strict_expected_cost_advantage": 1664,
+              "zero_fixed_cost_repairable": 1024
+            },
+            "(1, 3)": {
+              "tables": 4096,
+              "unrepairable": 960,
+              "strict_worst_cost_advantage": 128,
+              "strict_expected_cost_advantage": 1792,
+              "zero_fixed_cost_repairable": 1024
+            },
+            "(0, 2)": {
+              "tables": 4096,
+              "unrepairable": 960,
+              "strict_worst_cost_advantage": 0,
+              "strict_expected_cost_advantage": 768,
+              "zero_fixed_cost_repairable": 2304
+            }
+          },
+          "ordered_result_sha256": "a72b1220ec4b0ad339c57c4a9fa1468b855faa3c238b3d414c4c02a4541602cc",
+          "label_probabilities": {
+            "A": "1/4",
+            "B": "3/4"
+          }
+        },
+        "k_label_separation": {
+          "cases": [
+            {
+              "labels": 1,
+              "states": 2,
+              "fixed_cost": 1,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 1,
+              "local_policy": {
+                "0": [
+                  0
+                ]
+              }
+            },
+            {
+              "labels": 2,
+              "states": 4,
+              "fixed_cost": 2,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 2,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ]
+              }
+            },
+            {
+              "labels": 3,
+              "states": 6,
+              "fixed_cost": 3,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 3,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ]
+              }
+            },
+            {
+              "labels": 4,
+              "states": 8,
+              "fixed_cost": 4,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 4,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ],
+                "3": [
+                  3
+                ]
+              }
+            },
+            {
+              "labels": 5,
+              "states": 10,
+              "fixed_cost": 5,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 5,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ],
+                "3": [
+                  3
+                ],
+                "4": [
+                  4
+                ]
+              }
+            },
+            {
+              "labels": 6,
+              "states": 12,
+              "fixed_cost": 6,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 6,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ],
+                "3": [
+                  3
+                ],
+                "4": [
+                  4
+                ],
+                "5": [
+                  5
+                ]
+              }
+            },
+            {
+              "labels": 7,
+              "states": 14,
+              "fixed_cost": 7,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 7,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ],
+                "3": [
+                  3
+                ],
+                "4": [
+                  4
+                ],
+                "5": [
+                  5
+                ],
+                "6": [
+                  6
+                ]
+              }
+            },
+            {
+              "labels": 8,
+              "states": 16,
+              "fixed_cost": 8,
+              "label_worst_cost": 1,
+              "label_expected_uniform": "1",
+              "inventory_cost": 8,
+              "local_policy": {
+                "0": [
+                  0
+                ],
+                "1": [
+                  1
+                ],
+                "2": [
+                  2
+                ],
+                "3": [
+                  3
+                ],
+                "4": [
+                  4
+                ],
+                "5": [
+                  5
+                ],
+                "6": [
+                  6
+                ],
+                "7": [
+                  7
+                ]
+              }
+            }
+          ],
+          "counts": {
+            "global_mask_checks": 510,
+            "local_mask_checks": 3586,
+            "composed_policy_record_checks": 8,
+            "inventory_mask_checks": 510
+          },
+          "scope": "All global and local batch masks plus every inventory mask enumerated for k=1..8; the exponentially larger Cartesian product of all k-label policies was not enumerated. Selected optimal policies were checked by direct full-record collisions."
+        },
+        "sequential_example": {
+          "fixed_batch_cost": 3,
+          "label_batch_cost": 3,
+          "sequential_worst_cost": 2,
+          "states_replayed": 8,
+          "counts": {
+            "decision_subproblems": 27,
+            "decision_query_options": 21
+          },
+          "method": "Exhaustive dynamic program over all state-consistent query choices; stop only on target-constant residual sets."
+        },
+        "edge_and_service_cases": [
+          {
+            "name": "empty_families",
+            "result": "PASS",
+            "minimum_cost": 0
+          },
+          {
+            "name": "zero_probability_unrepairable_fiber",
+            "result": "PASS",
+            "probabilities": {
+              "A": "0",
+              "B": "1"
+            },
+            "globally_exact_policy_exists": false
+          },
+          {
+            "name": "free_coordinate_nontrivial_repair",
+            "result": "PASS",
+            "minimum_cost": 0,
+            "empty_selection_sufficient": false
+          },
+          {
+            "name": "service_answer_already_in_label",
+            "result": "PASS",
+            "minimum_cost": 0,
+            "interpretation": "A is already a coordinate of pi_DS=(O,A)."
+          },
+          {
+            "name": "service_pre_answer_observation",
+            "result": "PASS",
+            "minimum_unit_cost": 1,
+            "interpretation": "pi_pre excludes the unknown answer; this is a synthetic fixed target, not task validation data."
+          },
+          {
+            "name": "post_answer_audit_acquires_existing_evidence",
+            "result": "PASS",
+            "minimum_unit_cost": 1
+          },
+          {
+            "name": "post_answer_audit_uncaptured_evidence",
+            "result": "PASS",
+            "globally_exact_policy_exists": false
+          }
+        ],
+        "comparison_with_source_reported_counts": {
+          "tables": {
+            "source_reported": 4096,
+            "independently_reproduced": 4096,
+            "matches": true
+          },
+          "fixed_mask_checks": {
+            "source_reported": 16384,
+            "independently_reproduced": 16384,
+            "matches": true
+          },
+          "policy_checks": {
+            "source_reported": 65536,
+            "independently_reproduced": 65536,
+            "matches": true
+          },
+          "weighted_objective_checks": {
+            "source_reported": 12288,
+            "independently_reproduced": 12288,
+            "matches": true
+          },
+          "unrepairable_tables": {
+            "source_reported": 960,
+            "independently_reproduced": 960,
+            "matches": true
+          },
+          "strict_unit_cost_gap_tables": {
+            "source_reported": 128,
+            "independently_reproduced": 128,
+            "matches": true
+          }
+        },
+        "errors": [],
+        "elapsed_seconds": 0.936186,
+        "completed_at_utc": "2026-10-18T23:50:00.509616+00:00",
+        "limitations": [
+          "Finite synthetic checks support the implemented identities; the general theorem still rests on its proof and hypotheses.",
+          "No real service episode, historical conversation, sampler, timing intervention, energy use or human outcome was measured.",
+          "The batch policy selects from q only; the separate sequential example permits branching on earlier acquired values.",
+          "Probability zero does not remove a state from the declared exactness domain.",
+          "Acquisition cost is not installation cost, visible deletion cost, latency or predictive autonomy.",
+          "A_task must be a separately specified and validated target; the synthetic fixtures do not validate real task completion."
+        ]
+      }
+    },
+    {
+      "repository": "Toroidal_scrotal_posturing",
+      "script": "verify.py",
+      "returncode": 0,
+      "stdout_sha256": "b6357838d6894eef39b73cc4923cfa0a9a495d814f9bf3d8b2391b2b814fc4f3",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "result": {
+        "scope": "Supplementary exact group arithmetic and decimal local checks; no sampler replay",
+        "clock_checks": [
+          {
+            "L": 2,
+            "B": 71,
+            "spacing": 1,
+            "r0": 0.9788732394366197,
+            "derivative_at_zero": -0.02112676056338028,
+            "exact_convolution_agrees": true
+          },
+          {
+            "L": 2,
+            "B": 71,
+            "spacing": 71,
+            "r0": 0.317122381314087,
+            "derivative_at_zero": -0.2586849521830965,
+            "exact_convolution_agrees": true
+          },
+          {
+            "L": 3,
+            "B": 223,
+            "spacing": 1,
+            "r0": 0.9932735426008968,
+            "derivative_at_zero": -0.006726457399103139,
+            "exact_convolution_agrees": true
+          },
+          {
+            "L": 3,
+            "B": 223,
+            "spacing": 223,
+            "r0": 0.3190377260997798,
+            "derivative_at_zero": -0.2583082979720758,
+            "exact_convolution_agrees": true
+          },
+          {
+            "L": 4,
+            "B": 519,
+            "spacing": 1,
+            "r0": 0.9971098265895953,
+            "derivative_at_zero": -0.002890173410404624,
+            "exact_convolution_agrees": true
+          },
+          {
+            "L": 4,
+            "B": 519,
+            "spacing": 519,
+            "r0": 0.31954626339414355,
+            "derivative_at_zero": -0.2582050107233998,
+            "exact_convolution_agrees": true
+          }
+        ],
+        "local_checks": [
+          {
+            "L": 2,
+            "N": 10,
+            "A1": "0.9788612757597960126741687741769875338320111273607013241326832106120605",
+            "A2_over_A1": "0.9788612467856461715418545782287431717750735362500969513246528622668369",
+            "scaled_correction": "-0.01918824155767482880732272133486882185417298576037083830189924630032",
+            "predicted_limit": "-0.02112676056338028169014084507042253521126760563380281690140845070422535"
+          },
+          {
+            "L": 2,
+            "N": 100,
+            "A1": "0.9788731087065610662643315371691166500973836752481510369410899619952111",
+            "A2_over_A1": "0.9788731086859456235877342229930232012066679878140245208337108902509131",
+            "scaled_correction": "-0.02092010785515553998910984868217313030504834762596238090544717784",
+            "predicted_limit": "-0.02112676056338028169014084507042253521126760563380281690140845070422535"
+          },
+          {
+            "L": 2,
+            "N": 1000,
+            "A1": "0.9788732381175167806175188200389036747625694634750010942019604432733487",
+            "A2_over_A1": "0.9788732381174976117031781991601447164062372392394477133150908267922932",
+            "scaled_correction": "-0.0211059537057068952923109239741199224820279915165360115600557024",
+            "predicted_limit": "-0.02112676056338028169014084507042253521126760563380281690140845070422535"
+          }
+        ]
+      },
+      "stored_original_json_equal": true,
+      "stored_original_byte_identical": false
+    }
+  ],
+  "completed_utc": "2026-10-18T23:50:01.228431+00:00",
+  "all_selected_runs_passed": true,
+  "independent_additional_checks": {
+    "status": "PASS",
+    "diagonal_routing": {
+      "rectangles": 64,
+      "results": [
+        {
+          "M": 2,
+          "N": 2,
+          "reachable_states": 2,
+          "index": 2
+        },
+        {
+          "M": 2,
+          "N": 3,
+          "reachable_states": 6,
+          "index": 1
+        },
+        {
+          "M": 2,
+          "N": 4,
+          "reachable_states": 4,
+          "index": 2
+        },
+        {
+          "M": 2,
+          "N": 5,
+          "reachable_states": 10,
+          "index": 1
+        },
+        {
+          "M": 2,
+          "N": 6,
+          "reachable_states": 6,
+          "index": 2
+        },
+        {
+          "M": 2,
+          "N": 7,
+          "reachable_states": 14,
+          "index": 1
+        },
+        {
+          "M": 2,
+          "N": 8,
+          "reachable_states": 8,
+          "index": 2
+        },
+        {
+          "M": 2,
+          "N": 9,
+          "reachable_states": 18,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 2,
+          "reachable_states": 6,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 3,
+          "reachable_states": 9,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 4,
+          "reachable_states": 12,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 5,
+          "reachable_states": 15,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 6,
+          "reachable_states": 18,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 7,
+          "reachable_states": 21,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 8,
+          "reachable_states": 24,
+          "index": 1
+        },
+        {
+          "M": 3,
+          "N": 9,
+          "reachable_states": 27,
+          "index": 1
+        },
+        {
+          "M": 4,
+          "N": 2,
+          "reachable_states": 4,
+          "index": 2
+        },
+        {
+          "M": 4,
+          "N": 3,
+          "reachable_states": 12,
+          "index": 1
+        },
+        {
+          "M": 4,
+          "N": 4,
+          "reachable_states": 8,
+          "index": 2
+        },
+        {
+          "M": 4,
+          "N": 5,
+          "reachable_states": 20,
+          "index": 1
+        },
+        {
+          "M": 4,
+          "N": 6,
+          "reachable_states": 12,
+          "index": 2
+        },
+        {
+          "M": 4,
+          "N": 7,
+          "reachable_states": 28,
+          "index": 1
+        },
+        {
+          "M": 4,
+          "N": 8,
+          "reachable_states": 16,
+          "index": 2
+        },
+        {
+          "M": 4,
+          "N": 9,
+          "reachable_states": 36,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 2,
+          "reachable_states": 10,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 3,
+          "reachable_states": 15,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 4,
+          "reachable_states": 20,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 5,
+          "reachable_states": 25,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 6,
+          "reachable_states": 30,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 7,
+          "reachable_states": 35,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 8,
+          "reachable_states": 40,
+          "index": 1
+        },
+        {
+          "M": 5,
+          "N": 9,
+          "reachable_states": 45,
+          "index": 1
+        },
+        {
+          "M": 6,
+          "N": 2,
+          "reachable_states": 6,
+          "index": 2
+        },
+        {
+          "M": 6,
+          "N": 3,
+          "reachable_states": 18,
+          "index": 1
+        },
+        {
+          "M": 6,
+          "N": 4,
+          "reachable_states": 12,
+          "index": 2
+        },
+        {
+          "M": 6,
+          "N": 5,
+          "reachable_states": 30,
+          "index": 1
+        },
+        {
+          "M": 6,
+          "N": 6,
+          "reachable_states": 18,
+          "index": 2
+        },
+        {
+          "M": 6,
+          "N": 7,
+          "reachable_states": 42,
+          "index": 1
+        },
+        {
+          "M": 6,
+          "N": 8,
+          "reachable_states": 24,
+          "index": 2
+        },
+        {
+          "M": 6,
+          "N": 9,
+          "reachable_states": 54,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 2,
+          "reachable_states": 14,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 3,
+          "reachable_states": 21,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 4,
+          "reachable_states": 28,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 5,
+          "reachable_states": 35,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 6,
+          "reachable_states": 42,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 7,
+          "reachable_states": 49,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 8,
+          "reachable_states": 56,
+          "index": 1
+        },
+        {
+          "M": 7,
+          "N": 9,
+          "reachable_states": 63,
+          "index": 1
+        },
+        {
+          "M": 8,
+          "N": 2,
+          "reachable_states": 8,
+          "index": 2
+        },
+        {
+          "M": 8,
+          "N": 3,
+          "reachable_states": 24,
+          "index": 1
+        },
+        {
+          "M": 8,
+          "N": 4,
+          "reachable_states": 16,
+          "index": 2
+        },
+        {
+          "M": 8,
+          "N": 5,
+          "reachable_states": 40,
+          "index": 1
+        },
+        {
+          "M": 8,
+          "N": 6,
+          "reachable_states": 24,
+          "index": 2
+        },
+        {
+          "M": 8,
+          "N": 7,
+          "reachable_states": 56,
+          "index": 1
+        },
+        {
+          "M": 8,
+          "N": 8,
+          "reachable_states": 32,
+          "index": 2
+        },
+        {
+          "M": 8,
+          "N": 9,
+          "reachable_states": 72,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 2,
+          "reachable_states": 18,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 3,
+          "reachable_states": 27,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 4,
+          "reachable_states": 36,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 5,
+          "reachable_states": 45,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 6,
+          "reachable_states": 54,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 7,
+          "reachable_states": 63,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 8,
+          "reachable_states": 72,
+          "index": 1
+        },
+        {
+          "M": 9,
+          "N": 9,
+          "reachable_states": 81,
+          "index": 1
+        }
+      ],
+      "scope": "Exact breadth-first enumeration; finite examples supplement the group-quotient proof."
+    },
+    "toroidal_output_comparison": {
+      "json_equal": true,
+      "byte_identical": false,
+      "identical_after_crlf_to_lf": true,
+      "original_bytes": 2538,
+      "rerun_bytes": 2617,
+      "original_crlf": 0,
+      "rerun_crlf": 79
+    }
+  },
+  "master_update": {
+    "version": "2.1",
+    "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER.md",
+    "sha256": "24099c9bd2a454366ed12e16f0bcbd1edde6961c15a15e721e143d10f3ac1aa8",
+    "bytes": 73293,
+    "words": 9453,
+    "source_count": 35,
+    "before_sha256": "47e81e3830e210bf42c7281fa6d2e6383b460b83b8aa52c2378edfb14bf8efbc",
+    "before_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\GEOMETRY_MASTER_before_github_2.1.md",
+    "retained_drive_receipt": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER_REVIEW_2026-10-18.json",
+    "remote_docs_or_repositories_modified": false,
+    "validated": [
+      "section sequence",
+      "source-reference resolution",
+      "display-math delimiters",
+      "run outcomes",
+      "manifest matches",
+      "pre-upgrade preservation"
+    ]
+  },
+  "limitations": [
+    "Selected source and bounded executable review, not every file or archive member.",
+    "Matching repository manifests establishes manifest-relative identity, not independently authenticated historical authorship or publication time.",
+    "Finite synthetic checks and arithmetic reproduction do not prove unrestricted mathematical theorems.",
+    "No historical sampler replay, original companion recovery, or physical experiment.",
+    "General sequential solver and separate rational certificate verifier not executed.",
+    "Toroidal root release dependencies absent from pinned Git tree; no claim about every archived package."
+  ],
+  "finalized_utc": "2026-10-18T23:52:07.789885+00:00"
+}
