@@ -1,0 +1,112 @@
+Geometry Extension Test — Dynamic 72-Bank, 24→12→6 Hierarchy, and 39-Cell Screen
+Verdict
+The moving-lattice mechanism did not pass.
+The frozen 72-model bank failed in every outcome lane. The 24→12→6 residue hierarchy also failed. No tested result supports a stable rotating or oscillating lattice, a full  empirical state space, or a three-clock \(T^3\to T^2\) mechanism.
+One narrower result is worth preserving as a prospective lead: in the later 20-call half, missing outputs were depleted on the rare  transitions of the fixed 39-cell golden screen and concentrated on the common  transitions. That association survived the locked family correction and several post-result stress checks. It is not a geometry confirmation because:
+1.	the older/discovery half leaned in the opposite direction;
+2.	the complete 40-call corpus was null;
+3.	the source R4-A construction explicitly did not define a failure or clog outcome;
+4.	the source-defined departing transition  was null—the association occurred at the one-opportunity-lagged arriving transition .
+The right status is therefore:
+Dynamic lattice: rejected under the frozen bank. Fixed 39-screen: one specific, later-cohort missing-output lead requiring a new prospective test.
+Data-integrity correction
+Four of the records previously described as part of a “21-call holdout” are exact re-shares of older training calls. Their complete ordered assistant-output timestamps agree to less than  seconds and their exact-Checking label vectors are identical:
+New label	Older call	Output rows	Exact Checking outputs	
+Audit_12	office_metaphor	369	129	
+Audit_15	seventeenth_share	311	36	
+Audit_16	thirteenth_share	305	31	
+Audit_17	twelfth_share	220	18	
+Those four were removed before this run. The usable checking corpus is 23 older calls plus 17 genuinely nonoverlapping newer calls: 40 unique calls total, split chronologically 20/20.
+This also changes how the earlier report should be read. Its nominal q=6 output result was not obtained from a completely independent 21-call holdout; Audit_12 was the old office_metaphor call under a new wrapper. The earlier result already became null when Audit_12 was removed (p=.119), which is consistent with the overlap correction rather than evidence for a lattice.
+What was frozen
+The implementation lock was written and hashed before any score in this extension was calculated.
+-	Addresses: zero-based eligible-opportunity indices, never raw platform node IDs.
+-	Missing outputs: retained as input placeholders.
+-	Input and assistant-output indices: analyzed separately.
+-	Call chronology: earliest native message time, with duplicate calls removed.
+-	Dynamic bank: , constants (\phi,\sqrt2,\sqrt3), sine/triangle/sawtooth-position/clipped-square waveforms, and rotation/oscillation branches—72 candidates total.
+-	Phase grid: 48 fixed offsets.
+-	Apertures: ; clipped square uses .
+-	Selection: discovery calls only; confirmation calls untouched.
+-	Null: 10,000 within-call circular shifts with the maximum statistic across each frozen family.
+-	Dynamic passing rule: familywise p<.05, AUC≥.60, bootstrap lower bound>.50, correct direction in ≥75% of evaluable calls, no dominant call, and call-order dependence if rotation wins.
+The Word hypothesis fixed the 72 model families but did not specify a numerical (\theta_0)/threshold search grid. It also named raw response-node integers as its primary address, which conflicts with the later instruction to avoid representation artifacts. This run is therefore a locked, user-compliant implementation of the model family—not a byte-for-byte execution of every older address convention.
+1. Frozen 72-model dynamic bank
+Outcome lane	Winning candidate	Confirmation AUC	Call-bootstrap 95% interval	Max-72 p	Correct-call direction	Verdict	
+Repository composite, strict	P24 / √2 / sine / rotation	.5615	[.4757, .6535]	.7985	75.0%	Fail	
+Repository composite, broad sensitivity	P12 / √2 / sine / rotation	.5428	[.4468, .5987]	.9345	58.3%	Fail	
+Input-linked exact Checking	P24 / √2 / sine / rotation	.5186	[.4926, .5353]	.8760	60.0%	Fail	
+Assistant-output exact Checking	P12 / √3 / sine / oscillation	.5161	[.4917, .5349]	.8725	60.0%	Fail	
+Missing output	P24 / φ / clipped square / oscillation	.5452	[.4814, .5807]	.6185	52.9%	Fail	
+None reached AUC .60. None had a bootstrap lower bound above .50. None passed the max-72 permutation test. The rotation-family call-order tests were also null (family p=.613–.841 for the reported rotation families). Every primary lane failed the source stop rule.
+Conclusion: do not add constants, waveforms, phases, or address rules to rescue the 72-bank hypothesis.
+2. Formal 24→12→6 and  geometry
+The tested hierarchy compared mod-6 structure, the additional split from 6 to 12, the additional split from 12 to 24, global mod-24 structure, and a parallel mod-4 screen. All statistics used within-call circular-shift nulls.
+Lane	Strongest hierarchy component	Family p	Holm across lanes	
+Repository composite, strict	mod-12 given mod-6	.9521	1.0000	
+Input-linked exact Checking	mod-24 given mod-12	.7540	1.0000	
+Assistant-output exact Checking	mod-12 given mod-6	.1198	.4792	
+Missing output	mod-24 given mod-12	.3821	1.0000	
+The output lane's raw mod-12-given-mod-6 comparison was p=.0359, but it did not survive its frozen five-test family (p=.1198) or lane correction (p=.4792).
+The algebraic distinction matters: , but one diagonal index \(n\mapsto(n\bmod6,n\bmod4)\) visits only 12 states before returning. The other 12 require an independently declared offset orbit. A 24-tooth cyclic screen is therefore not automatically evidence of the noncyclic product .
+Conclusion: the corpus did not supply empirical support for the formal 24→12→6 construction.
+3. Fixed 39-cell golden screen
+The locked screen used
+[ b_n=\left\lfloor39{n\phi^{-2}}\right\rfloor, ]
+with three tests: global 39-cell dispersion, the three strands \(b_n\bmod3\), and  versus  arrival transitions.
+Lane	Strongest screen test	Family p	Holm across lanes	
+Repository composite, strict	Three strands	.5503	1.0000	
+Input-linked exact Checking	Three strands	.0625	.1875	
+Assistant-output exact Checking	39 cells	.6871	1.0000	
+Missing output	Arrival +14 vs +15	.00110	.00440	
+A further Holm correction across all 12 primary family-by-lane tests in this report gives p=.0132 for the missing-output screen result.
+Effect direction
+For the 20 confirmation calls, excluding each call's undefined first arrival transition:
+Arrival transition	Missing outputs	Opportunities	Risk	
++14, cross-strand slip	4	634	0.63%	
++15, same-strand step	142	5,417	2.62%	
+The +14/+15 risk ratio is .241 (Haldane odds ratio .264). This is not a concentration on the rare cross-strand slips. It is the opposite: missing outputs largely avoided +14 slips and occurred on +15 same-strand steps.
+Stress checks that the later-half association survived
+-	Every one-call deletion retained a screen-family p below .003.
+-	Newer nonoverlapping calls only: 1/498 missing on +14 versus 111/4,243 on +15; screen-family p=.00030.
+-	Calls beginning after the August 25 R4-A write-up: 0/304 versus 64/2,591; screen-family p=.00150.
+-	Excluding the long-SRT wrapper: screen-family p=.00080.
+-	Preserving the number of events specifically among  positions: jump-specific p=.00100.
+-	Scanning all 39 phase origins after the result: the locked origin ranked first; max-39 p=.0070.
+-	Scanning nearby screen sizes 30–48 after the result: q=39 ranked first; max-19 p=.00450.
+These checks show that the later-cohort association is not a single-call, duplicate, wrapper, origin, or nearby-q artifact.
+Checks it failed
+The association is not stable across the whole corpus:
+Slice	+14 missing risk	+15 missing risk	+14/+15 RR	Screen-family p	
+Discovery half	21/621 = 3.38%	121/5,277 = 2.29%	1.475	.1758	
+All 23 older calls	24/757 = 3.17%	152/6,451 = 2.36%	1.346	.1932	
+Confirmation half	4/634 = 0.63%	142/5,417 = 2.62%	.241	.00110	
+All 40 unique calls	25/1,255 = 1.99%	263/10,694 = 2.46%	.810	.2129	
+The older half points in the opposite direction, and pooling all 40 calls removes the association.
+There is also a one-step alignment dependency. R4-A defines the departing transition \(d_n=(b_{n+1}-b_n)\bmod39\). At that source-defined alignment, the missing-output comparison was null: 21/636 on +14 versus 126/5,435 on +15, raw p=.184. The significant association uses the arriving transition . Across seven lags from −3 through +3, lag −1 won with max-lag p=.00220; the neighboring lag −2 was only raw p=.0449.
+Conclusion: preserve this as a precise later-cohort, one-opportunity-lagged missing-output lead. Do not call it a stable 39-screen mechanism.
+4. Geometry that could not be run honestly
+-	Three-clock \(T^3\to T^2\) weave: the mathematical quotient is well-defined, but the call records do not contain a third independently observed clock or reset trace. Constructing all phases from message number would collapse the test back to an ordinary single rotation.
+-	R4-B moving screen: no independent screen rotation rate, sawtooth period/amplitude, initial phase, aperture mask, or clog statistic is observed in the calls. R4-A itself says those must be declared before execution.
+-	Sawtooth speed: the 72-bank tested sawtooth position (linear ramp plus wrap), not a linearly accelerating speed whose integral curves between resets.
+5. Smallest decisive follow-up
+Freeze one test before collecting additional calls:
+1.	Endpoint: missing output only; keep every input opportunity and placeholder.
+2.	Screen: q=39, (\alpha=\phi^{-2}), floor registration, call-start .
+3.	Alignment: explicitly choose arriving —not departing —because that is the observed lead.
+4.	Direction: predict lower missing-output risk on +14 cross-strand slips than on +15 same-strand steps.
+5.	No q, origin, lag, waveform, or outcome switching.
+6.	Use new, nonoverlapping calls only and a within-call circular-shift null.
+If that single prediction fails, close the empirical 39-screen link while preserving the deterministic screen mathematics.
+Reproducibility
+-	Implementation lock — SHA-256 6eee96870a00b517e4c14dba3a70876eeb99cc7e93011a1a0c8ed00496099491
+-	Complete results — SHA-256 c3dfa96602c0eda90e376a69c81bb6d5083eff52556532d86e66150145900f67
+-	Family summary
+-	Duplicate-call audit
+-	Chronological call roster
+-	All 72-model scores
+-	Missing-output robustness diagnostics
+-	Per-call missing-output effects
+-	Leave-one-call-out audit
+The result files preserve every miss, every correction, and the duplicate mapping. No source transcript or source audit file was altered.
+
