@@ -1,7 +1,7 @@
 # Geometry Master
 
 **A portable working reference for Geometry, Geometry Maximization, Hidden Quotient, GQG, and Toroidal**  
-Consolidation 2.4 · Source, repository, and supplied-archive review: 18 October 2026 · Incorporates the later v2.6, September 28 integration, current direct-service correction, verified finite tools, rectangular extension, and recovered phase/lattice/throat releases
+Consolidation 2.7 · Latest archive review: 19 October 2026; prior source/repository review: 18 October 2026 · Incorporates the later source v2.6, September 28 integration, current direct-service correction, verified finite tools, rectangular extension, recovered phase/lattice/throat releases, Villain repair, relay execution, prior circle-measure corrections, reported isotope example, and reviewed three-tempo protocol
 
 This file carries the definitions, worked examples, mathematical results, evidence limits, and next work needed to continue the geometry projects in another chat or workspace. Its organizing question is: **which distinctions must a retained description preserve for the particular observation, recovery, or prediction being made?**
 
@@ -17,6 +17,12 @@ The projects share this question while keeping their mathematical objects distin
 
 **What changed in 2.4.** Recovered the intact Geometry Maximization v2.0 and Toroidal Geometry v1.0 packages from the supplied collection. Fresh verification passed 10 phase tests and 26 lattice/throat/reporting tests, reproducing all 11 examples and 50 generated artifacts byte-for-byte on this runtime. Added the rational approximation bound, strict bin-margin certificate, and its recorded floating-point boundary counterexample. The runnable lattice/throat access gap is closed by this archive; the historical sampler discrepancy and production execution work remain open. [S45–S48]
 
+**What changed in 2.5.** Integrated four continuity sources. Added the elementary Villain all-sector non-descent proof and sufficient loop-current refinement, the explicit phase-label counterexample, corrected automorphic-density formulas, and conditional silver-clock arithmetic. Recovered the Corner Relay C6 artifact, freshly passed its 20 tests and reproduced its reference trace. The mathematical review rechecked specific errors in the supplied circle-dynamics survey and retained the orbit note's operational audit. The 2.6 archive review confirms that Geometry v1.3 and Math 3 already supplied the density and Brjuno repairs; the 2.5 checks were independent verification and consolidation, not their first derivation. Completed results and separately unfinished experiments retain separate statuses. [S49–S55]
+
+**What changed in 2.6.** Reconciled two nested/repeated archives into 116 distinct texts. Freshly reproduced the recovered equation-level program with the exact recorded source hash and identical results: 500,000 phase steps, 325 monomials and 119 phase cells plus their boundaries. Added a two-record LBCO witness-deletion example with explicit uncertainty limits. Identified the three-tempo protocol's missing phase-to-measurement link, mismatched randomization test and misleading endpoint name; supplied a prospective amendment. Corrected credit for the existing v1.3/Math 3 repairs and separated old A.10 scaffolds and toy prime-clock classifiers from completed toroidal results. [S56–S63]
+
+**What changed in 2.7.** Screened the mixed read-05 archive: 4,921 entries, 1,647 distinct nonempty contents, 480 exact prior matches and 37 additional whitespace-normalized matches. Added an objective-based finite loss calculation and the distinction between sufficient information and an allowed rule that can use it, drawing on selected material from the supplied Elimination Geometry v1 draft. Restored explicit visibility of the already reported 72-bank failure and full-corpus 39-screen null. The remainder has a relevance/coverage catalogue; unreviewed background is not silently incorporated. [S64–S67]
+
 **Read route.** §§2–4 give the core and Hidden Quotient; §5 gives the phase model; §§7–9 give Toroidal; §§11–13 give practical acquisition, timing, and quantitative examples; §14 resolves evidence and version issues. This is one self-contained drop-in reference; source links are in §16.
 
 ## 1 Current position
@@ -24,6 +30,7 @@ The projects share this question while keeping their mathematical objects distin
 | Area | Current result | Limit that remains operative |
 |---|---|---|
 | Witness-relative geometry | Exact descent, typed calculus, coverage envelope, canonical refinement, and available-coordinate repair | Set-level recovery does not supply regularity, causal availability, or a mechanism |
+| Objective-based finite loss | Exact weighted within-fiber squared-loss floor and attained mean rule | Requires the stated weights, objective and rule class; an available coordinate need not be usable by a restricted rule |
 | Acquisition and approximation | Exact finite hitting-set and sequential formulations; n−1 versus ceil(log₂ n) query gap; uniform path-error bound | Declared menus, costs, complete domains, and uniform premises are required |
 | Finite repair software | Recovered engine and label-conditioned batch optimizer; 39 tests and separate 4,096-table verification freshly pass | Exact on declared finite inputs; exponential menu search; batch optimizer is not the general sequential solver |
 | Operational pipelines | Exact normalization and calibration examples; typed observer and action records; compatible-join checks | A diagram or summary cannot establish which real processing stages or actions occurred |
@@ -32,6 +39,10 @@ The projects share this question while keeping their mathematical objects distin
 | Hidden Quotient | Correct locally null kernel and norm; qualified structural theorem; explicit restoration and incompleteness examples | Recovery, completion, and predictive autonomy are different problems |
 | GQG | Claim-relative witness fidelity and a typed empirical constraint-response instrument | Observable differences do not identify hidden actors, motives, or implementations |
 | Toroidal geometry | Integer/modular cut flux, membrane constraints and throat kinematics; recovered package passes 26 tests and six examples | Deterministic references do not supply the production Monte Carlo sampler, mixing evidence or physical verdicts |
+| Elementary Villain attempt | Every parity fiber contains different toggle laws; loop-current magnitude repairs the averaged witness | A sufficient one-attempt statistic is not a proved autonomous full-sampler state |
+| Reported isotope example | Two published LBCO exponent records lose observable identity under the stated projection | Report-level non-descent; reported uncertainty widths are not guaranteed physical bounds |
+| Three-tempo comparison | Beat-derived calibration and exact randomization-support checks completed; amendment proposed | Physical comparison NOT_RUN; marker/measurement link and new design freeze required |
+| Corner Relay C6 | Recovered deterministic artifact freshly passes 20 tests and reproduces its reference trace | Structural key labels and tested histories do not establish production cryptographic security |
 | Toroidal sector dynamics | No exact finite Markov order for the specified sector process at any fixed attempted-microtick spacing | The theorem does not exclude every augmented or finite-dimensional hidden-state model |
 | Rectangular extension | Reviewed extension to fixed side lengths at least two and fixed finite J>0, 0<t<1, under the same ideal proposal rule | Separate local derivation; no extension to truncated currents, adaptive clocks or practical error guarantees |
 | OMNIBUS evidence ledger | 3,088 episode keys; linked proposition and deletion records; checked internal joins | 2,660 rows are labeled unadjudicated screening candidates; all 113 lineage records leave descendant repair unknown |
@@ -99,6 +110,14 @@ A useful exact coverage envelope is available. Suppose W is total on D but valid
 
 The isotope/material work in **New geometry** remains a separate freeze-ready synthesis. Its central lesson is that atomic number or isotope mass alone need not determine a material response; pressure, material state, and the specific response witness can matter. This consolidation does not change its chemistry freeze or turn its literature examples into new measurements. [S3]
 
+Closeness under one metric and separation under another do not, by themselves, prove an exact same-fiber collision. For example, the identity observation on {0,0.001} loses nothing, although rescaling its metric by 10,000 changes the pair's distance from 0.001 to 10. A claim about approximate empirical fibers needs a declared grouping rule, tolerance, uncertainty and target. The read-05 planetary note is retained as a possible application, without importing its astronomical reconstruction as an established non-descent example. [S64, S65]
+
+### A located reported-data example
+
+Take D to be exactly the two reported oxygen-isotope exponent records for LBCO at x=1/8 in the same study. Let W return the reported exponent and let π retain material, nominal composition, isotope intervention and study while deleting the observable/probe label. The reported spin-stripe ordering-temperature exponent is −0.57(6); the superconducting-transition-temperature exponent is +0.46(6). Equal π therefore does not determine the reported W. Keeping the typed observable repairs this two-record example. [S61]
+
+The centers differ by 1.03. Using the displayed ±0.06 widths as intervals gives [−0.63,−0.51] and [0.40,0.52]; exact interval arithmetic bounds their separation by [0.91,1.15]. These reported widths are not sure bounds on the unknown physical parameters or a declared simultaneous confidence set. The source records a passed empirical gate; this master adopts **report-level witness-deletion non-descent**, with any physical interval certification conditional on its error model. No new experiment, global fiber geometry, unobserved-fiber conclusion, or minimal causal refinement follows. The chemistry freeze is unchanged. [S57, S58, S61]
+
 ## 3 Recovery and prediction
 
 ### Autonomous retained states
@@ -161,6 +180,39 @@ For a finite model and approximate retained transition kernel K, suppose every f
 \]
 
 Conditional next-label laws are mixtures of certified rows. Couple each step while histories agree; the chance of any disagreement gives the bound. A fitted trace or sampled maximum does not establish the required uniform row premise. Joint-path distances have the horizon monotonicity above; terminal-only distances need not. Refinement comparisons keep the target B fixed: changing B along with the retained record is a different problem. This guarantee was already in v2.4 and is recovered here from the current v2.6 source. [S16, §7]
+
+### Objective-based loss and the rules allowed to use information
+
+The supplied Elimination Geometry draft makes a useful distinction: an optimal answer available separately for every case need not be realizable by one allowed rule shared across cases. Fix a local objective H_x(a), finite baseline J(x)=inf_a H_x(a), and its excess objective δ_x(a)=H_x(a)−J(x)≥0. The cost of a chosen implementation, the infimum over an allowed class, and the question of whether that infimum is attained are separate. These costs inherit the objective's units; they are not automatically energy, runtime or an empirical defect rate. [S66, selected §§1–3]
+
+Here is an exact finite connection to (π,W). Let D be finite and nonempty, p_x>0 with Σp_x=1, W:D→ℝ, and Q=imπ. Use squared-error cost and allow every real-valued rule g:Q→ℝ. For each attained q put
+
+\[
+P_q=\sum_{\pi(x)=q}p_x,\qquad
+\bar W_q=P_q^{-1}\sum_{\pi(x)=q}p_xW(x).
+\]
+
+Then
+
+\[
+\sum_xp_x\bigl(g(\pi x)-W(x)\bigr)^2
+=\underbrace{\sum_xp_x\bigl(W(x)-\bar W_{\pi x}\bigr)^2}_{L^*(\pi)}
++\sum_qP_q\bigl(g(q)-\bar W_q\bigr)^2.
+\]
+
+Expanding the square within a fiber makes the cross term vanish because its weighted centered targets sum to zero. Thus g(q)=W̄_q attains the minimum L*. With these positive weights, L*=0 exactly when W descends through π. This is the standard finite conditional-variance identity, worked here on the project's retained-observation problem. It supplies a cost of information loss under a declared objective. [S64, S65]
+
+For a balanced target W∈{0,1} erased by a constant observation, the best constant answer c has
+
+\[
+L(c)=\tfrac12c^2+\tfrac12(c-1)^2=(c-\tfrac12)^2+\tfrac14.
+\]
+
+The minimum is 1/4 at c=1/2. Retaining W removes the loss when the allowed rule may use W. If the rule remains constant-only, retaining W still leaves the same 1/4 minimum. The attained pair (π,W) is sufficient information at set level; admissible access and use remain additional requirements. This example establishes no claim about the actual architecture of a deployed AI system. [S64–S66]
+
+For P(W=1)=p, the erased-label minimum is p(1−p). It can be small even while the two target values remain one unit apart. A weighted mean objective and the worst-case diameter bound above are different guarantees. In a general rule class, zero infimum also need not mean exact attainment: on a one-point domain, target zero and allowed constants c∈(0,1] give costs c²>0 with infimum zero. The unrestricted finite-label squared-loss problem above does attain its minimum; the open constant class does not. [S64–S66]
+
+Exact rational checks covered all 15 partitions of a four-state example under three positive weight vectors, including 4,665 decomposition evaluations and 180 refinement comparisons. The displayed expansion proves the finite identity; the calculations are supporting fixtures. Generalization, measurement, causal and physical claims require their own premises and evidence. [S65]
 
 ### The clock correction
 
@@ -285,6 +337,8 @@ S_N=\sum_{n=0}^{N-1}\sigma_n=N\tau+\rho_N-\rho_0,
 \qquad |S_N-N\tau|<1.
 \]
 
+The finite-label failure has a simple witness: with θ₀=0, n=1 and n=8 both have (s,σ)=(2,0), but their next slips are 0 and 1 respectively. The continuous phase distinguishes these states and supplies the exact repair. The continuity intake independently reproduced this pair. [S49, S55]
+
 At θ₀=0 and N>0, S_N=ceil(Nτ): 39 departures give 5 slips, 507 give 53, and 10,000 give 1,034. Complete slip gaps are 9 or 10. Under uniform initial phase,
 
 \[
@@ -326,6 +380,25 @@ The recovered §35 audit reports 36,237 exact assertions, including expected non
 The v1.61 proof-clarity patch extends the smooth phase frame to density weight λ: ρ_λ(f)a=fD_h a+λ(D_h f)a. For the existing smooth conjugate rotation F and h′>0, time acts by T_λa=(F′)^λ(a∘F); multiplication by (h′)^λ intertwines this with Koopman action. Its natural squared Hilbert norm integrates |a|² against (h′)^(1−2Re λ)dx. Positivity supplies a definite logarithm for complex powers. These are specified representation maps, not a physical field identification. [S31]
 
 Uniform q-point phase averaging exactly integrates the products needed for the stated cocycle identity when each input frequency has absolute value at most B and q>3B. Thus q=39 suffices for B=12. Outside that band, aliasing can destroy the sampled formula's antisymmetry; antisymmetrizing does not generally restore the cocycle identity. These uniform phase samples are different from bin indicators. Brackets add frequencies, so a finite band is a test domain rather than a closed finite-dimensional Lie algebra or a finite predictive state. The patch's analytical extension and the separate v1.6 executable receipt retain distinct provenance. [S31]
+
+### Automorphic measures with an explicit chart convention
+
+For a smooth orientation-preserving circle diffeomorphism g=h⁻¹Rαh, with h′>0, define an s-automorphic probability by μs(gE)=∫E(g′)^s dμs. If μs=ρs dx, the change-of-variables identity is
+
+\[
+\rho_s(gx)g'(x)=\rho_s(x)(g'(x))^s,
+\qquad
+d\mu_s=Z_s^{-1}(h')^{1-s}dx,
+\quad Z_s=\int_0^1(h')^{1-s}dx.
+\]
+
+The formula follows from h′(gx)g′(x)=h′(x). Thus s=0 gives the occupation density h′, s=1 gives Lebesgue measure, and s=2 gives normalized 1/h′. Smooth positive h′ makes these finite and mutually absolutely continuous. The exponent agrees with the tensor-density norm above when s=2Reλ. Neither this formula nor its smoothness assumptions may be replaced by the supplied survey's unqualified (h′)^s expression. [S50, S54]
+
+The source phase model already constructs h explicitly. General existence theorems are background: Brjuno's local analytic circle results retain smallness or strip hypotheses; unrestricted global analytic linearization uses the stronger Herman arithmetic class. The review records the primary sources and also corrects the survey's bounded-type Siegel boundary, small-divisor notation, negative-exponent explanation and Arnold-family domain. Those errors are not adopted into this master. [S54]
+
+Let φ=(1+√5)/2, α₀=α, αn+1={1/αn}, β−1=1 and βn=α₀⋯αn. For the Gauss-map convention Φ(α)=Σn≥0βn−1 log(1/αn), the present α=φ⁻² has αn=φ⁻¹ for n≥1. Hence Φ(α)=3logφ≈1.443635475178810 by a geometric sum. This is a contextual arithmetic identity. The phase slip bound is stronger and more specific than a general continued-fraction return-time estimate because its coboundary telescopes at **every** N. It does not require renormalization theory. [S50, S55]
+
+**Correction lineage.** These density and Brjuno formulas already appear in Geometry v1.3 §§26–27 and are explicitly carried into Math 3. The newly supplied v1.3 export matches the earlier repository text after whitespace-only normalization. Consolidation 2.5 independently rechecked and incorporated the repairs; it did not originate them. Retain the earlier corrected source when an older survey still prints the incompatible formulas. [S63]
 
 ## 6 GQG and empirical interpretation
 
@@ -392,6 +465,19 @@ The periodic cell complex has H₁(T³;ℤ)≅ℤ³. Choose reference cycles Γ�
 With charge-six sources, a₆=[I mod 6]∈H₁(T³;ℤ₆)≅ℤ₆³ and q=a₆ mod 2. Forced q=0 permits components 0,2,4 of a₆, not only zero. For direct gauge loops bounding a plaquette strip A, H(Γ′)H(Γ)=∏_(p∈A)B_p. Reference-loop signs therefore need not be path-independent when plaquette flux is present. [S2]
 
 For a separate two-dimensional routing chart ℤ_M×ℤ_N with moves (1,1) and (1,−1), the reachable subgroup has index gcd(2,M,N). In the quotient by those moves, the two axis generators become equal and have order dividing 2; the period relations further divide that order by M and N. Hence there are two sheets exactly when both periods are even. If either is odd, the chart is connected and (x+y) mod 2 is not a globally defined torus label. Independent breadth-first enumeration confirms all 64 cases M,N=2,…,9. This is a static routing statement. The separate temporal-memory extension in §8 requires the full stochastic-kernel argument. [S35]
+
+### Elementary Villain non-descent and a sufficient repair
+
+This is a separate, simpler kernel result. On the untruncated divergence-free h₆=0 domain, fix a reference loop Γα of length L and let Aα=Σℓ∈Γα Iℓ. For one scheduled unit-sector attempt with equally likely orientations and Villain link weight exp(−I²/(2J)), finite J>0, the toggle probability is
+
+\[
+W_\alpha(A)=\tfrac12\left[\min\{1,e^{-(L+2A)/(2J)}\}
++\min\{1,e^{-(L-2A)/(2J)}\}\right].
+\]
+
+Adding 2mΓα preserves divergence and parity while sending A to A+2mL. For sufficiently large m, Wα(A+2mL)=½[1+exp(−(L+2A+4mL)/(2J))], strictly varying with m. Every nonempty parity fiber therefore fails to determine this next-sector law. All eight fibers are nonempty: M=0 and I=ΣαqαΓα satisfy the constraints. At L=8,J=1, the q=000 states with A=0 and A=16 have toggle probabilities 0.018315638888734180… and 0.500000001030576811…. Fresh checks constructed 24 valid unequal-law pairs across eight sectors and three axes. [S49, S54, S55]
+
+Retaining (q,|Aα|) determines the averaged witness, while (q,Aα) determines both orientation-resolved acceptance ratios. This is a **completed sufficient-refinement result** for the declared attempt. Minimality, available acquisition cost, and autonomous evolution under a complete macro-kernel require their own arguments. q remains a valid observable. This elementary Villain proof and the complete ideal-cosine all-orders result below have different hypotheses and conclusions.
 
 ## 8 The declared toroidal dynamics
 
@@ -537,6 +623,12 @@ The old CLI's `--dynamics` argument hashes a file but does **not** load or enfor
 
 The historical recovery preserves reproduction-side code, reconstructed non-authoritative configuration, 80,000 retained measurements, 4,096 detailed prefix events, and 32 full state/RNG snapshots. Those differ from 88 digest-only checkpoints and from the missing companion's 96 reported post-initial full checkpoints. The original companion executable, authoritative configuration and complete event streams remain missing. The later handoff recovers exact replacement inputs, but configuration enforcement, lossless recording, restart/conformance validation, and full replay remain outstanding. Recovering a proof verifier does not close that execution gap. [S2, S25]
 
+### The older A.10 transition scaffold
+
+The supplied A10-03 transition table and A10-11 execution manifest remain **NOT_RUN / SCAFFOLD_ONLY**. The table lists eight proposed move classes but leaves executable-source and code bindings pending. The manifest explicitly distinguishes its public document snapshot from an implementation source tree. Its A10-01/02/03 byte counts and hashes match the archived files exactly; the seven named A10-04 through A10-10 hash-matched files are absent from these two ZIPs. This does not establish their absence elsewhere. A planning ceiling or required forecast is not a completed resource forecast or execution. [S56–S58]
+
+Those older scaffold statuses do not supersede the later, separately scoped finite/reference PASS results above. Those PASS results also do not complete the scaffold's source/build/inventory bindings, provide production mixing, or resolve the historical −1,352 discrepancy. [S57]
+
 ### What the earlier review independently checked
 
 The 8 September review checked G1 dimension arithmetic, the L=3 total/minimum and eight Fourier-reference probabilities, an exact 10,000-departure phase calculation, and character-return formulas against exact finite-group convolution for (L,d)=(2,1),(2,71),(3,1),(3,223),(4,1),(4,519). These checks did not replay the historical long sampler runs, rerun the full §35 audit, formally verify the all-orders proof, or perform a physical experiment. This consolidation refreshed the source documents and carried those limits forward.
@@ -564,6 +656,34 @@ This is continuum kinematics, without a derived gauge-force law, arbitrary-cente
 For the separate rotating-lattice comparator, x_n=frac(m[θ_n−g(t_n)]) is relative phase for m sites; nearest-site distance is ||x_n||/m. At regular spacing Δt without resets, the source convention gives x_{n+1}=frac(x_n+β), β=m(α+Δt/T_g) mod 1. Retaining distance alone generally loses predictive state.
 
 The two-clock specification remains prospective and **NOT_RUN**. Timing/reset, eligibility, outcome, holdout, and multiplicity inputs remain unresolved. Historical rotating-lattice nulls remain unchanged. [S2]
+
+**Earlier empirical outcomes, carried forward explicitly.** The Geometry Extension Test report states that all five primary lanes failed the frozen 72-model bank and that the tested 24→12→6 hierarchy did not pass. Its fixed 39-screen result is null over all 40 unique calls after four exact re-shares were removed from the purported holdout. A later 20-call missing-output association remains a narrow prospective lead: 4/634 missing outputs on +14 arrival steps versus 142/5,417 on +15 steps. The older half points oppositely, and the source-defined departing alignment was null. These are earlier source-reported findings, also retained in the prior continuity record; the row-level analyses were not rerun for this intake. They do not validate a physical rotating lattice, three independent clocks or a stable failure mechanism. [S49, S64, S67]
+
+### Conditional silver-clock comparison
+
+For f₀=39 Hz, ρP=23/19, ρS=(1+√2)/2 and fB=f₀(ρP−ρS), the beat period is TB=1/fB≈7.498396307814559 s. Seven nodes at three beats each and 169 BPM give TG=1260/169≈7.455621301775148 s. Their difference is 42.775006039411 ms; the phase deficit is 360(1−fBTG)≈2.053639410622 degrees per gate. Continuous accumulation of that relative phase gives TG/[60(1−fBTG)]≈21.782659399349 minutes per full slip. [S49, S55]
+
+These independently reproduced values are exact-form arithmetic under declared conventions. They do not establish physical coupling, entrainment or application benefit, and are not a run of the separately specified two-clock experiment. Changes to frequency, gate or beat convention require recalculation.
+
+### The three-tempo proposal: arithmetic and design repair
+
+The supplied prospective protocol compares 169, 168 and a beat-derived calibration tempo. Under the preceding frequency convention and TG=1260/b, define b*=1260fB=168.035930387791493… BPM. The printed setting 168.0359303878 is rounded. [S60]
+
+| Tempo b | Beat-phase deficit 360(1−fB TG), degrees/gate | 39 Hz cycles/gate |
+|---|---:|---:|
+| 169 | +2.053639410622 | 290.769230769231 |
+| 168 | −0.076993688125 | 292.5 |
+| b* | 0 by definition | 292.437456004768… |
+
+The magnitude ratio of the 169 and 168 beat deficits is about 26.6728. At fixed carrier 39 Hz, 169 is second among integer tempos 150–190. In the 369-pair grid of carriers 35–43 Hz and those tempos, 16 pairs are strictly better and three tie at ranks 17–19: (36,156), (39,169), (42,182). Thus “18/369” is their midrank, not a unique rank. [S58]
+
+**Measured phase needs its own map.** b* closes fB TG, while the proposed primary recording measures a continuous 39 Hz carrier. The source does not yet define a generated beat signal or calibrated map joining those phases, and its loop/reset markers still need specification. If markers use TG, marker-relative carrier phase advances by 2π·39TG; it does not close at b*. A global-time coefficient uses a different phase convention. The proposed room comparison can test a tempo-dependent acoustic response, but the calculation alone supplies no expected 39 Hz closure ordering or silver-beat mechanism. [S57–S60]
+
+**Randomization must match the test.** The original fixed six-session code schedule plus one random X/Y/Z-to-tempo map produces six possible allocations. Its proposed independent within-session enumeration of 6⁶=46,656 allocations does not follow from that assignment procedure. An inclusive exact p-value over six equally likely allocations is at least 1/6, so cannot meet p≤0.05. A separate exchangeability model would need justification. The prospective amendment instead uniformly assigns all six possible orders to six sessions, giving 6!=720 balanced schedules and a matching exact global-null test. It has not been adopted or run. [S58–S60]
+
+**Keep the outcome's actual definition.** ΔPLV=PLVroom−PLVref is a difference of concentrations, not the concentration of φroom−φref. For identical phases [0,π] in both channels these values are 0 and 1 respectively; with room [0,0] and reference [0,π] they are 1 and 0. Changing between them changes the endpoint. The proposed amendment keeps ΔPLV under its accurate name and freezes a marker-relative phase convention. [S58, S59]
+
+Status: **NOT_RUN — amendment proposed; apparatus, markers, randomization and analysis freeze still required.** The historical audio reconstruction, separate two-clock protocol, and this later comparison remain distinct. [S59, S60]
 
 ### Resonator as a worked witness example
 
@@ -652,6 +772,12 @@ On y²=x³+2x+2 over F₁₃, P=(2,1) and Q=(3,3) give the same retained x-coord
 
 For D={n∈ℤ:n≥2}, U(n)=2n+1, and primality bit q, let r(n)=(q(n),q(n)∧q(U(n))). Then r(3)=r(5)=(true,true), whereas r(7)=(true,false) and r(11)=(true,true). Thus the proposed Sophie Germain label is not autonomous. Even the genuine one-step window (q(n),q(U(n))) has the same counterexample. One additional future label is not automatically exact predictive closure. [S1, S3]
 
+### Exact symmetry and the exploratory atomic-number mapping
+
+For z^p z̄^r with nonnegative integer exponents, the declared sign symmetry requires p+r even and the order-three rotation requires 3|(p−r). Since p+r and p−r have the same parity, the combined condition is exactly 6|(p−r). The first angular terms are z⁶ and z̄⁶, becoming Φ³ and Φ̄³ for Φ=z². This follows from the specified symmetries; it does not establish a physical coupling. The recovered report's source-hash-identical program freshly reproduced 325 degree≤24 checks, 500,000 exact phase departures and its complete recorded JSON result. [S58, S62]
+
+The same report explores n=Z−1 for Z=1,…,118, with a label marked when its departing phase slips. At initial phase zero it marks 13 labels, three prime (59,97,107). Its exhaustive 119-cell/119-boundary phase sweep gives 12–13 marked labels and 1–6 marked primes. Under a uniform initial phase every Z has the same marking probability τ, so E[marked primes]/E[all marked labels]=30τ/(118τ)=30/118. That ratio is not E[marked primes/all marked labels]. This phase-averaged count has no prime enrichment and supplies no chemical prediction. The source's pasted CSV is truncated at row 88; the reproduced program generates all 118 rows, delivered separately from the unchanged source. [S57, S58, S62]
+
 ### Spectral witnesses need a declared observation
 
 The spectral increment supplies exact examples in which equal squared spectra lose an eta witness, and equal endpoint spectra lose spectral flow. To reuse either, declare the domain-to-operator or domain-to-path map, domain and boundary conventions, spectral assumptions, and which output is retained. A computed eta, heat density, or spectral-flow number alone is not a same-fiber collision. The source keeps KPZ, Connes–Kreimer, GHY, APS, and the native constructions distinct until a correspondence is proved. These examples do not supply a toroidal sampler theorem or a physical central charge. [S20]
@@ -708,6 +834,18 @@ Model an observation as O(h,m), where h is the source history and m is the obser
 
 Missing provenance is not automatically mathematical non-descent. Non-descent needs a defined map and an actual same-fiber/different-witness pair. An unavailable cross-source binding leaves that relation unresolved. Conversely, a directly bound action remains a finding within its object, time, and scope even when another action's author is unknown. A process label, endpoint, repeated answer, or file hash alone is not the missing join. [S17, S38]
 
+### A working RAW-to-VIEW construction and an operational audit
+
+The recovered Corner Relay C6 reference models two endpoints, route-only transport, retained RAW invocation/delivery records and a deterministic VIEW. Fresh execution passed all 20 declared tests and regenerated the packaged reference trace exactly as a structured object and canonical hash. Covered cases include duplicate and reordered delivery, retries, ACK prerequisites, partitions, local exit, actor/key-label checks and retained-history verification. All six orders of three independent messages converge to the same VIEW while RAW preserves their different order. [S49, S53, S55]
+
+That is a concrete witness-dependent quotient: VIEW is sufficient for the specified operational summary, while delivery-order recovery needs RAW. The artifact's two keys are structural labels; tested content/hash consistency is not production authentication or an exhaustive proof over all possible histories. A completed implementation check remains a completed check within this scope.
+
+The v3 orbit note contributes the practical record `(domain, retained map, witness/decision, available routes, history record, comparison law, counterexample, remedy, evidence status)`. Exact quotient, driven cocycle, augmented-state closure, formal proposal and empirical instantiation are distinct relations. A remedy or appeal requirement is a declared design commitment. Deterministic counterexamples compare successors; stochastic counterexamples compare conditional laws. These useful distinctions already appear in the source note and do not prove a social or platform mechanism. [S51]
+
+### Toy classifiers do not certify provenance
+
+The supplied prime-clock toy validator uses q_parity=1 for prime nodes and node%3+1 otherwise; this is a three-class assignment, not the binary toroidal q. Other toy variants change that classification. Prime path preferences are assigned in model costs. An arithmetic clock mismatch does not identify fraud, equal composite-node labels do not establish cross-stream contamination, and a successful schema check does not authenticate source lineage. The inspected validator checks no authenticated origin or hash chain; its missing clock defaults and incomplete nested-field checks also limit its result. Retain descriptive predicate names and declare the model's thresholds. These scripts were statically reviewed, not executed as incident detectors or promoted into the toroidal sampler. [S56, S57]
+
 ### Which source controls
 
 The governing Hidden Quotient statement is qualified v1.7. The standalone multiplication document, despite its later Drive modification date, still omits the relative-semifiniteness condition in its RN paragraph, omits normalization in its dual-norm test, and says the quotient “trivializes” at semifiniteness. Use §4 here: normalize the finite-set test by 1/μ(A), and say local-null equivalence becomes ordinary almost-everywhere equivalence. The quotient of actual functions remains. Enlarging a codomain alone does not make a missing object enter the representation's image. Keep algebraic kernel, kernel pair Eq(π), and stochastic transition kernel distinct. [S4, S26, S33]
@@ -727,15 +865,23 @@ Read later amendments with the earlier body. The September 28 amendment to the i
 The OMNIBUS archive's v7.79-r1 text is identical to the pinned repository source. Its §10 remains SUPPORTED RECONSTRUCTION, not a verbatim recovery of lost wording. The source's adopted constitutional commitments do not follow from a mathematical descent theorem, and the declared shared field ℒ does not identify a physical or platform field. Retain the source's native gate, known violations and coverage separately. Repeated ledger copies, derived table views and repeated OMNIBUS text add provenance links but no independent corroboration. [S43, S44]
 
 
+The continuity report preserves completed elementary proofs, phase repair and the C6 reference artifact alongside separately unfinished physical work. Its cited geometry draft hash differs from the recovered v1.1 omnibus file; that related source is not treated as the exact cited draft. The all-sector argument was independently checked from its hypotheses. The supplied `_Math2` conversation has both useful background and incorrect formulas; use the corrected §5 convention and the intake's explicit errata. The older `00_START_HERE` index neither supersedes later masters nor authorizes edits to indexed manuscripts. [S49–S55]
+
+The two later supplied ZIPs add 116 distinct texts after duplication is removed: the larger includes every smaller-archive text and the smaller ZIP itself. Qualified Hidden Quotient v1.7 is an exact repeat of the earlier core source. The recovered equation-level program's SHA-256 matches its source report and all freshly produced result fields match; its truncated pasted CSV is distinguished from the regenerated complete output. Inventory coverage is broader than the detailed proof/protocol review, and repeated files add no independent corroboration. [S56–S58, S62]
+
+The read-05 archive has 179 filenames associated with different contents, so extraction by filename alone would merge or overwrite versions. Entry index and content hash remain the source identities. Of 1,647 distinct nonempty contents, 480 match earlier workspace files exactly and 37 more after whitespace normalization. Other files include older exports, context and unreviewed candidates; an unmatched hash is not a new theorem. Selected Elimination Geometry v1 material is used with its declared objective and rule class. Its public record lists a later v2, which was not fully reviewed here; no blanket endorsement of either monograph follows. [S64–S66]
+
 ## 15 Continue from here
 
 1. **Choose the claim.** State the domain, retained record, witness or output, dynamics, clock, and required comparison. Separate static recovery, representability, exact autonomy, and approximate prediction.
 2. **For mathematics, locate the obstruction.** Use same-fiber witnesses for non-descent, missing objects or suprema for completeness, and successor laws for predictive closure. Preserve the corrected examples and theorem hypotheses above.
    The finite tools in §11 and recovered phase/lattice/throat packages in §§5 and 9 can compute declared examples. Keep each intact release in its own folder; use its README and protocol for inputs and verification. The compact master kit includes the preserved releases and fresh receipts.
 3. **For toroidal replay, close the execution gap.** The complete proof verifier is recovered. Seek the original companion authority and comparable event prefixes if available. Otherwise work under the already defined prospective replacement profile, implement configuration enforcement and lossless recording, and validate replay without claiming the historical mismatch is solved.
-4. **For useful prediction, specify an approximation problem.** Choose B, r, horizon, clock, tolerance, and evaluation domain. Compare full-state or causal-filter behavior with candidate retained coordinates. Report pairwise lower bounds separately from uniform guarantees.
+4. **For useful prediction, specify an approximation problem.** Choose B, r, horizon, clock, tolerance, and evaluation domain. Compare full-state or causal-filter behavior with candidate retained coordinates. Report pairwise lower bounds separately from uniform guarantees. For a scored decision problem, also fix the objective, population weights and allowed rule class; distinguish missing information from a rule that cannot use information already retained.
 5. **For empirical work, use the complete frozen instrument.** Preserve eligibility, denominator, uncertainty, coverage, holdouts, and independent confirmation. Fit validity, scale admissibility, accessibility, stationarity, and mixing remain separate conditions.
    The supplied ledger gives a concrete follow-up: locate downstream uses of its 113 proposition-lineage records, check propagation of each correction, and retain UNKNOWN where the required descendant record is absent. Textual deletion checks and formal descent tests require separate criteria.
+
+6. **Before a three-tempo room run, complete the proposed amendment.** Bind the actual markers and phase basis, use the assignment space generated by the randomization procedure, and distinguish ΔPLV from relative-phase concentration. The beat-derived tempo calculation is complete; the physical comparison is not. Preserve the original prospective record and use a new freeze for any revised design. [S59]
 
 No new physical Q1/Q2/Q3 result, global non-descent geometry, holonomy, or mechanism attribution follows from assembling this file. Add future changes with the source, affected claim, evidence scope, and date. Do not promote a historical unresolved result by editing a summary label.
 
@@ -794,6 +940,28 @@ These are the sources behind this consolidation. The equations and distinctions 
 - **S47 — [Geometry Maximization archive recovery and verification review](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_MAXIMIZATION_INTAKE_REVIEW_2026-10-18.md)**. Recovery findings, input limits, full fresh example table, lineage comparisons and coverage.
 - **S48 — [Geometry Maximization intake verification receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_MAXIMIZATION_INTAKE_2026-10-18.json)**. Original ZIP identity, selected-member hashes/CRC checks, release manifests, fresh execution and preservation records, source comparisons and output identity.
 
+- **S49 — [Consolidated Findings and Continuity Record v1.0](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_continuity/sources/Consolidated_Findings_and_Continuity_Record_v1.0.docx)**. Preserved supplied Word file; elementary Villain result, constructive refinement, phase witness, silver arithmetic and completed relay record. Text/table review; page layout not reviewed.
+- **S50 — [Supplied circle-dynamics survey, _Math2](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_continuity/sources/_Math2.txt)**. Preserved conversational survey. Selected formulas and theorem scopes corrected in S54; not adopted as a uniformly valid theorem source.
+- **S51 — [V3 Orbit Geometry Integration Note](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_continuity/sources/V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md)**. Typed relation and practical decision/history/remedy audit, with explicit interpretive limits.
+- **S52 — [Supplied corpus orientation, 00_START_HERE](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_continuity/sources/00_START_HERE.md)**. Historical corpus/version map; does not supersede later qualified masters.
+- **S53 — [Recovered Corner Relay C6 reference](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_continuity/corner_relay/Corner_Relay_Alpha_C6_Reference_v0.1/README.md)**. Intact implementation, 20 tests, frozen packet, historical trace and provenance, preserved separately from fresh results.
+- **S54 — [Continuity intake and mathematical corrections](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_CONTINUITY_REVIEW_2026-10-18.md)**. Detailed proof, independent checks, source-line errata and primary mathematical literature.
+- **S55 — [Continuity verification receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_CONTINUITY_INTAKE_2026-10-18.json)**. Four-file preservation, archive lineage, C6 execution, 24 Villain fixtures, phase/silver/density checks and output identity.
+
+- **S56 — Supplied geometry archives:** [transition package](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/sources/03-transition-acceptance-table-md--d8437928.zip) and [geometry/quotients collection](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/sources/geometry_and_quotients.zip). Exact originals preserved; all 38 transition-package texts and the ZIP itself repeat inside the larger collection; 116 distinct outer texts total.
+- **S57 — [Geometry archive review](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_ARCHIVE_REVIEW_2026-10-18.md)**. Detailed findings, source credit, reported-data uncertainty, prospective protocol repairs and static toy-validator review.
+- **S58 — [Geometry archive intake receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_ARCHIVE_INTAKE_2026-10-18.json)**. Full inventory and per-entry review depth, exact verifier reproduction, arithmetic/randomization checks and source preservation.
+- **S59 — [Proposed three-tempo protocol amendment](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_BPM_PROTOCOL_AMENDMENT_PROPOSED_2026-10-18.md)**. Concrete local prospective revision; NOT_FROZEN and NOT_RUN. Balanced 720-schedule design, accurate endpoint name and explicit phase/marker requirements.
+- **S60 — [Supplied three-tempo protocol v1.0](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/members/A02-M0002.txt)**. PCO-20260826-B04B9138; prospective source with fixed code-order schedule and a separate historical audio reconstruction. Original preserved unchanged.
+- **S61 — [LBCO witness-deletion record](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/members/A02-M0062.txt)**. Frozen two-record retrospective example. Paired exponent values verified against [Guguchia et al., 2014](https://arxiv.org/abs/1405.6846); interval arithmetic and its limits are explicit in §§2 and S57.
+- **S62 — [Exact phase, symmetry and atomic-label verification report](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/members/A02-M0011.txt)**. Complete embedded source recovered with its recorded SHA-256; fresh results match exactly. Exploratory Z indexing and truncated source CSV retain their limits.
+- **S63 — Earlier corrected [Geometry v1.3](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/members/A02-M0013.txt) and [Math 3](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_geometry_archives/members/A02-M0030.txt)**. Explicit prior derivations of the density exponent and Gauss-map Brjuno value; selected sections checked, not blanket endorsement of all survey claims.
+
+- **S64 — [Read-05 relevance review](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_READ05_RELEVANCE_REVIEW_2026-10-19.md)**. Selected mathematical integration, source routing, empirical-status carry-forward and honest coverage of the 4,921-entry mixed archive.
+- **S65 — [Read-05 intake receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_READ05_INTAKE_2026-10-19.json)**. Archive/member identity, catalogue, selected review depth, exact rational loss checks and delivery verification. The complete original ZIP remains separately preserved.
+- **S66 — [Elimination Geometry, supplied v1 PDF](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/read05_intake/selected/R05-1365.pdf)**, Mian Huang and Xueqin Wang. Selected definitions and objective/rule distinctions on PDF pp.25–32; three formula pages visually checked. [Public v1 record](https://arxiv.org/abs/2608.17646v1). The full 288-page work and later v2 were not completely audited; the finite squared-loss example in §3 is explicitly derived here.
+- **S67 — [Geometry Extension Test report, preserved RTF](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/read05_intake/selected/R05-2353.rtf)**. Earlier 72-bank, 24→12→6 and 39-screen findings. Lossy screening text was cross-checked against the prior plain-text continuity/report sources for the carried conclusions; empirical analysis was not rerun.
+
 **Review coverage, 18 October 2026.** The direct Drive connector was unavailable; authenticated browser access recovered the current Docs. This pass searched geometry, toroidal, hidden quotient, and the full-packet audit, screened current indexes and version relationships, and read the current mathematical, Hidden Quotient, Toroidal, predictive, typed-defect, gear, spectral, timing, service, and integration texts listed below. The restored September packet was read in Drive's preview. Exported text represents selected working tabs, not every historical tab, native element, comment, revision, or file in Drive. Historical source links S4–S5 and S7–S15 are carried from the earlier consolidation unless specifically refreshed through their current receiving masters. This is a broad current-source upgrade, not a claim that every Drive file or every theorem was exhaustively re-proved.
 
 **Verification in this pass.** The definitions, finite acquisition arguments, uniform path bound, and causal-padding proof received mathematical review. Independent exact checks cover n=1,…,32 threshold models, the skew-prior expected optimum, timing and prime-label examples, and a sharp path-law fixture through horizon 12. The repository follow-up freshly executed the selected finite suites and original toroidal arithmetic verifier described above, and independently checked the 64 diagonal-routing rectangles. Other large source suites and historical sampler receipts remain source-reported. Consolidation 2.3 adds the rectangular-torus argument as a separately reviewed analytical extension; the published cubic theorem and named execution profile retain their identities. Source export hashes and review depth are recorded in the Drive review receipt; pinned Git commits, selected-blob hashes, run outputs, and packaging findings are recorded in the separate GitHub review receipt.
@@ -808,4 +976,10 @@ These are the sources behind this consolidation. The equations and distinctions 
 
 **Archive recovery for 2.4.** The original 11,961,147,925-byte ZIP was hashed in full and retained unchanged. All 1,273 outer entries were inventoried; 49 selected outer members were read and CRC-checked. The complete embedded 44-file Geometry and 88-file Toroidal releases were extracted, checked and preserved. Both release verifiers were inspected before running. All 36 tests and 11 example reproductions passed; exact, numerical and historical evidence remain separately labeled. Other outer videos, binary documents and large nested collections were not exhaustively decompressed or reviewed. Fresh receipts supersede no historical evidence merely by being newer. [S47, S48]
 
-**Version note.** This updates the portable file; online source bodies and remote repositories were not edited in this pass. Section 14 identifies older source wording and packaging that still need synchronization. A linked document changing later does not silently update this snapshot. Pre-upgrade copies of consolidations 1.0, 2.0, 2.1, 2.2, and 2.3 are preserved in the review workspace. The compact 2.4 kit carries this master, the recovery review, preserved runnable releases and fresh receipts; the original 12 GB collection remains separately preserved.
+**Continuity intake for 2.5.** Read all four supplied sources, preserved and rehashed their originals, and checked three exact archive matches. The Word body/table extraction covers 222 paragraphs; bundled rendering was unavailable, so there is no page-layout claim. Recovered and inspected the C6 reference, freshly passed its 20 tests, and reproduced its trace; independently constructed 24 valid Villain witness pairs and recalculated the phase, silver and smooth-density examples. These are constructed mathematical/software checks. The earlier 36 release tests were not rerun in this intake. Literature checking was targeted to the corrections in S54, not an exhaustive validation of the conversation's entire survey. No source document instructions were treated as authorization. [S54, S55]
+
+**Archive intake for 2.6.** Preserved both new ZIPs, checked all entry CRCs/hashes and one nested archive, and reconciled 116 distinct texts against prior snapshots. All texts received inventory/header/lineage screening; detailed review was selected and is declared per member in S58. Recovered the inspected embedded program, matched its recorded source hash, and freshly reproduced its complete JSON result, 500,000 steps, 325 monomials, 119 phase cells/boundaries and full 118-row CSV. Independently checked the reported isotope intervals, tempo arithmetic, tie-aware ranks, six-versus-46,656 randomization discrepancy and two endpoint counterexamples. Existing release suites were carried forward without redundant execution. Physical experiments remain unrun. [S56–S63]
+
+**Read-05 intake for 2.7.** Every one of the 4,921 ZIP bodies was CRC/hash checked, with no integrity failures; 1,647 distinct nonempty contents and 54 empty entries were identified. Text/header/lineage screening was broad, while detailed review was selected and labeled in S65. The supplied monograph was text-extracted in full but only selected sections were mathematically reviewed, with PDF pp.26/27/31 also visually checked. Four selected RTFs received lossy triage extraction; omitted equation/layout content was not treated as a faithful transcription. Fresh work comprises the explicit finite loss derivation and rational fixtures. No archive program, empirical lattice study, prior reference suite or physical protocol was rerun. [S64–S67]
+
+**Version note.** This updates the portable file; online source bodies and remote repositories were not edited in this pass. Section 14 identifies older source wording and packaging that still need synchronization. A linked document changing later does not silently update this snapshot. Pre-upgrade masters through consolidation 2.6 are preserved; older receipts identify their original editions. The compact 2.7 kit retains earlier verified releases and receipts plus the selected read-05 mathematics, review and catalogue. The full read-05 ZIP and original 12 GB collection remain separately preserved; unrelated raw bodies are not added to this master.

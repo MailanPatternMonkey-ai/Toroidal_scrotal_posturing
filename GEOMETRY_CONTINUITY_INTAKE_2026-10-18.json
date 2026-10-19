@@ -1,0 +1,1120 @@
+{
+  "schema": "geometry_continuity_intake_v1",
+  "local_date": "2026-10-18",
+  "timezone": "America/New_York",
+  "assembled_utc": "2026-10-19T03:39:26.719614+00:00",
+  "status": "PASS_WITH_DECLARED_SCOPE",
+  "supplied_sources": {
+    "recorded_utc": "2026-10-19T03:30:40.630965+00:00",
+    "files": [
+      {
+        "id": "C01",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\Consolidated_Findings_and_Continuity_Record_v1.0.docx",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\Consolidated_Findings_and_Continuity_Record_v1.0.docx",
+        "bytes": 50576,
+        "sha256": "f67b477929565f159920be73df4741a0db855ea9c131e0016d2ad2472dfdb51c",
+        "mtime_ns": 1788648850513653400
+      },
+      {
+        "id": "C02",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\_Math2.txt",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\_Math2.txt",
+        "bytes": 112884,
+        "sha256": "d29446d8099ffcf140f2d54940f89f92615becf9658b796f216bc74a6c881c00",
+        "mtime_ns": 1788681157695295900
+      },
+      {
+        "id": "C03",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md",
+        "bytes": 6865,
+        "sha256": "7c36023313d85fc1316d32718f33e7b37247af33ee14be19172c99a415679dfb",
+        "mtime_ns": 1788384445601792100
+      },
+      {
+        "id": "C04",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\00_START_HERE.md",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\00_START_HERE.md",
+        "bytes": 18195,
+        "sha256": "85a10fd7d1911d702ce0e392f6e5b0949bd4c5798e89de9af18b84b2b2cc6be7",
+        "mtime_ns": 1788384495915622800
+      }
+    ]
+  },
+  "supplied_preservation": {
+    "checked_utc": "2026-10-19T03:35:52.154004+00:00",
+    "original_files": 4,
+    "all_original_and_copy_hashes_unchanged": true,
+    "sources": [
+      {
+        "id": "C01",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\Consolidated_Findings_and_Continuity_Record_v1.0.docx",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\Consolidated_Findings_and_Continuity_Record_v1.0.docx",
+        "bytes": 50576,
+        "sha256": "f67b477929565f159920be73df4741a0db855ea9c131e0016d2ad2472dfdb51c",
+        "mtime_ns": 1788648850513653400
+      },
+      {
+        "id": "C02",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\_Math2.txt",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\_Math2.txt",
+        "bytes": 112884,
+        "sha256": "d29446d8099ffcf140f2d54940f89f92615becf9658b796f216bc74a6c881c00",
+        "mtime_ns": 1788681157695295900
+      },
+      {
+        "id": "C03",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md",
+        "bytes": 6865,
+        "sha256": "7c36023313d85fc1316d32718f33e7b37247af33ee14be19172c99a415679dfb",
+        "mtime_ns": 1788384445601792100
+      },
+      {
+        "id": "C04",
+        "original": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\00_START_HERE.md",
+        "preserved_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\sources\\00_START_HERE.md",
+        "bytes": 18195,
+        "sha256": "85a10fd7d1911d702ce0e392f6e5b0949bd4c5798e89de9af18b84b2b2cc6be7",
+        "mtime_ns": 1788384495915622800
+      }
+    ]
+  },
+  "prior_archive_matches": [
+    {
+      "source_id": "C01",
+      "outer_index": 105,
+      "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/SUGGESTIONS/Consolidated_Findings_and_Continuity_Record_v1.0.docx",
+      "bytes": 50576,
+      "sha256": "f67b477929565f159920be73df4741a0db855ea9c131e0016d2ad2472dfdb51c",
+      "same_bytes_as_new_input": true,
+      "crc_verified": true
+    },
+    {
+      "source_id": "C03",
+      "outer_index": 552,
+      "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/Toroidal_scrotal_posturing-main/GPT REV_NECRO_INDICGT/V3_ORBIT_GEOMETRY_INTEGRATION_NOTE_2026-09-02.md",
+      "bytes": 6865,
+      "sha256": "7c36023313d85fc1316d32718f33e7b37247af33ee14be19172c99a415679dfb",
+      "same_bytes_as_new_input": true,
+      "crc_verified": true
+    },
+    {
+      "source_id": "C04",
+      "outer_index": 520,
+      "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/Toroidal_scrotal_posturing-main/GPT REV_NECRO_INDICGT/00_START_HERE.md",
+      "bytes": 18195,
+      "sha256": "85a10fd7d1911d702ce0e392f6e5b0949bd4c5798e89de9af18b84b2b2cc6be7",
+      "same_bytes_as_new_input": true,
+      "crc_verified": true
+    }
+  ],
+  "docx_structure": {
+    "zip_members": 19,
+    "paragraphs": 222,
+    "tables": 8,
+    "math_objects": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "drawings": 0,
+    "comment_parts": [],
+    "footnote_parts": [],
+    "media_parts": [],
+    "coverage": "All body paragraphs, including table cells, in XML order; text and math runs retained. Page numbers are not inferred."
+  },
+  "docx_review": "All body/table text read; renderer unavailable because bundled LibreOffice could not be located. No page-layout validation or Word edits.",
+  "supporting_recovery": {
+    "selected_members": [
+      {
+        "outer_index": 60,
+        "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/Corner_Relay_Alpha_C6_Reference_v0.1.zip",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\recovered\\Corner_Relay_Alpha_C6_Reference_v0.1.zip",
+        "sha256": "5392666c1892a4fd0d47aed04bfadcf92091d5c5f06a8899da88fb9e5e60b01b",
+        "bytes": 24637,
+        "crc_verified": true
+      },
+      {
+        "outer_index": 1208,
+        "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/Toroidal_scrotal_posturing-main/TOROIDAL_GEOMETRY_OMNIBUS_v1.1.md",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\recovered\\TOROIDAL_GEOMETRY_OMNIBUS_v1.1.md",
+        "sha256": "10e5ea92b82cec0a8c8be21656e30a6effcb43de16e3d94d6f1b8602b814d37f",
+        "bytes": 72641,
+        "crc_verified": true
+      },
+      {
+        "outer_index": 54,
+        "member": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/16-Triadic_silver_field.md",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\recovered\\Triadic_silver_field.md",
+        "sha256": "c46f8b5dc6fdb8ae8c8177b8f953fa5c1c7c6f667e9cddcbdc71ce117d787144",
+        "bytes": 15138,
+        "crc_verified": true
+      }
+    ],
+    "corner_relay_files": [
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/test_corner_relay.py",
+        "bytes": 11494,
+        "sha256": "06e013c1c910722d028374ab877fb9eaf7bea603239a6d00ac40b37e94d889cf"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/C6_RESULT.md",
+        "bytes": 3214,
+        "sha256": "f2267d8172d3e0e2c3b1e4fe7639a122ca3d4c783098e921619cbaf27efb196e"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/reference_trace.json",
+        "bytes": 42685,
+        "sha256": "17d4c355bc81c422ec7121cba0a411e37aec42cff96da87949ef9d83f72f64b1"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/FROZEN_PACKET.txt",
+        "bytes": 1845,
+        "sha256": "64ddf20760d202e4e63b817ad849e56bf6f7a9385fe9aa0055e9b88d8391dce6"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/reference_trace.py",
+        "bytes": 3353,
+        "sha256": "ed434ab4c0a41d99bf0d074db3407df2ad5655b45ac18fffd1a22735b4ba097d"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/run_with_provenance.py",
+        "bytes": 4048,
+        "sha256": "a056d74725a7eda7b0910e35c47b800c1fb228de9e44ce723f129a30ff3a061c"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/README.md",
+        "bytes": 4926,
+        "sha256": "0d12a8ad4463eaccc166f6ad5b5279795b6d57a4adce47b9e008ab94f787d261"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/corner_relay.py",
+        "bytes": 29725,
+        "sha256": "28ccc31b4304222d5d2429c6054a64ca366316167e8162aeb63d91bba24a4a97"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/source_binding.json",
+        "bytes": 1002,
+        "sha256": "4eb66aea9d521e52159bbe99b974189eb4b104c7dacd1736ad6570d4b6629841"
+      },
+      {
+        "name": "Corner_Relay_Alpha_C6_Reference_v0.1/execution_provenance.json",
+        "bytes": 6486,
+        "sha256": "5b09bb89891a8354aa971dbcd7151bdb8e2eb60b281f437b6b02871ebb5851fe"
+      }
+    ]
+  },
+  "fresh_C6_execution": {
+    "started_utc": "2026-10-19T03:35:51.920108+00:00",
+    "finished_utc": "2026-10-19T03:35:52.087513+00:00",
+    "command": [
+      "C:\\Users\\drewd\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "-B",
+      "-X",
+      "utf8",
+      "-m",
+      "unittest",
+      "-v",
+      "test_corner_relay"
+    ],
+    "cwd": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\corner_relay\\Corner_Relay_Alpha_C6_Reference_v0.1",
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "returncode": 0,
+    "tests_run": 20,
+    "failures": 0,
+    "errors": 0,
+    "reference_trace_object_identical": true,
+    "reference_trace_canonical_sha256": "be80778e224fcfe862e42698c4e14e21d89a38d313914ed40bd827a52b59424e",
+    "package_unchanged": true,
+    "package_sha256": {
+      "C6_RESULT.md": "f2267d8172d3e0e2c3b1e4fe7639a122ca3d4c783098e921619cbaf27efb196e",
+      "corner_relay.py": "28ccc31b4304222d5d2429c6054a64ca366316167e8162aeb63d91bba24a4a97",
+      "execution_provenance.json": "5b09bb89891a8354aa971dbcd7151bdb8e2eb60b281f437b6b02871ebb5851fe",
+      "FROZEN_PACKET.txt": "64ddf20760d202e4e63b817ad849e56bf6f7a9385fe9aa0055e9b88d8391dce6",
+      "README.md": "0d12a8ad4463eaccc166f6ad5b5279795b6d57a4adce47b9e008ab94f787d261",
+      "reference_trace.json": "17d4c355bc81c422ec7121cba0a411e37aec42cff96da87949ef9d83f72f64b1",
+      "reference_trace.py": "ed434ab4c0a41d99bf0d074db3407df2ad5655b45ac18fffd1a22735b4ba097d",
+      "run_with_provenance.py": "a056d74725a7eda7b0910e35c47b800c1fb228de9e44ce723f129a30ff3a061c",
+      "source_binding.json": "4eb66aea9d521e52159bbe99b974189eb4b104c7dacd1736ad6570d4b6629841",
+      "test_corner_relay.py": "06e013c1c910722d028374ab877fb9eaf7bea603239a6d00ac40b37e94d889cf"
+    },
+    "scope": "Declared deterministic artifact tests; not an exhaustive state-space proof or production security validation."
+  },
+  "independent_math_checks": {
+    "decimal_precision": 90,
+    "villain_L": 8,
+    "villain_J": 1,
+    "villain_pairs": [
+      {
+        "q": [
+          0,
+          0,
+          0
+        ],
+        "axis": 0,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            2,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          0,
+          0
+        ],
+        "axis": 1,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            2,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          0,
+          0
+        ],
+        "axis": 2,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          0,
+          1
+        ],
+        "axis": 0,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            2,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          0,
+          1
+        ],
+        "axis": 1,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            2,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          0,
+          1
+        ],
+        "axis": 2,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            0,
+            3
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          0
+        ],
+        "axis": 0,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            2,
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          0
+        ],
+        "axis": 1,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            3,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          0
+        ],
+        "axis": 2,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          1
+        ],
+        "axis": 0,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            2,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          1
+        ],
+        "axis": 1,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            3,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          0,
+          1,
+          1
+        ],
+        "axis": 2,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            0,
+            1,
+            3
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          0
+        ],
+        "axis": 0,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            3,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          0
+        ],
+        "axis": 1,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            2,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          0
+        ],
+        "axis": 2,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            2
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          1
+        ],
+        "axis": 0,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            3,
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          1
+        ],
+        "axis": 1,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            2,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          0,
+          1
+        ],
+        "axis": 2,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            0,
+            3
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          0
+        ],
+        "axis": 0,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            3,
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          0
+        ],
+        "axis": 1,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            3,
+            0
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          0
+        ],
+        "axis": 2,
+        "A0": 0,
+        "A1": 16,
+        "toggle0": "0.0183156388887341802937180212732412422119120675534755947695999274392504315981141226873694981",
+        "toggle1": "0.500000001030576811219278913982970190077910488187903637799551846486122330814582011892279675",
+        "absolute_difference": "0.481684362141842630925560892709728947865998420634428043029951919046871899216467889204910177",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            0
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          1
+        ],
+        "axis": 0,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            3,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          1
+        ],
+        "axis": 1,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            3,
+            1
+          ]
+        }
+      },
+      {
+        "q": [
+          1,
+          1,
+          1
+        ],
+        "axis": 2,
+        "A0": 8,
+        "A1": 24,
+        "toggle0": "0.500003072106176664104879341154089402766155611994657444126487784252938249941788904744307885",
+        "toggle1": "0.500000000000345720005347010150470629232937070463559076364817304528525080943082689718105525",
+        "absolute_difference": "0.000003072105830944099532331003618773533218541531098367761670479724413168998706215026202360",
+        "state0": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            1
+          ]
+        },
+        "state1": {
+          "divergence_zero": true,
+          "M_zero_parity_constraint": true,
+          "cut_flux": [
+            1,
+            1,
+            3
+          ]
+        }
+      }
+    ],
+    "phase_pair": [
+      {
+        "n": 1,
+        "strand": 2,
+        "slip": 0,
+        "rho": "0.8966744387541009200211134597401134089079419875752483767175037144948419500628044614189190"
+      },
+      {
+        "n": 8,
+        "strand": 2,
+        "slip": 0,
+        "rho": "0.17339551003280736016890767792090727126353590060198701374002971595873560050243569135135204"
+      }
+    ],
+    "phase_successors": [
+      {
+        "n": 2,
+        "strand": 2,
+        "slip": 0,
+        "rho": "0.7933488775082018400422269194802268178158839751504967534350074289896839001256089228378380"
+      },
+      {
+        "n": 9,
+        "strand": 2,
+        "slip": 1,
+        "rho": "0.0700699487869082801900211376610206801714778881772353904575334304535775505652401527702712"
+      }
+    ],
+    "silver": {
+      "fB_Hz": "0.13336184951412023257759619370036115210192474593898625726527142497019035419943905820691688",
+      "TB_s": "7.49839630781455906679420973948498905760916884257200186385920428875204706758110359725266678",
+      "TG_s": "7.45562130177514792899408284023668639053254437869822485207100591715976331360946745562130178",
+      "period_difference_ms": "42.7750060394111378001268992483026670766244638737770117881983715922837539716361416313650000",
+      "phase_deficit_degrees_per_gate": "2.05363941062167161421518661252178347081026770459073197912947712142991322564759288368345080",
+      "full_relative_phase_slip_minutes": "21.7826593993486064543686574608637474744312671234053910374045607347860881076862506630345327",
+      "scope": "Arithmetic of the declared frequency and gate conventions; not a measured physical coupling."
+    },
+    "brjuno": {
+      "definition": "Phi(alpha)=sum beta_(n-1) log(1/alpha_n), beta_-1=1; Gauss iterates.",
+      "closed_form": "3 log(phi)",
+      "value": "1.44363547517881034249327674027310526940555300315698155898305450652049160282466532323602828",
+      "partial_201_terms": "1.44363547517881034249327674027310526940555223613423939100233906957971586981821029035729923",
+      "exact_geometric_tail": "7.67022742167980715436940775733006455032878729054485777427107589487530104473694237105900210E-43"
+    },
+    "scope": "Finite constructed fixtures corroborate the written derivations; they do not replace universal proofs.",
+    "conformal_density": {
+      "eps": 0.25,
+      "identity": "rho(F(x))*Fprime(x)=rho(x)*Fprime(x)^s",
+      "correct_density_up_to_normalization": "hprime^(1-s)",
+      "fixtures": [
+        {
+          "s": -1,
+          "points": 257,
+          "correct_density_identity_max_abs_residual": 4.440892098500626e-16,
+          "Math2_hprime_power_s_max_abs_residual": 1.6435063125447624
+        },
+        {
+          "s": 0,
+          "points": 257,
+          "correct_density_identity_max_abs_residual": 1.1102230246251565e-16,
+          "Math2_hprime_power_s_max_abs_residual": 0.6188888784079867
+        },
+        {
+          "s": 1,
+          "points": 257,
+          "correct_density_identity_max_abs_residual": 0,
+          "Math2_hprime_power_s_max_abs_residual": 0.7566116452526643
+        },
+        {
+          "s": 2,
+          "points": 257,
+          "correct_density_identity_max_abs_residual": 4.440892098500626e-16,
+          "Math2_hprime_power_s_max_abs_residual": 3.000950832435375
+        }
+      ]
+    },
+    "arnold_family": {
+      "lambda2": 0.01,
+      "derivative_at_half": -0.06283185307179587,
+      "conclusion": "Negative derivative excludes an orientation-preserving circle homeomorphism."
+    }
+  },
+  "status_changes": [
+    "Elementary Villain all-sector non-descent and sufficient refinement explicitly retained as completed mathematics.",
+    "C6 historical completion now corroborated by 20 fresh tests and an identical canonical reference trace.",
+    "Incorrect automorphic-density exponent and selected literature-scope errors corrected before incorporation."
+  ],
+  "lineage_limit": "Recovered TOROIDAL_GEOMETRY_OMNIBUS_v1.1.md does not match the exact draft hash cited by the continuity report; its general proof was independently checked from the stated hypotheses.",
+  "coverage_limits": [
+    "Constructed finite checks are not empirical experiments or substitutes for universal proofs.",
+    "C6 tests are not exhaustive verification or production cryptographic security.",
+    "Math2 was read in full; targeted literature checks do not certify every survey claim.",
+    "Prior 36 phase/lattice/throat tests are carried from consolidation 2.4 without redundant rerun.",
+    "Historical accepted-event discrepancy -1352 and full replacement replay remain unresolved.",
+    "No physical Q1/Q2/Q3, TTSC or separate two-clock run.",
+    "No Drive, Docs, repository or other cloud mutation in this intake."
+  ],
+  "primary_sources": [
+    {
+      "url": "https://arxiv.org/html/1810.07107v1",
+      "scope": "Local versus global circle linearization; explicit theorem hypotheses."
+    },
+    {
+      "url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v159-n1-p01.pdf",
+      "scope": "Introduction p.3, bounded-type quadratic Siegel quasidisk and critical boundary."
+    },
+    {
+      "url": "https://arxiv.org/html/2404.03780v1",
+      "scope": "Definition 1, Theorem 2, monotone Arnold amplitude interval and multicritical domain."
+    }
+  ],
+  "outputs": {
+    "master": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER.md",
+      "bytes": 115087,
+      "sha256": "acb5514d972276aeaf2f5d1340a6aa9e9cf31b3724ba6621624fb5e130f6efe6"
+    },
+    "review": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_CONTINUITY_REVIEW_2026-10-18.md",
+      "bytes": 15673,
+      "sha256": "7cbdb80061edffdefde2060394f13daf3b5e4471737bcf2e77faeaff619a04a1"
+    },
+    "previous_master": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_continuity\\GEOMETRY_MASTER_before_2.5.md",
+      "bytes": 104407,
+      "sha256": "4c3b2d72d2e6aa5ae43e97ae4c8c34e45ce8808445868aa550ca6711e9b57bf0"
+    }
+  }
+}
