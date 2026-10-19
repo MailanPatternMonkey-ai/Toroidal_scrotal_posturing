@@ -1,0 +1,65 @@
+{
+  "PDF_rendered_pages": [
+    "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\renders\\EG-page-026.png",
+    "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\renders\\EG-page-027.png",
+    "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\renders\\EG-page-031.png"
+  ],
+  "RTF_screen": [
+    {
+      "id": "R05-0392",
+      "names": [
+        "M0776.rtf",
+        "CUNT.rtf"
+      ],
+      "source_sha256": "a1435d3b1e76e3fff61413cf49ff2ccecfa6ac841041246eab4d803f865dfc72",
+      "source_bytes": 22290022,
+      "screen_text": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\selected\\R05-0392.rtf.screen.txt",
+      "text_characters": 431064,
+      "text_sha256": "51c9e353c8b7bc1a7c1807baadf9dfafbaa864ecf4b7fdf74a8a6c00098fd0f9",
+      "omitted_destination_occurrences": 7,
+      "scope": "Lossy triage extraction; no equation or layout certification."
+    },
+    {
+      "id": "R05-0393",
+      "names": [
+        "M0775.rtf",
+        "Maths3.rtf"
+      ],
+      "source_sha256": "919a9e3a4972ae4e96a28be55760126e49ff993c8e390b0f533859002ced8210",
+      "source_bytes": 14398540,
+      "screen_text": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\selected\\R05-0393.rtf.screen.txt",
+      "text_characters": 271039,
+      "text_sha256": "75c197cd355b199ecac10a2e5135e5278d9a686a0dde771b8ea4460ccc197f11",
+      "omitted_destination_occurrences": 7,
+      "scope": "Lossy triage extraction; no equation or layout certification."
+    },
+    {
+      "id": "R05-3827",
+      "names": [
+        "MATHSNSHIT (1).rtf",
+        "MATHSNSHIT.rtf"
+      ],
+      "source_sha256": "0199fe6a002d0266a503a5313f45bf1b9bfdd69095d87f66801293eacd9ba5b6",
+      "source_bytes": 28149349,
+      "screen_text": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\selected\\R05-3827.rtf.screen.txt",
+      "text_characters": 532848,
+      "text_sha256": "4fda231f517138d6a20caa62e45a719914d50db534ef358a1646190be9ff36ff",
+      "omitted_destination_occurrences": 7,
+      "scope": "Lossy triage extraction; no equation or layout certification."
+    },
+    {
+      "id": "R05-2353",
+      "names": [
+        "GEOMETRY_EXTENSION_TEST_REPORT_v1.0.md (1).rtf",
+        "GEOMETRY_EXTENSION_TEST_REPORT_v1.0.md.rtf"
+      ],
+      "source_sha256": "637b725bc5b871016e0ddddeae1d572d782add5ea9cfcfa91990541526a0df2f",
+      "source_bytes": 848260,
+      "screen_text": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\selected\\R05-2353.rtf.screen.txt",
+      "text_characters": 10543,
+      "text_sha256": "809a016bb6b3d18e15e1afef3043b34a5f7a638b47447573a3e73276ee44d3fd",
+      "omitted_destination_occurrences": 134,
+      "scope": "Lossy triage extraction; no equation or layout certification."
+    }
+  ]
+}

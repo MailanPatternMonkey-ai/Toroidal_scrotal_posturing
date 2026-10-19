@@ -1,0 +1,470 @@
+[
+  {
+    "id": "R05-0000",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0001"
+    ],
+    "normalized_sha256": "09402865326b2586017892a8430c407bb25eb3030f60625e254e2c195aee5b25"
+  },
+  {
+    "id": "R05-0004",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0005"
+    ],
+    "normalized_sha256": "e5a143c7a8f1d7a052cd5671ff2e09012d11fbb48734c4d8c6d62110d2057f28"
+  },
+  {
+    "id": "R05-0006",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0007"
+    ],
+    "normalized_sha256": "7a2b7f464e4c61d2e3da3224d14911d38515a02fd2f91e2586e6592360781e9e"
+  },
+  {
+    "id": "R05-0008",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0009"
+    ],
+    "normalized_sha256": "1b81018433c22a99d3fa8f187a56239a7d59a806bd972b91824891e778e53898"
+  },
+  {
+    "id": "R05-1310",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "0775e2d9737d2338b5400aec1369f771e384dfa225952158e4ecdda42ac5816d"
+  },
+  {
+    "id": "R05-1311",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "5820c7283f4e2e84b0b43ca176d555ec10b714de944e7bccacb1e5d7395f3472"
+  },
+  {
+    "id": "R05-1312",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "290a50f4791f41c1163700cb3cf79f077c77a8d2513f84ecf7ffcfa0e51014a4"
+  },
+  {
+    "id": "R05-1313",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "1bcf1eeff34c66da3dd0eba801ee53d30f916e1142e5d81962dfd6b7637a7a51"
+  },
+  {
+    "id": "R05-1314",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "ecb972ca3807f321f8ef5082e7ce2a1c96007fff57d9d1b491a39588f3832fa8"
+  },
+  {
+    "id": "R05-1315",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "649e428f5d92eccf06800cf9ffe4d588fedc423677a371414d2ef9d93bc32c37"
+  },
+  {
+    "id": "R05-1316",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "f597b0a9b2ad95cbd6e7af63e760791961ca9fe6e4aafbcd95424f8522d4db4d"
+  },
+  {
+    "id": "R05-1317",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "8ebe1f6b6817dd4ad580261f4641e74d44211a40e7553b46ec81f82edcd287c6"
+  },
+  {
+    "id": "R05-1318",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "7194e671ed4c71a5c63e7801b0c4303557608339ae1edf1febf3b87a17997305"
+  },
+  {
+    "id": "R05-1319",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "f8902b21f5ac00cc4ab961910c264b9ba2816c2d31ff5ac64572b5ce4cbecbeb"
+  },
+  {
+    "id": "R05-1320",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "f769b61f2e94cc05fde2e100e69f834da81e48ee25dfc86e0cacef5f37d20581"
+  },
+  {
+    "id": "R05-1321",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "b6dc187b88303e5735a5a002453b2e2d97497aa04d14dbd8ad674241b7233453"
+  },
+  {
+    "id": "R05-1322",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "5060eff8236c1e84f88a7d5a224e94b1e929ea4a811ad28179e74f585b4cadaa"
+  },
+  {
+    "id": "R05-1504",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "719b6adfc36866401669efadc4b5d4906f57396005fffd168c03d8afe3a1d602"
+  },
+  {
+    "id": "R05-1506",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "82dbfd34b435bab0c081b8e58065129e7ed491747a95a73a9e5d25d4b3d6217c"
+  },
+  {
+    "id": "R05-1508",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "0de8dcb2e251cf7b50999bb0121937f1bd8cbbc9bc4400a01a3491968e9b4a91"
+  },
+  {
+    "id": "R05-1510",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "8bc7e73179787c410a3da419c3f577677ee8370f7ff748151ff484b5a22fb693"
+  },
+  {
+    "id": "R05-1512",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "83fa1cfcd8dd8102c2f950972654593fb3e128e7eb4355af7470cbf9be890b76"
+  },
+  {
+    "id": "R05-1514",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "231d14d717f9aeeb41cc735fc02b75c70a9a6ee7082c6eae08b56ce5a45a438d"
+  },
+  {
+    "id": "R05-1516",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "91fe939ac803106f3bb06d0974837a189bd8158f75dcf6b91f9fbaaabc7a6c7c"
+  },
+  {
+    "id": "R05-1518",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "ba294db9fc5397dabe3ca9c8116bb58345b1158c2ceaa2244937a8c2df73cf5e"
+  },
+  {
+    "id": "R05-1520",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "caf1706a1a0955e25b020caf99ff4fd8a2f9ee5ff6308c6aa4ab02e763c5d667"
+  },
+  {
+    "id": "R05-1522",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "a368ed7d3480f89cea735978a949593ee816bb585933853d5195a2545204c4b1"
+  },
+  {
+    "id": "R05-1524",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "8ed12c3d3148af7ec49daa18a0e835201ce30377b3e992d2a75530e5f5f32eea"
+  },
+  {
+    "id": "R05-1526",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "5c1db3c692c728dded9970ff71f31fd32b579f4155eb11108a2cb01e4fac9554"
+  },
+  {
+    "id": "R05-1528",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "24dabc73ba4d2c9ed27f8f3a274d209619e26ee878d6f5ef7d430d38b629dec9"
+  },
+  {
+    "id": "R05-1530",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "df00e2d24d887a0c65696f2bc25dba5eb006f3fa61b38d802eae163e100fcad6"
+  },
+  {
+    "id": "R05-1532",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "47aa47ec286b119397fd593a94f1c6829875e57f734e7ffab5dd50d3a997ca24"
+  },
+  {
+    "id": "R05-1534",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "e64cb93a42cea7dc3724cff60c0a4d7b41eb7e820dba102b200e998212e70110"
+  },
+  {
+    "id": "R05-1536",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "04a7c16025f2d7bf29279a7cdd3ebc5f19b8aa09525dd0cfbc94e96b66424b48"
+  },
+  {
+    "id": "R05-1747",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "4e766b47eb9214ee4476bd2d0433e4d5fd2b5ee591449a938069a3d1a72cef91"
+  },
+  {
+    "id": "R05-1748",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [
+      "R05-2981"
+    ],
+    "normalized_sha256": "bd76da035fe8524599d5882e4576bce0fb48eb996ae4100ced9548a45ddf5a2c"
+  },
+  {
+    "id": "R05-1749",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [
+      "R05-3305"
+    ],
+    "normalized_sha256": "2b3806564634f820e208aed946ffafc9ec75f592062dc91e2eb192e4ffb1e1b7"
+  },
+  {
+    "id": "R05-1750",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [
+      "R05-0592"
+    ],
+    "normalized_sha256": "8395c26fb97b6fe1ce90f4a7d4fa757dcfecd71e22082d732b0cec09b823a4ed"
+  },
+  {
+    "id": "R05-1752",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [
+      "R05-2987"
+    ],
+    "normalized_sha256": "5aa75fe8ee5ea621680a80b9014ee57760368284e6cc3a0f4d788de431b46c87"
+  },
+  {
+    "id": "R05-1754",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "1e59fea57d3fbe057ffadf2ac552be8e7adddf97d38d4627e49cb13fe72dc5f4"
+  },
+  {
+    "id": "R05-1756",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "242dd5e21fe7657692f3b4d958713fa62868637789cb2643ee20c4643c1e3708"
+  },
+  {
+    "id": "R05-1757",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "89e4b7d46aa5ea6b96d4ce80c9c2c7f6e02de0ea74e72a9d13a9ecd6f282a1c1"
+  },
+  {
+    "id": "R05-1758",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "83e83a4e5e009931888b41b49ca9d741301e60f025eb9b380195b09ea42fb6a6"
+  },
+  {
+    "id": "R05-1759",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "517cf6c4f4ea04776eeb5badf040147f0a6f01920cf67b961584f41012a0fef2"
+  },
+  {
+    "id": "R05-1760",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "371a8f9b4772b6873164899a65160b8457aeb0503ba916dcb80c288104d6214f"
+  },
+  {
+    "id": "R05-1761",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "bd743c7521cf631b051309fd263561c68fce07046454823757442dff24518814"
+  },
+  {
+    "id": "R05-1762",
+    "transformation": "leading word-part paragraph markers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "dab9ec58e6401a15c2aea8889fe074ed22cc7e19fd2508a3bf3110d09e0292b2"
+  },
+  {
+    "id": "R05-4376",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "f2637dc6581d1cc4583068ca00195bdcf6d08b6618d2a28ef159ddfb3b9817d6"
+  },
+  {
+    "id": "R05-4378",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "08eeb7103ba6ef8b5ee37ba9a882d4029db1d44da16d3cd9774445491c85339e"
+  },
+  {
+    "id": "R05-4380",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-1476"
+    ],
+    "normalized_sha256": "fe2a1aec34fff271db375327d7ad6a43088ba14c36969540ee041bb75f746bb8"
+  },
+  {
+    "id": "R05-4382",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0037",
+      "R05-1471"
+    ],
+    "normalized_sha256": "60b15d0bf9c4dbcd608e264c9ecb223068b6b89d26531bc141491c280d5ac72f"
+  },
+  {
+    "id": "R05-4384",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "e291508c1bb4b1dd074915452dbcfbcbe17eee8d3123df3f231714e79069523d"
+  },
+  {
+    "id": "R05-4386",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "75904d50a0bd9de695f55638e429ff5cf55704512277efff8b8e66a988961b13"
+  },
+  {
+    "id": "R05-4388",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "8bd913ca850f154aa9f9a405d78dfb82bf7665273d2b71a8e65287c0f754ccb5"
+  },
+  {
+    "id": "R05-4390",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-1477"
+    ],
+    "normalized_sha256": "7fe76ea08ca64d9930d426799d371789962cc7a37dd042fee9f6ce6fbf2f498a"
+  },
+  {
+    "id": "R05-4392",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "4a628f6eb46df9d37a35706501a2f0e7946a5d097bc5eff2215362ce51a8ff42"
+  },
+  {
+    "id": "R05-4394",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "013a9d2c1d93e73d42c4fe5d9a5b6b639adf8605d3817a3ea05462db993f8a78"
+  },
+  {
+    "id": "R05-4396",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "90180784a2ed1495feb9138b44e129d08220e90407a3b3fc0c9fedbbc8e56c3f"
+  },
+  {
+    "id": "R05-4398",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "3a3aeb034bb02cc999b9f255985d6fc09006b6c81e6f147c647e4e6c5dd53c9f"
+  },
+  {
+    "id": "R05-4400",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "c4bed4bd2986aa4dfdf0ad1ce1eedc94e13282cad04c0492802fde94df7aafc5"
+  },
+  {
+    "id": "R05-4404",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "581232d991b83ab1613f3ae5cfcdac5d5b4d2735872c3256a18787197660f131"
+  },
+  {
+    "id": "R05-4406",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-0037",
+      "R05-1471"
+    ],
+    "normalized_sha256": "60b15d0bf9c4dbcd608e264c9ecb223068b6b89d26531bc141491c280d5ac72f"
+  },
+  {
+    "id": "R05-4408",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "b11d14841df2b4f227eefbba2ffe73b65b571b3e68a19b51c428c6e3fcde1347"
+  },
+  {
+    "id": "R05-4410",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-2407"
+    ],
+    "normalized_sha256": "7f7a6dddc4af409c15e05bc65899d78bfcf3d9fd4176ec2e8e492a85376c5440"
+  },
+  {
+    "id": "R05-4412",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "5e8902c1aa910da377da7293ccdf0d6bce3bd072530f8cd8304dd06406401cd7"
+  },
+  {
+    "id": "R05-4414",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "0298cab1deeeffd728c39f5de0c9a63aa46203ac5020518c237ba873da098a88"
+  },
+  {
+    "id": "R05-4416",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "6d0a75aff46631fbeef1705dc264a43a77c17862893f92172838eeeff63dec5b"
+  },
+  {
+    "id": "R05-4418",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "d63f6af13d6ecb6f9f5e86189de15262aa888b4652bc6c506b060505dfb784a4"
+  },
+  {
+    "id": "R05-4420",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "eba9694c30eb0e9af9305f55763a7be49b2216bbe8dbf119cc88dcc72bb7ad2c"
+  },
+  {
+    "id": "R05-4422",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "efb375054e3fc172990db1f450a5399bc68d45b0e7688b19f0a7fc47bd829e6b"
+  },
+  {
+    "id": "R05-4424",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "0f01aaada761cea8d5adf4900d56a23c55a57e9fccf4e04db8e53d52ec40b751"
+  },
+  {
+    "id": "R05-4426",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [],
+    "normalized_sha256": "ac20cf2d296a7a6472152c3f6f46a0f1da3728d18ffaf894b8026174ffb6da3c"
+  },
+  {
+    "id": "R05-4919",
+    "transformation": "leading 4-5-digit line numbers only",
+    "matching_text_ids": [
+      "R05-1531"
+    ],
+    "normalized_sha256": "f07bc6035d844a71dc4724f84f7e135133c18f844e49ef8e49d652b4444b3181"
+  }
+]

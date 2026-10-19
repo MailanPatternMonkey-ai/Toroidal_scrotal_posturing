@@ -1,0 +1,14 @@
+{
+  "verified_utc": "2026-10-19T04:12:51.883658+00:00",
+  "original": {
+    "path": "C:\\Users\\drewd\\OneDrive\\Desktop\\read-05.zip",
+    "bytes": 305086795,
+    "sha256": "6c96e1f585ee23eb6ed745322953dd6f96dfd34e8d96a7c26b65e66a75153a37"
+  },
+  "preserved_copy": {
+    "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\read05_intake\\sources\\read-05.zip",
+    "bytes": 305086795,
+    "sha256": "6c96e1f585ee23eb6ed745322953dd6f96dfd34e8d96a7c26b65e66a75153a37"
+  },
+  "original_and_copy_unchanged": true
+}

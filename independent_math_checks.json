@@ -1,0 +1,951 @@
+{
+  "status": "PASS_WITH_DECLARED_SCOPE",
+  "source_programs_executed": false,
+  "arithmetic": "Exact rational calculations; no fitting or physical observations.",
+  "conditional_squared_loss": {
+    "finite_models": 45,
+    "partitions_per_weight_vector": 15,
+    "identity_fixtures": 4665,
+    "refinement_comparisons": 180,
+    "models": [
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "minimum_loss": "5/2",
+        "attained_means": {
+          "0": "1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "minimum_loss": "7/6",
+        "attained_means": {
+          "0": "1/3",
+          "1": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "minimum_loss": "7/6",
+        "attained_means": {
+          "0": "5/3",
+          "1": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "minimum_loss": "5/2",
+        "attained_means": {
+          "0": "1",
+          "1": "1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          2
+        ],
+        "minimum_loss": "1/2",
+        "attained_means": {
+          "0": "1",
+          "1": "-1",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "minimum_loss": "13/6",
+        "attained_means": {
+          "0": "2/3",
+          "1": "2"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "minimum_loss": "1/4",
+        "attained_means": {
+          "0": "-1/2",
+          "1": "5/2"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          2
+        ],
+        "minimum_loss": "1/8",
+        "attained_means": {
+          "0": "-1/2",
+          "1": "2",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          0
+        ],
+        "minimum_loss": "9/4",
+        "attained_means": {
+          "0": "3/2",
+          "1": "1/2"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "minimum_loss": "13/6",
+        "attained_means": {
+          "0": "0",
+          "1": "4/3"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          2
+        ],
+        "minimum_loss": "9/8",
+        "attained_means": {
+          "0": "0",
+          "1": "1/2",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          0
+        ],
+        "minimum_loss": "9/8",
+        "attained_means": {
+          "0": "3/2",
+          "1": "2",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          1
+        ],
+        "minimum_loss": "1/8",
+        "attained_means": {
+          "0": "0",
+          "1": "5/2",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          2
+        ],
+        "minimum_loss": "2",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "1"
+        }
+      },
+      {
+        "weights": [
+          "1/4",
+          "1/4",
+          "1/4",
+          "1/4"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "minimum_loss": "0",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "-1",
+          "3": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "minimum_loss": "301/100",
+        "attained_means": {
+          "0": "13/10"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "minimum_loss": "13/12",
+        "attained_means": {
+          "0": "1/6",
+          "1": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "minimum_loss": "26/35",
+        "attained_means": {
+          "0": "16/7",
+          "1": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "minimum_loss": "316/105",
+        "attained_means": {
+          "0": "4/3",
+          "1": "9/7"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          2
+        ],
+        "minimum_loss": "4/15",
+        "attained_means": {
+          "0": "4/3",
+          "1": "-1",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "minimum_loss": "231/80",
+        "attained_means": {
+          "0": "9/8",
+          "1": "2"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "minimum_loss": "5/24",
+        "attained_means": {
+          "0": "-3/4",
+          "1": "8/3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          2
+        ],
+        "minimum_loss": "3/40",
+        "attained_means": {
+          "0": "-3/4",
+          "1": "2",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          0
+        ],
+        "minimum_loss": "9/5",
+        "attained_means": {
+          "0": "12/5",
+          "1": "1/5"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "minimum_loss": "127/45",
+        "attained_means": {
+          "0": "0",
+          "1": "13/9"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          2
+        ],
+        "minimum_loss": "27/25",
+        "attained_means": {
+          "0": "0",
+          "1": "1/5",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          0
+        ],
+        "minimum_loss": "18/25",
+        "attained_means": {
+          "0": "12/5",
+          "1": "2",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          1
+        ],
+        "minimum_loss": "2/15",
+        "attained_means": {
+          "0": "0",
+          "1": "8/3",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          2
+        ],
+        "minimum_loss": "96/35",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "9/7"
+        }
+      },
+      {
+        "weights": [
+          "1/10",
+          "1/5",
+          "3/10",
+          "2/5"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "minimum_loss": "0",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "-1",
+          "3": "3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "minimum_loss": "31/25",
+        "attained_means": {
+          "0": "2/5"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "minimum_loss": "22/45",
+        "attained_means": {
+          "0": "1/9",
+          "1": "3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          0
+        ],
+        "minimum_loss": "46/45",
+        "attained_means": {
+          "0": "5/9",
+          "1": "-1"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "minimum_loss": "23/20",
+        "attained_means": {
+          "0": "1/4",
+          "1": "1"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          0,
+          1,
+          2
+        ],
+        "minimum_loss": "7/20",
+        "attained_means": {
+          "0": "1/4",
+          "1": "-1",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "minimum_loss": "43/45",
+        "attained_means": {
+          "0": "2/9",
+          "1": "2"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "minimum_loss": "11/80",
+        "attained_means": {
+          "0": "-1/8",
+          "1": "5/2"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          0,
+          2
+        ],
+        "minimum_loss": "7/80",
+        "attained_means": {
+          "0": "-1/8",
+          "1": "2",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          0
+        ],
+        "minimum_loss": "99/80",
+        "attained_means": {
+          "0": "3/8",
+          "1": "1/2"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "minimum_loss": "13/15",
+        "attained_means": {
+          "0": "0",
+          "1": "4/3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          1,
+          2
+        ],
+        "minimum_loss": "9/20",
+        "attained_means": {
+          "0": "0",
+          "1": "1/2",
+          "2": "3"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          0
+        ],
+        "minimum_loss": "63/80",
+        "attained_means": {
+          "0": "3/8",
+          "1": "2",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          1
+        ],
+        "minimum_loss": "1/20",
+        "attained_means": {
+          "0": "0",
+          "1": "5/2",
+          "2": "-1"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          2
+        ],
+        "minimum_loss": "4/5",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "1"
+        }
+      },
+      {
+        "weights": [
+          "7/10",
+          "1/10",
+          "1/10",
+          "1/10"
+        ],
+        "partition": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "minimum_loss": "0",
+        "attained_means": {
+          "0": "0",
+          "1": "2",
+          "2": "-1",
+          "3": "3"
+        }
+      }
+    ]
+  },
+  "binary_example": [
+    {
+      "probability_W_equals_1": "1/100",
+      "constant_best_action": "1/100",
+      "erased_label_squared_loss": "99/10000",
+      "retained_label_unrestricted_loss": "0",
+      "retained_label_constant_only_loss": "99/10000"
+    },
+    {
+      "probability_W_equals_1": "1/4",
+      "constant_best_action": "1/4",
+      "erased_label_squared_loss": "3/16",
+      "retained_label_unrestricted_loss": "0",
+      "retained_label_constant_only_loss": "3/16"
+    },
+    {
+      "probability_W_equals_1": "1/2",
+      "constant_best_action": "1/2",
+      "erased_label_squared_loss": "1/4",
+      "retained_label_unrestricted_loss": "0",
+      "retained_label_constant_only_loss": "1/4"
+    },
+    {
+      "probability_W_equals_1": "3/4",
+      "constant_best_action": "3/4",
+      "erased_label_squared_loss": "3/16",
+      "retained_label_unrestricted_loss": "0",
+      "retained_label_constant_only_loss": "3/16"
+    },
+    {
+      "probability_W_equals_1": "99/100",
+      "constant_best_action": "99/100",
+      "erased_label_squared_loss": "99/10000",
+      "retained_label_unrestricted_loss": "0",
+      "retained_label_constant_only_loss": "99/10000"
+    }
+  ],
+  "metric_counterexample": {
+    "states": [
+      "0",
+      "1/1000"
+    ],
+    "projection": "identity",
+    "coarse_distance": "1/1000",
+    "rescaled_distance": "10",
+    "same_exact_fiber": false,
+    "explanation": "Both metrics are on the same injectively retained state; a distance of 1/1000 versus 10 is not an exact non-descent witness."
+  },
+  "nonattainment_example": {
+    "domain": "one point",
+    "target": 0,
+    "admissible_actions": "c in (0,1]",
+    "cost": "c^2",
+    "infimum": 0,
+    "attained": false,
+    "argument": "Every admissible c has positive cost, while c=1/n tends to zero."
+  },
+  "limits": [
+    "The accompanying algebraic expansion proves the finite formula; these fixtures are supplementary.",
+    "A population law and action class are assumptions of a model, not measured facts about the archive.",
+    "No empirical 72-bank, 39-screen, toroidal sampler or physical experiment was rerun."
+  ]
+}
