@@ -1,0 +1,843 @@
+{
+  "review_date": "2026-10-18",
+  "review_timezone": "America/New_York",
+  "recorded_utc": "2026-10-19T03:01:20.882499+00:00",
+  "master_version": "2.3",
+  "master_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER.md",
+  "master_sha256": "d6deb4e4b45356ac57bd68d5433eefbca324c30024d35ad2f85f9ede4b2f9003",
+  "master_bytes": 95077,
+  "master_words": 12192,
+  "source_entries": 44,
+  "previous_master": {
+    "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\GEOMETRY_MASTER_before_2.3.md",
+    "sha256": "0d6041df6e03e79e528a909c6c6a6946925a23c0f62b162eb0a4ff3278c74ecb"
+  },
+  "narrative_review": {
+    "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_ADDITIONS_REVIEW_2026-10-18.md",
+    "sha256": "fcf1ca2bc5cf267555b3c7f169da41cae42497dacbaab216bca5b9e5410db0b4",
+    "bytes": 12616
+  },
+  "supplied_inputs": [
+    {
+      "id": "O01",
+      "source": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\toroidal\\local_kernel_checks.json",
+      "preserved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\sources\\O01.json",
+      "bytes": 3827,
+      "sha256": "0ca0390ed3822756fa00267f3af1c2936ed0e2a072ce6a31a760e0ad50892961",
+      "source_unchanged": true,
+      "source_sha256_after_review": "0ca0390ed3822756fa00267f3af1c2936ed0e2a072ce6a31a760e0ad50892961",
+      "preserved_sha256_after_review": "0ca0390ed3822756fa00267f3af1c2936ed0e2a072ce6a31a760e0ad50892961"
+    },
+    {
+      "id": "O02",
+      "source": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\toroidal\\rectangular_return_checks.json",
+      "preserved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\sources\\O02.json",
+      "bytes": 3036,
+      "sha256": "c87b662d78663a59fff79b8ab95a3348132707208d7f1001a50e200b366e9017",
+      "source_unchanged": true,
+      "source_sha256_after_review": "c87b662d78663a59fff79b8ab95a3348132707208d7f1001a50e200b366e9017",
+      "preserved_sha256_after_review": "c87b662d78663a59fff79b8ab95a3348132707208d7f1001a50e200b366e9017"
+    },
+    {
+      "id": "O03",
+      "source": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\toroidal\\rectangular_extension_proposal.md",
+      "preserved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\sources\\O03.md",
+      "bytes": 6758,
+      "sha256": "5fb67f05092058230e4879a6c4928656bc01570ec665cc15a7d92857f33e1114",
+      "source_unchanged": true,
+      "source_sha256_after_review": "5fb67f05092058230e4879a6c4928656bc01570ec665cc15a7d92857f33e1114",
+      "preserved_sha256_after_review": "5fb67f05092058230e4879a6c4928656bc01570ec665cc15a7d92857f33e1114"
+    },
+    {
+      "id": "O04",
+      "source": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\01_OMNIBUS_GQG_MASTER_LEDGER.zip",
+      "preserved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\sources\\O04.zip",
+      "bytes": 170996875,
+      "sha256": "aa684f88595a0a1b08bf583c25322ed2bc02d16d28be654fe43262e97dc6be42",
+      "source_unchanged": true,
+      "source_sha256_after_review": "aa684f88595a0a1b08bf583c25322ed2bc02d16d28be654fe43262e97dc6be42",
+      "preserved_sha256_after_review": "aa684f88595a0a1b08bf583c25322ed2bc02d16d28be654fe43262e97dc6be42"
+    }
+  ],
+  "archive_counts": {
+    "member_entries": 1239,
+    "unique_contents": 640,
+    "duplicate_entries": 599,
+    "unique_bytes": 390152839,
+    "distinct_names": 690
+  },
+  "archive_same_name_multiple_contents": 54,
+  "archive_all_member_crcs_checked": true,
+  "archive_all_unique_copies_sha256_verified": true,
+  "archive_distinct_csv_contents_parsed": 130,
+  "archive_empty_content_group": {
+    "id": "M0847",
+    "names": [
+      "FORMAL CONDEMNATION OF SYSTEM CONDUCT.pdf",
+      "Consolidated_Master_Audit_Conversational_Conduct_Provenance.docx"
+    ],
+    "entries": 8
+  },
+  "primary_ledger_copies": 11,
+  "omnibus_exact_pinned_source_match": true,
+  "reviewed_pinned_sources": [
+    {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TOROIDAL_DYNAMICS.md",
+      "sha256": "523f757a792d0f2b38249643487894bce2c4515a57d092bfe0355f7917490af8",
+      "pinned_commit": "bbf8bb615002c76a833b2317998d5cd2a462e935"
+    },
+    {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TD-COS-FH-001_No_Finite_Markov_Order.md",
+      "sha256": "cc285fd99b1179d48ce08cb4df71d9bc82a9b1945f7cc17fe48257ea6fdacd33",
+      "pinned_commit": "bbf8bb615002c76a833b2317998d5cd2a462e935"
+    },
+    {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\OMNIBUS v7.79-r1 — Constitutional Foundation and Supported Repair.txt",
+      "sha256": "af543dea4c9ca76b09cec03421fa465d87ebb507546656138b4845b38c8d0c53",
+      "pinned_commit": "bbf8bb615002c76a833b2317998d5cd2a462e935"
+    }
+  ],
+  "fresh_rectangular_execution": [
+    {
+      "name": "rectangular_return_checks",
+      "script_sha256": "48db0b4bbd3c5026174feddb3b03bf42f3b7281a4d843dc466e4904d4989e3eb",
+      "returncode": 0,
+      "case_count": 6,
+      "supplied_json_reproduced": true,
+      "scope": "Exact arithmetic for the finite comparison walk only; no new source access, historical replay, physical result, or proof-assistant verification."
+    },
+    {
+      "name": "local_kernel_checks",
+      "script_sha256": "27822aefdae9d13d21b07db125bf87ad5d3f0c22946b3d8dc6b0e31b8fc9ed82",
+      "returncode": 0,
+      "case_count": 9,
+      "supplied_json_reproduced": true,
+      "scope": "Numerical local descriptor enumeration using 70-digit Decimal; no certified intervals, full replay, stationary integration, or global error/mixing bound."
+    }
+  ],
+  "ledger_audit": {
+    "scope": "Package-internal integrity and direct arithmetic; source labels remain labels. No fresh semantic adjudication or independent speaker authentication.",
+    "counts": {
+      "master_rows": 3088,
+      "master_columns": 120,
+      "distinct_cases": 24,
+      "unique_master_episode_keys": 3088,
+      "compact_rows": 3088,
+      "full_member_rows": 13309,
+      "unique_full_episode_keys": 3088,
+      "unique_case_node_keys": 13309,
+      "case_node_keys_with_multiple_text_or_metadata_versions": 0,
+      "proposition_lineage_rows": 113,
+      "deletion_rows": 55,
+      "agency_deletion_rows": 20
+    },
+    "joins": {
+      "master_compact_keys_equal": true,
+      "master_full_keys_equal": true,
+      "master_compact_field_comparisons": {
+        "source_node_ids": {
+          "differs_or_missing": 297,
+          "exact_match": 2791
+        },
+        "initial_response_node_ids": {
+          "differs_or_missing": 286,
+          "exact_match": 2802
+        },
+        "correction_node_ids": {
+          "exact_match": 3083,
+          "differs_or_missing": 5
+        },
+        "repair_node_ids": {
+          "exact_match": 3063,
+          "differs_or_missing": 25
+        },
+        "source_version_sha256": {
+          "exact_match": 3088
+        },
+        "exact_user_text": {
+          "differs_or_missing": 3085,
+          "exact_match": 3
+        },
+        "exact_initial_response": {
+          "differs_or_missing": 2986,
+          "exact_match": 102
+        },
+        "exact_correction_text": {
+          "exact_match": 3038,
+          "differs_or_missing": 50
+        },
+        "exact_repair_text": {
+          "exact_match": 2694,
+          "differs_or_missing": 394
+        }
+      },
+      "master_compact_declared_representation_normalizations": {
+        "source_node_ids": {
+          "match": 3088
+        },
+        "initial_response_node_ids": {
+          "match": 3088
+        },
+        "correction_node_ids": {
+          "match": 3088
+        },
+        "repair_node_ids": {
+          "match": 3088
+        },
+        "source_version_sha256": {
+          "match": 3088
+        },
+        "exact_user_text": {
+          "match": 3088
+        },
+        "exact_initial_response": {
+          "match": 3088
+        },
+        "exact_correction_text": {
+          "match": 3088
+        },
+        "exact_repair_text": {
+          "match": 3087,
+          "differs_or_missing": 1
+        }
+      },
+      "representation_normalization_rule": "Node-ID zero padding removed; for exact-text comparison only line-start [nNNN] labels removed and outer whitespace trimmed. Original bytes retained.",
+      "agency_rows_are_exact_subset_of_deletion": true,
+      "deletion_to_full_episodes": {
+        "located": 55
+      }
+    },
+    "master_source_labels": {
+      "repair_status": {
+        "REPAIR_STATUS_UNKNOWN": 2760,
+        "NO_REPAIR": 268,
+        "LOCAL_REPAIR": 33,
+        "SURFACE_RETRACTION": 5,
+        "VERDICT_REPAIR": 22
+      },
+      "reliability_status": {
+        "SCREEN_ONLY_NOT_ADJUDICATED": 2660,
+        "SINGLE_CODED": 282,
+        "MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE": 22,
+        "MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER": 1,
+        "SINGLE_CODED;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE": 5,
+        "MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER": 19,
+        "SINGLE_CODED;DELETION_DESCENT_SINGLE_CODED;INTRA_MODEL_RECODING_STABILITY_LOW": 15,
+        "SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE": 12,
+        "SINGLE_CODED;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;DELETION_DESCENT_SINGLE_CODED;INTRA_MODEL_RECODING_STABILITY_LOW": 2,
+        "SINGLE_CODED;DELETION_DESCENT_SINGLE_CODED": 25,
+        "MANUALLY_LOCATED_EVENT_SET": 9,
+        "MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE": 2,
+        "MANUALLY_DEDUPLICATED_EPISODE_LEDGER;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;SINGLE_CODED;DELETION_DESCENT_SINGLE_CODED": 1,
+        "SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER": 1,
+        "SINGLE_CODED;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER": 8,
+        "MANUALLY_DEDUPLICATED_EPISODE_LEDGER;SINGLE_CODED;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;DELETION_DESCENT_SINGLE_CODED": 1,
+        "SINGLE_CODED;MANUALLY_LOCATED_EVENT_SET": 2,
+        "SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE;SINGLE_CODED": 2,
+        "SINGLE_CODED;MANUALLY_LOCATED_EVENT_SET;DELETION_DESCENT_SINGLE_CODED": 1,
+        "MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;SINGLE_CODED": 2,
+        "MANUALLY_DEDUPLICATED_EPISODE_LEDGER;SINGLE_CODED;DELETION_DESCENT_SINGLE_CODED": 3,
+        "MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;MANUALLY_LOCATED_EVENT_SET": 1,
+        "MANUALLY_DEDUPLICATED_EPISODE_LEDGER;DELETION_DESCENT_SINGLE_CODED": 3,
+        "MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;SINGLE_CODED;DELETION_DESCENT_SINGLE_CODED;INTRA_MODEL_RECODING_STABILITY_LOW": 1,
+        "SINGLE_CODED;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER": 1,
+        "MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;SINGLE_CODED": 1,
+        "SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE;DELETION_DESCENT_SINGLE_CODED;INTRA_MODEL_RECODING_STABILITY_LOW": 1,
+        "SINGLE_CODED;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE;SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE": 1,
+        "SINGLE_CODED_EXCEPT_PRESPECIFIED_SAMPLE;SINGLE_CODED;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE": 1,
+        "SINGLE_CODED;MANUALLY_LOCATED_EVENT_SET;MECHANICAL_SCREEN;TRIGGER_UNIDENTIFIABLE": 1,
+        "MANUALLY_LOCATED_EVENT_SET;SINGLE_CODED": 1,
+        "SINGLE_CODED;MECHANICAL_WINDOW_PLUS_MANUAL_RULE_LEDGER;DELETION_DESCENT_SINGLE_CODED": 1
+      },
+      "denominator_status": {
+        "screen_only_not_prevalence_denominator": 2663,
+        "primary;screen_only_not_prevalence_denominator": 178,
+        "mechanical_event_screen": 3,
+        "mechanical_event_screen;screen_only_not_prevalence_denominator;structural_window": 3,
+        "AMBIGUOUS;PRIMARY;ambiguous_sensitivity;mechanical_event_screen;primary;screen_only_not_prevalence_denominator": 1,
+        "mechanical_event_screen;screen_only_not_prevalence_denominator": 19,
+        "PRIMARY;mechanical_event_screen;primary;screen_only_not_prevalence_denominator": 4,
+        "screen_only_not_prevalence_denominator;structural_window": 16,
+        "PRIMARY;primary;screen_only_not_prevalence_denominator": 45,
+        "PRIMARY;screen_only_not_prevalence_denominator": 5,
+        "PRIMARY": 1,
+        "ambiguous_sensitivity;screen_only_not_prevalence_denominator": 51,
+        "AMBIGUOUS;PRIMARY;primary;screen_only_not_prevalence_denominator": 1,
+        "ambiguous_sensitivity": 5,
+        "INCLUDE_PRIMARY;primary;screen_only_not_prevalence_denominator;structural_window": 1,
+        "INCLUDE_PRIMARY;primary;screen_only_not_prevalence_denominator": 28,
+        "primary": 8,
+        "ambiguous_sensitivity;screen_only_not_prevalence_denominator;structural_window": 2,
+        "INCLUDE_AMBIGUOUS;ambiguous_sensitivity;screen_only_not_prevalence_denominator": 4,
+        "AMBIGUOUS;ambiguous_sensitivity;screen_only_not_prevalence_denominator": 3,
+        "PRIMARY;screen_only_not_prevalence_denominator;structural_window": 1,
+        "AMBIGUOUS;screen_only_not_prevalence_denominator": 1,
+        "AMBIGUOUS;ambiguous_sensitivity;mechanical_event_screen;screen_only_not_prevalence_denominator": 1,
+        "ambiguous_sensitivity;primary;screen_only_not_prevalence_denominator;structural_window": 3,
+        "INCLUDE_PRIMARY;mechanical_event_screen;primary;screen_only_not_prevalence_denominator": 1,
+        "ambiguous_sensitivity;primary;screen_only_not_prevalence_denominator": 6,
+        "INCLUDE_AMBIGUOUS;screen_only_not_prevalence_denominator": 2,
+        "INCLUDE_PRIMARY;screen_only_not_prevalence_denominator": 4,
+        "mechanical_event_screen;primary;screen_only_not_prevalence_denominator": 2,
+        "INCLUDE_PRIMARY;ambiguous_sensitivity;primary;screen_only_not_prevalence_denominator": 1,
+        "PRIMARY;ambiguous_sensitivity;screen_only_not_prevalence_denominator": 1,
+        "primary;screen_only_not_prevalence_denominator;structural_window": 3,
+        "PRIMARY;primary;screen_only_not_prevalence_denominator;structural_window": 3,
+        "structural_window": 3,
+        "AMBIGUOUS;primary;screen_only_not_prevalence_denominator": 2,
+        "mechanical_event_screen;quoted_or_preamble_sensitivity;screen_only_not_prevalence_denominator": 1,
+        "AMBIGUOUS;PRIMARY;ambiguous_sensitivity;primary;screen_only_not_prevalence_denominator;structural_window": 1,
+        "ambiguous_sensitivity;mechanical_event_screen;screen_only_not_prevalence_denominator": 1,
+        "AMBIGUOUS;ambiguous_sensitivity;mechanical_event_screen;primary;screen_only_not_prevalence_denominator;structural_window": 1,
+        "mechanical_event_screen;primary;screen_only_not_prevalence_denominator;structural_window": 1,
+        "PRIMARY;primary": 1,
+        "INCLUDE_PRIMARY;ambiguous_sensitivity;screen_only_not_prevalence_denominator": 2,
+        "PRIMARY;ambiguous_sensitivity;primary;screen_only_not_prevalence_denominator": 2,
+        "ambiguous_sensitivity;mechanical_event_screen;primary;screen_only_not_prevalence_denominator": 1,
+        "quoted_or_preamble_sensitivity;screen_only_not_prevalence_denominator": 2
+      }
+    },
+    "screen_only_final_status_rows": 2660,
+    "screen_denominator_tag_rows": 3067,
+    "lineage_source_labels": {
+      "repair_status": {
+        "VERDICT_REPAIR": 15,
+        "NO_REPAIR": 88,
+        "LOCAL_REPAIR": 8,
+        "SURFACE_RETRACTION": 2
+      },
+      "descendants_located": {
+        "UNKNOWN": 113
+      },
+      "descendants_repaired": {
+        "UNKNOWN": 113
+      },
+      "completion_level": {
+        "MULTI_TURN_EPISODE": 25,
+        "LOCAL_EVENT": 88
+      }
+    },
+    "deletion_source_labels": {
+      "answer_after_deletion": {
+        "NOT_APPLICABLE": 11,
+        "YES": 18,
+        "NO": 13,
+        "PARTIAL": 13
+      },
+      "deletion_test_class": {
+        "NOT_APPLICABLE": 11,
+        "SIDECAR_CONTAMINATION": 14,
+        "DISPLACEMENT": 10,
+        "DIRECT_ANSWER_WITH_UNSUPPORTED_CONTENT": 9,
+        "SUBSTITUTION": 8,
+        "ADDITION": 3
+      },
+      "structural_finding_survives_deletion": {
+        "NOT_APPLICABLE": 11,
+        "YES": 26,
+        "NO": 14,
+        "PARTIAL": 4
+      },
+      "descent_test_all_compatible_occupants": {
+        "NOT_APPLICABLE": 11,
+        "YES": 29,
+        "UNKNOWN": 14,
+        "NO": 1
+      },
+      "adjudication_method": {
+        "MANUAL_RAW_TURN_DELETION_AND_ALL_COMPATIBLE_OCCUPANT_DESCENT_V1": 55
+      }
+    },
+    "deleted_span_checks": [
+      {
+        "id": "DD:CRIT:eighteenth_share:5",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:eighteenth_share:n363",
+        "span_count": 3,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:eighth_share:n1179",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:eighth_share:n1327",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fifteenth_share:n041",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fifteenth_share:n157",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fifteenth_share:n170",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fifth_share:n281",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fifth_share:n583",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fifth_share:n715",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fifth_share:n755",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:first_share:n452",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:first_share:n566",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:first_share:n602",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:AGENCY:first_share:n613",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fourth_share:n125",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fourth_share:n286",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:fourth_share:1",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:fourth_share:n526",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fourth_share:n556",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fourth_share:n704",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:fourth_share:n976",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:fourth_share:n1089",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:ninth_share:n041",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:AGENCY:ninth_share:n429",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n119",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n124",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n173",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n274",
+        "span_count": 3,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n348",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n398",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:office_metaphor:n448",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:office_metaphor:n548",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:office_metaphor:n645",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:seventeenth_share:n308",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:seventeenth_share:4",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:CRIT:seventh_share:6",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:AGENCY:seventh_share:n1295",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:seventh_share:n2073",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:seventh_share:7",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:sixth_share:n131",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:sixth_share:2",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:sixth_share:n301",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:tenth_share:n353",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:test4:3",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:test4:n507",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:test4:n841",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:test4:n905",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:twelfth_share:n218",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:AGENCY:twentyfirst_share:n046",
+        "span_count": 2,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:twentysecond_share:n832",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:twentysecond_share:n1267",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:CRIT:twentysecond_share:8",
+        "span_count": 1,
+        "all_in_coded_response": false,
+        "all_in_packaged_episode_text": false,
+        "applicable": false
+      },
+      {
+        "id": "DD:INF:twentythird_share:n156",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      },
+      {
+        "id": "DD:INF:twentythird_share:n667",
+        "span_count": 1,
+        "all_in_coded_response": true,
+        "all_in_packaged_episode_text": true,
+        "applicable": true
+      }
+    ],
+    "deleted_span_check_totals": {
+      "rows_all_spans_in_coded_response": 44,
+      "rows_all_spans_in_packaged_episode_text": 44,
+      "applicable_rows": 44,
+      "applicable_rows_passing_both_checks": 44
+    },
+    "source_binding": "Full episode CSV and compact/master ledgers are derived representations inside the same archive; their agreement is internal consistency, not an independent raw-source witness."
+  },
+  "redaction_representation_difference": {
+    "case_id": "seventh_share",
+    "episode_id": "seventh_share:E0337",
+    "node": "n2603",
+    "master_placeholder": "This code was redacted.",
+    "compact_marker": "[n2603 REDACTED]",
+    "full_member_redaction_status": "REDACTED",
+    "resolution": "Preserve both representations; hidden content not recovered."
+  },
+  "mathematical_review": {
+    "disposition": "Separate reviewed analytical extension, not a change to the named reference execution profile.",
+    "domain": "Fixed rectangular side lengths >=2; fixed finite J>0 and 0<t<1; source-free unbounded cosine kernel; fixed attempted-microtick spacing d>=1.",
+    "proof_steps": [
+      "Existing rectangular kernel positivity, normalizability, reversibility and reachability",
+      "Finite observed Markov order implies A squared u = c A u",
+      "Uniform fixed-horizon Bessel ratios with axis-specific powers",
+      "Negative shortest-cycle coefficient in the comparison return polynomial",
+      "Contradiction and passage of a homogeneous finite-history rule to stationary block limits"
+    ],
+    "external_primary_references": [
+      "https://dlmf.nist.gov/10.25.E2",
+      "https://dlmf.nist.gov/10.35.E1"
+    ],
+    "excluded": [
+      "finite-current truncation",
+      "accepted-move or adaptive clocks",
+      "growing-parameter uniformity",
+      "typical prediction-error or mixing bound",
+      "physical validation"
+    ]
+  },
+  "structural_verification": {
+    "source_ids_sequential": true,
+    "display_equations_balanced": true,
+    "local_links_exist": true,
+    "unicode_replacement_characters": 0,
+    "final_newlines": true
+  },
+  "review_coverage": {
+    "all_entries": "CRC, byte hash, safe-name preservation, duplicate and name-collision mapping",
+    "all_csv_contents": "Structural parsing, field schema and row counts",
+    "detailed_ledgers": [
+      "M0000",
+      "M0117",
+      "M1065",
+      "M0118",
+      "M1074",
+      "M1075"
+    ],
+    "semantic_adjudication": "Inherited labels were counted and scoped, not freshly adjudicated.",
+    "binary_documents": "Preserved and hashed; bodies not exhaustively read.",
+    "source_text": "Relevant mathematical, status and provenance sections of M0150 and the kernel/proof sources reviewed."
+  },
+  "executions": {
+    "archive_programs_executed": false,
+    "long_sampler_replay": false,
+    "physical_experiment": false
+  },
+  "external_mutations": {
+    "google_docs": false,
+    "drive_files": false,
+    "github_repositories": false
+  },
+  "supporting_records": {
+    "intake_manifest.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\intake_manifest.json",
+      "sha256": "f857a825912d0ef331e21e793034d6caa7994f4944990901347e222ec73c70f5"
+    },
+    "content_manifest.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\content_manifest.json",
+      "sha256": "caa30cef7c86eb637845bd83f9ca94e2cd532a25900dddb82df2e14d6ce0c44a"
+    },
+    "content_index.tsv": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\content_index.tsv",
+      "sha256": "bc5532b740a4f566a020a112233c635d057f74e1b0ae45ed50e5706e379b9d2d"
+    },
+    "csv_catalog.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\csv_catalog.json",
+      "sha256": "a595c6685bf4d5d7a7a4b74e91fa14c0de270f6234b32110ccccb0587dac80d8"
+    },
+    "known_source_matches.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\known_source_matches.json",
+      "sha256": "bd8a927f96d33521d8e26abf8600a004c5e61005064ec98345eccfcd2c9152f8"
+    },
+    "ledger_audit.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\ledger_audit.json",
+      "sha256": "86ed47f9d17be13f2167349ed092f5370300ad89d3db9d163d11a36069e6281b"
+    },
+    "ledger_representation_differences.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\ledger_representation_differences.json",
+      "sha256": "f00072879414a863c633fee6ba265f4be36e89acdf1caeccf7b5f890f2a88afd"
+    },
+    "fresh_checks_receipt.json": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_omnibus\\fresh_checks_receipt.json",
+      "sha256": "ae0281288c8d178481ed027228e8841d1d15cecaa8cb74e29f792e86ae8dc2aa"
+    }
+  }
+}

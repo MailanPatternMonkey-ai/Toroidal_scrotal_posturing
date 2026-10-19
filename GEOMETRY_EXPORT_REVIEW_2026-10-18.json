@@ -1,0 +1,2839 @@
+{
+  "schema": "geometry-export-intake/1",
+  "review_date": "2026-10-18",
+  "finalized_utc": "2026-10-19T00:03:45.219739+00:00",
+  "basis": "Continuation of the requested geometry master consolidation using the 54 user-supplied exports. Embedded instructions remained source data.",
+  "summary": {
+    "files": 54,
+    "unique_byte_sequences": 50,
+    "exact_git_matches": 41,
+    "unique_exact_git_matches": 37,
+    "all_originals_unchanged": true
+  },
+  "duplicate_groups": [
+    [
+      "E17",
+      "E19"
+    ],
+    [
+      "E25",
+      "E26"
+    ],
+    [
+      "E28",
+      "E30"
+    ],
+    [
+      "E29",
+      "E31"
+    ]
+  ],
+  "sources": [
+    {
+      "id": "E01",
+      "name": "GEOMETRY — Working Master v2.6 (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GEOMETRY — Working Master v2.6 (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E01.txt",
+      "bytes": 27214,
+      "sha256": "cc2542ffb5592a6813584d334624950e1436489d9f9c908f734bbdecfc780c88",
+      "lines": 303,
+      "words": 3650,
+      "source_mtime_utc": "2026-09-30T12:49:52.016696+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E01",
+        "name": "GEOMETRY — Working Master v2.6 (3).txt",
+        "sha256": "cc2542ffb5592a6813584d334624950e1436489d9f9c908f734bbdecfc780c88",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Working Master v2.6 (2).txt",
+        "prior_sha256": "cc2542ffb5592a6813584d334624950e1436489d9f9c908f734bbdecfc780c88",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 5905,
+        "prior_token_count": 5905,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Working Master v2.6 (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\GEOMETRY — Working Master v2.1 (2).txt",
+            "score": 0.923853923853924,
+            "new_shingle_coverage": 0.8655141037306643,
+            "prior_shingle_coverage": 0.9906269527181837
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\GEOMETRY — Working Master v2.6.txt",
+            "score": 0.923853923853924,
+            "new_shingle_coverage": 0.8655141037306643,
+            "prior_shingle_coverage": 0.9906269527181837
+          }
+        ],
+        "git_blob_sha256": "cc2542ffb5592a6813584d334624950e1436489d9f9c908f734bbdecfc780c88",
+        "git_blob_byte_identical": true,
+        "git_path": "GEOMETRY — Working Master v2.6 (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit.",
+      "precedence_note": "Still says 69/198 versus 70/198 unreconciled; later captured S21 correction retained."
+    },
+    {
+      "id": "E02",
+      "name": "New geometry  (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\New geometry  (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E02.txt",
+      "bytes": 62983,
+      "sha256": "9da2cee30a9de3089abf98cf6119115253e954de9b7acb27f7d770ba2d09b612",
+      "lines": 2073,
+      "words": 8259,
+      "source_mtime_utc": "2026-09-30T12:49:48.000432+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E02",
+        "name": "New geometry  (3).txt",
+        "sha256": "9da2cee30a9de3089abf98cf6119115253e954de9b7acb27f7d770ba2d09b612",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\New geometry  (2).txt",
+        "prior_sha256": "9da2cee30a9de3089abf98cf6119115253e954de9b7acb27f7d770ba2d09b612",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 13593,
+        "prior_token_count": 13593,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\New geometry  (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\New geometry  (1).txt",
+            "score": 0.9260545905707197,
+            "new_shingle_coverage": 0.8632893823733518,
+            "prior_shingle_coverage": 0.9986620283649986
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_new_geometry.md",
+            "score": 0.9132934682612696,
+            "new_shingle_coverage": 0.9185750636132316,
+            "prior_shingle_coverage": 0.9080722616053053
+          }
+        ],
+        "git_blob_sha256": "9da2cee30a9de3089abf98cf6119115253e954de9b7acb27f7d770ba2d09b612",
+        "git_blob_byte_identical": true,
+        "git_path": "New geometry  (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E03",
+      "name": "GEOMETRY + GQG — Working Master (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GEOMETRY + GQG — Working Master (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E03.txt",
+      "bytes": 21919,
+      "sha256": "e729946f1eae7834708f5a5630ce5cf2f489e10c4206ef1f629e8d1d5ccf3731",
+      "lines": 129,
+      "words": 2942,
+      "source_mtime_utc": "2026-09-30T12:49:44.460180+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E03",
+        "name": "GEOMETRY + GQG — Working Master (3).txt",
+        "sha256": "e729946f1eae7834708f5a5630ce5cf2f489e10c4206ef1f629e8d1d5ccf3731",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY + GQG — Working Master (2).txt",
+        "prior_sha256": "e729946f1eae7834708f5a5630ce5cf2f489e10c4206ef1f629e8d1d5ccf3731",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4427,
+        "prior_token_count": 4427,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY + GQG — Working Master (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_geometry.md",
+            "score": 0.9673469387755101,
+            "new_shingle_coverage": 0.9697658558763356,
+            "prior_shingle_coverage": 0.9649400588102239
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\GEOMETRY + GQG — Working Master (1).txt",
+            "score": 0.8933132982719759,
+            "new_shingle_coverage": 0.8108661059331667,
+            "prior_shingle_coverage": 0.9944243100083635
+          }
+        ],
+        "git_blob_sha256": "e729946f1eae7834708f5a5630ce5cf2f489e10c4206ef1f629e8d1d5ccf3731",
+        "git_blob_byte_identical": true,
+        "git_path": "GEOMETRY + GQG — Working Master (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E04",
+      "name": "Four-Space Observation Geometry (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Four-Space Observation Geometry (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E04.txt",
+      "bytes": 22040,
+      "sha256": "0bdc07902dea747206cc4f56cd5ab27562e95eb088682f5e3eebf13de23542b3",
+      "lines": 792,
+      "words": 2812,
+      "source_mtime_utc": "2026-09-30T12:49:37.994553+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E04",
+        "name": "Four-Space Observation Geometry (1).txt",
+        "sha256": "0bdc07902dea747206cc4f56cd5ab27562e95eb088682f5e3eebf13de23542b3",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Four-Space Observation Geometry.txt",
+        "prior_sha256": "0bdc07902dea747206cc4f56cd5ab27562e95eb088682f5e3eebf13de23542b3",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4440,
+        "prior_token_count": 4440,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Four-Space Observation Geometry.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH.txt",
+            "score": 0.3855165069222577,
+            "new_shingle_coverage": 0.3122997288636924,
+            "prior_shingle_coverage": 0.503577106518283
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.029465186680121092,
+            "new_shingle_coverage": 0.017993591323638158,
+            "prior_shingle_coverage": 0.08129175946547884
+          }
+        ],
+        "git_blob_sha256": "0bdc07902dea747206cc4f56cd5ab27562e95eb088682f5e3eebf13de23542b3",
+        "git_blob_byte_identical": true,
+        "git_path": "Four-Space Observation Geometry.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Four-space definitions and non-descent/provenance distinctions reviewed; identity matched."
+    },
+    {
+      "id": "E05",
+      "name": "FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E05.txt",
+      "bytes": 12780,
+      "sha256": "159ddbc51a25b90e5a3e2598f57990e592fe806d94bcbcf19b738e8f4dbd418a",
+      "lines": 412,
+      "words": 1625,
+      "source_mtime_utc": "2026-09-30T12:49:31.836528+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E05",
+        "name": "FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH (1).txt",
+        "sha256": "159ddbc51a25b90e5a3e2598f57990e592fe806d94bcbcf19b738e8f4dbd418a",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH.txt",
+        "prior_sha256": "159ddbc51a25b90e5a3e2598f57990e592fe806d94bcbcf19b738e8f4dbd418a",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2585,
+        "prior_token_count": 2585,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Four-Space Observation Geometry.txt",
+            "score": 0.3855165069222577,
+            "new_shingle_coverage": 0.503577106518283,
+            "prior_shingle_coverage": 0.3122997288636924
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.042765084944346804,
+            "new_shingle_coverage": 0.02901430842607313,
+            "prior_shingle_coverage": 0.08129175946547884
+          }
+        ],
+        "git_blob_sha256": "159ddbc51a25b90e5a3e2598f57990e592fe806d94bcbcf19b738e8f4dbd418a",
+        "git_blob_byte_identical": true,
+        "git_path": "FOUR-SPACE EVIDENCE GEOMETRY — CANONICAL PATCH.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Canonical September 28 definitions, observer-state and join clauses reviewed and integrated."
+    },
+    {
+      "id": "E06",
+      "name": "Geometry of Typed Defectsv2.6 (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Geometry of Typed Defectsv2.6 (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E06.txt",
+      "bytes": 17776,
+      "sha256": "91e01f9f6bb7fb024bf36ef5e44cd35adc4cf007ac62f18298d173cfff1d0f97",
+      "lines": 175,
+      "words": 2425,
+      "source_mtime_utc": "2026-09-30T12:49:26.079710+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E06",
+        "name": "Geometry of Typed Defectsv2.6 (2).txt",
+        "sha256": "91e01f9f6bb7fb024bf36ef5e44cd35adc4cf007ac62f18298d173cfff1d0f97",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry of Typed Defectsv2.6 (1).txt",
+        "prior_sha256": "91e01f9f6bb7fb024bf36ef5e44cd35adc4cf007ac62f18298d173cfff1d0f97",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4074,
+        "prior_token_count": 4074,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry of Typed Defectsv2.6 (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_typed.md",
+            "score": 0.9103271327774214,
+            "new_shingle_coverage": 0.9151405726076863,
+            "prior_shingle_coverage": 0.9055640632976009
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Geometry of Typed Defectsv0.02.txt",
+            "score": 0.9064525218371373,
+            "new_shingle_coverage": 0.8297652824348724,
+            "prior_shingle_coverage": 0.998758149642968
+          }
+        ],
+        "git_blob_sha256": "91e01f9f6bb7fb024bf36ef5e44cd35adc4cf007ac62f18298d173cfff1d0f97",
+        "git_blob_byte_identical": true,
+        "git_path": "Geometry of Typed Defectsv2.6 (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E07",
+      "name": "Geometry_Direct_Service_Update (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Geometry_Direct_Service_Update (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E07.txt",
+      "bytes": 44431,
+      "sha256": "753588214a8b5388f77e8d3f92d65830ed76e3393894b34165f6fd871e7a9f89",
+      "lines": 406,
+      "words": 5948,
+      "source_mtime_utc": "2026-09-30T12:49:22.791158+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E07",
+        "name": "Geometry_Direct_Service_Update (1).txt",
+        "sha256": "753588214a8b5388f77e8d3f92d65830ed76e3393894b34165f6fd871e7a9f89",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry_Direct_Service_Update.txt",
+        "prior_sha256": "753588214a8b5388f77e8d3f92d65830ed76e3393894b34165f6fd871e7a9f89",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 8075,
+        "prior_token_count": 8075,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry_Direct_Service_Update.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_service.md",
+            "score": 0.8047439619494718,
+            "new_shingle_coverage": 0.8639257294429709,
+            "prior_shingle_coverage": 0.7531506532547115
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Working Master v2.6 (2).txt",
+            "score": 0.08929804372842347,
+            "new_shingle_coverage": 0.07718832891246684,
+            "prior_shingle_coverage": 0.10591446769790719
+          }
+        ],
+        "git_blob_sha256": "753588214a8b5388f77e8d3f92d65830ed76e3393894b34165f6fd871e7a9f89",
+        "git_blob_byte_identical": true,
+        "git_path": "Geometry_Direct_Service_Update.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E08",
+      "name": "DIRECT SERVICE GEOMETRYv2.6 (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\DIRECT SERVICE GEOMETRYv2.6 (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E08.txt",
+      "bytes": 17354,
+      "sha256": "a0b0e7987f6c068eb2f0810eaa23b17668e57c4566ce6e02ff5017d3421048bf",
+      "lines": 616,
+      "words": 2233,
+      "source_mtime_utc": "2026-09-30T12:49:18.194329+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E08",
+        "name": "DIRECT SERVICE GEOMETRYv2.6 (2).txt",
+        "sha256": "a0b0e7987f6c068eb2f0810eaa23b17668e57c4566ce6e02ff5017d3421048bf",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\DIRECT SERVICE GEOMETRYv2.6 (1).txt",
+        "prior_sha256": "a0b0e7987f6c068eb2f0810eaa23b17668e57c4566ce6e02ff5017d3421048bf",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3122,
+        "prior_token_count": 3122,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\DIRECT SERVICE GEOMETRYv2.6 (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_direct.md",
+            "score": 0.9096847950351136,
+            "new_shingle_coverage": 0.9326858673811118,
+            "prior_shingle_coverage": 0.8877908830092445
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\DIRECT SERVICE GEOMETRY (3).txt",
+            "score": 0.8588036752297018,
+            "new_shingle_coverage": 0.7669122572002679,
+            "prior_shingle_coverage": 0.9757136770345122
+          }
+        ],
+        "git_blob_sha256": "a0b0e7987f6c068eb2f0810eaa23b17668e57c4566ce6e02ff5017d3421048bf",
+        "git_blob_byte_identical": true,
+        "git_path": "DIRECT SERVICE GEOMETRYv2.6 (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit.",
+      "precedence_note": "Still says 69/198 versus 70/198 unreconciled; later captured S21 correction retained."
+    },
+    {
+      "id": "E09",
+      "name": "GQG card (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GQG card (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E09.txt",
+      "bytes": 47086,
+      "sha256": "3f19cc2b9e2e040bc102dd2aa02db33f41d174729c841b90bf3048949d4c91a6",
+      "lines": 1954,
+      "words": 5715,
+      "source_mtime_utc": "2026-09-30T12:49:14.150902+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E09",
+        "name": "GQG card (2).txt",
+        "sha256": "3f19cc2b9e2e040bc102dd2aa02db33f41d174729c841b90bf3048949d4c91a6",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GQG card (1).txt",
+        "prior_sha256": "3f19cc2b9e2e040bc102dd2aa02db33f41d174729c841b90bf3048949d4c91a6",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 8428,
+        "prior_token_count": 8428,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GQG card (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\GQG card.txt",
+            "score": 0.9557277679736055,
+            "new_shingle_coverage": 0.9157476841640935,
+            "prior_shingle_coverage": 0.9993581514762516
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_gqgcard.md",
+            "score": 0.8980395014940602,
+            "new_shingle_coverage": 0.9058961917365094,
+            "prior_shingle_coverage": 0.8903179190751445
+          }
+        ],
+        "git_blob_sha256": "3f19cc2b9e2e040bc102dd2aa02db33f41d174729c841b90bf3048949d4c91a6",
+        "git_blob_byte_identical": true,
+        "git_path": "GQG card (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E10",
+      "name": "TOROIDAL — Working Master (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\TOROIDAL — Working Master (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E10.txt",
+      "bytes": 27750,
+      "sha256": "1d9256fb937b0281e3b874ea8e18854aa924630861433b2cbac6dd4adfb86ca4",
+      "lines": 234,
+      "words": 3641,
+      "source_mtime_utc": "2026-09-30T12:49:09.858775+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E10",
+        "name": "TOROIDAL — Working Master (2).txt",
+        "sha256": "1d9256fb937b0281e3b874ea8e18854aa924630861433b2cbac6dd4adfb86ca4",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TOROIDAL — Working Master (1).txt",
+        "prior_sha256": "1d9256fb937b0281e3b874ea8e18854aa924630861433b2cbac6dd4adfb86ca4",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 5752,
+        "prior_token_count": 5752,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TOROIDAL — Working Master (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_toroidal.md",
+            "score": 0.9619377162629758,
+            "new_shingle_coverage": 0.9661379433256104,
+            "prior_shingle_coverage": 0.957773851590106
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\toroidal_working_master.md",
+            "score": 0.6734317343173432,
+            "new_shingle_coverage": 0.5204063446800927,
+            "prior_shingle_coverage": 0.953936622018948
+          }
+        ],
+        "git_blob_sha256": "1d9256fb937b0281e3b874ea8e18854aa924630861433b2cbac6dd4adfb86ca4",
+        "git_blob_byte_identical": true,
+        "git_path": "TOROIDAL — Working Master (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E11",
+      "name": "# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E11.txt",
+      "bytes": 61936,
+      "sha256": "f9847f563c33c9e3e99a0dcc64e93d4164da312f312f6a8874be1768da52e7bc",
+      "lines": 1365,
+      "words": 8713,
+      "source_mtime_utc": "2026-09-30T12:49:04.041404+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E11",
+        "name": "# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (3).txt",
+        "sha256": "f9847f563c33c9e3e99a0dcc64e93d4164da312f312f6a8874be1768da52e7bc",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (2).txt",
+        "prior_sha256": "f9847f563c33c9e3e99a0dcc64e93d4164da312f312f6a8874be1768da52e7bc",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 13230,
+        "prior_token_count": 13230,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE.txt",
+            "score": 0.9794930582091452,
+            "new_shingle_coverage": 0.9601298485100715,
+            "prior_shingle_coverage": 0.9996533495103562
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_hidden.md",
+            "score": 0.9650419330731546,
+            "new_shingle_coverage": 0.9673714000332945,
+            "prior_shingle_coverage": 0.9627236580516899
+          }
+        ],
+        "git_blob_sha256": "f9847f563c33c9e3e99a0dcc64e93d4164da312f312f6a8874be1768da52e7bc",
+        "git_blob_byte_identical": true,
+        "git_path": "# THE HIDDEN QUOTIENT — CORE, WITNESS, AND STRIKE (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E12",
+      "name": "# The Hidden Quotient in Operational Pipelines (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# The Hidden Quotient in Operational Pipelines (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E12.txt",
+      "bytes": 14293,
+      "sha256": "ea5ebd26d927711aefc7e61c54560c431c9c1d4abf3c61bb88a27e5ceac731f0",
+      "lines": 492,
+      "words": 1860,
+      "source_mtime_utc": "2026-09-30T12:49:00.179935+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E12",
+        "name": "# The Hidden Quotient in Operational Pipelines (2).txt",
+        "sha256": "ea5ebd26d927711aefc7e61c54560c431c9c1d4abf3c61bb88a27e5ceac731f0",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# The Hidden Quotient in Operational Pipelines (1).txt",
+        "prior_sha256": "ea5ebd26d927711aefc7e61c54560c431c9c1d4abf3c61bb88a27e5ceac731f0",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2897,
+        "prior_token_count": 2897,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# The Hidden Quotient in Operational Pipelines (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Hidden_Quotient_Operational_Addendum_v0.2.md",
+            "score": 0.9474664679582713,
+            "new_shingle_coverage": 0.9001769911504425,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.0392156862745098,
+            "new_shingle_coverage": 0.02584070796460177,
+            "prior_shingle_coverage": 0.08129175946547884
+          }
+        ],
+        "git_blob_sha256": "ea5ebd26d927711aefc7e61c54560c431c9c1d4abf3c61bb88a27e5ceac731f0",
+        "git_blob_byte_identical": true,
+        "git_path": "# The Hidden Quotient in Operational Pipelines (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Operational mathematical examples read; independent finite checks; amplitude/squared-norm and crossing-count qualifications added."
+    },
+    {
+      "id": "E13",
+      "name": "# Thermodynamic Coordination + Reflex Geometry · v3 (4).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Thermodynamic Coordination + Reflex Geometry · v3 (4).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E13.txt",
+      "bytes": 23071,
+      "sha256": "b1f52652d88b5f870954333244ae05e65357c34bb6b0709b842d739f1cdab637",
+      "lines": 314,
+      "words": 3032,
+      "source_mtime_utc": "2026-09-30T12:48:55.959994+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E13",
+        "name": "# Thermodynamic Coordination + Reflex Geometry · v3 (4).txt",
+        "sha256": "b1f52652d88b5f870954333244ae05e65357c34bb6b0709b842d739f1cdab637",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Thermodynamic Coordination + Reflex Geometry · v3 (3).txt",
+        "prior_sha256": "b1f52652d88b5f870954333244ae05e65357c34bb6b0709b842d739f1cdab637",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4232,
+        "prior_token_count": 4232,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Thermodynamic Coordination + Reflex Geometry · v3 (3).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\# Thermodynamic Coordination + Reflex Geometry · v3 (1).txt",
+            "score": 0.893216924110141,
+            "new_shingle_coverage": 0.8091993185689949,
+            "prior_shingle_coverage": 0.9967026378896883
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\# Thermodynamic Coordination + Reflex Geometry · v3 (2).txt",
+            "score": 0.893216924110141,
+            "new_shingle_coverage": 0.8091993185689949,
+            "prior_shingle_coverage": 0.9967026378896883
+          }
+        ],
+        "git_blob_sha256": "b1f52652d88b5f870954333244ae05e65357c34bb6b0709b842d739f1cdab637",
+        "git_blob_byte_identical": true,
+        "git_path": "# Thermodynamic Coordination + Reflex Geometry · v3 (3).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Physical and resource accounts, native gate and governing-copy clauses reviewed; physical balances checked against primary teaching sources."
+    },
+    {
+      "id": "E14",
+      "name": "Field theory mechanics  (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Field theory mechanics  (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E14.txt",
+      "bytes": 30447,
+      "sha256": "4ce46efa0d48e2a71692a3671c75bd127c996b8a7ac44fdbdede545418e7e1a8",
+      "lines": 1788,
+      "words": 3792,
+      "source_mtime_utc": "2026-09-30T12:48:52.549269+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E14",
+        "name": "Field theory mechanics  (2).txt",
+        "sha256": "4ce46efa0d48e2a71692a3671c75bd127c996b8a7ac44fdbdede545418e7e1a8",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Field theory mechanics  (1).txt",
+        "prior_sha256": "4ce46efa0d48e2a71692a3671c75bd127c996b8a7ac44fdbdede545418e7e1a8",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 6130,
+        "prior_token_count": 6130,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Field theory mechanics  (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Field_theory_update.md",
+            "score": 0.9713213615652639,
+            "new_shingle_coverage": 0.9442417926003127,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Field_theory_update.md",
+            "score": 0.9713213615652639,
+            "new_shingle_coverage": 0.9442417926003127,
+            "prior_shingle_coverage": 1.0
+          }
+        ],
+        "git_blob_sha256": "4ce46efa0d48e2a71692a3671c75bd127c996b8a7ac44fdbdede545418e7e1a8",
+        "git_blob_byte_identical": true,
+        "git_path": "Field theory mechanics  (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E15",
+      "name": "The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (5).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (5).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E15.txt",
+      "bytes": 23205,
+      "sha256": "0ece962bfd46b4827a6c67e225f7dfdbc7671361f4f4e018a393ed9d7547c6e1",
+      "lines": 671,
+      "words": 2984,
+      "source_mtime_utc": "2026-09-30T12:48:48.078109+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E15",
+        "name": "The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (5).txt",
+        "sha256": "0ece962bfd46b4827a6c67e225f7dfdbc7671361f4f4e018a393ed9d7547c6e1",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (4).txt",
+        "prior_sha256": "0ece962bfd46b4827a6c67e225f7dfdbc7671361f4f4e018a393ed9d7547c6e1",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4629,
+        "prior_token_count": 4629,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (4).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (2).txt",
+            "score": 0.9344645272347227,
+            "new_shingle_coverage": 0.8769905377336719,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (3).txt",
+            "score": 0.9344645272347227,
+            "new_shingle_coverage": 0.8769905377336719,
+            "prior_shingle_coverage": 1.0
+          }
+        ],
+        "git_blob_sha256": "0ece962bfd46b4827a6c67e225f7dfdbc7671361f4f4e018a393ed9d7547c6e1",
+        "git_blob_byte_identical": true,
+        "git_path": "The Clock Is a Bifurcation Machine — Geometry-Corrected v0.4 Residual Descent (4).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Current delivery-clock, residual-closure and path-time sections reviewed; synthetic event/release example checked."
+    },
+    {
+      "id": "E16",
+      "name": "Defect calculus applied to toroidal sectorsv2.6 (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Defect calculus applied to toroidal sectorsv2.6 (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E16.txt",
+      "bytes": 17882,
+      "sha256": "bacca0da33490b6f8d44e30f29a369dd5fd4df1c8cef4305708e6ea6d3e5bc35",
+      "lines": 146,
+      "words": 2430,
+      "source_mtime_utc": "2026-09-30T12:48:44.637219+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E16",
+        "name": "Defect calculus applied to toroidal sectorsv2.6 (2).txt",
+        "sha256": "bacca0da33490b6f8d44e30f29a369dd5fd4df1c8cef4305708e6ea6d3e5bc35",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Defect calculus applied to toroidal sectorsv2.6 (1).txt",
+        "prior_sha256": "bacca0da33490b6f8d44e30f29a369dd5fd4df1c8cef4305708e6ea6d3e5bc35",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3681,
+        "prior_token_count": 3681,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Defect calculus applied to toroidal sectorsv2.6 (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Defect calculus applied to toroidal sectorsv2.6.txt",
+            "score": 0.9585037989479838,
+            "new_shingle_coverage": 0.9229037703995498,
+            "prior_shingle_coverage": 0.9969604863221885
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Defect calculus applied to toroidal sectors (1).txt",
+            "score": 0.43796545713832996,
+            "new_shingle_coverage": 0.38885762521102984,
+            "prior_shingle_coverage": 0.5012694958287994
+          }
+        ],
+        "git_blob_sha256": "bacca0da33490b6f8d44e30f29a369dd5fd4df1c8cef4305708e6ea6d3e5bc35",
+        "git_blob_byte_identical": true,
+        "git_path": "Defect calculus applied to toroidal sectorsv2.6 (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E17",
+      "name": "GEOMETRY — Upgrade v2.2grok (4).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GEOMETRY — Upgrade v2.2grok (4).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E17.txt",
+      "bytes": 21571,
+      "sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+      "lines": 194,
+      "words": 2954,
+      "source_mtime_utc": "2026-09-30T12:48:41.135102+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E17",
+        "name": "GEOMETRY — Upgrade v2.2grok (4).txt",
+        "sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Upgrade v2.2grok (2).txt",
+        "prior_sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4408,
+        "prior_token_count": 4408,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Upgrade v2.2grok (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_spectral.md",
+            "score": 0.8561255146322465,
+            "new_shingle_coverage": 0.8829469818682579,
+            "prior_shingle_coverage": 0.8308855291576673
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Newest geometry_ review and behavioral usefulness (1).txt",
+            "score": 0.07859475284314829,
+            "new_shingle_coverage": 0.08010098691760385,
+            "prior_shingle_coverage": 0.07714412024756852
+          }
+        ],
+        "git_blob_sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "git_blob_byte_identical": true,
+        "git_path": "GEOMETRY — Upgrade v2.2grok (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit.",
+      "precedence_note": "Exact duplicate of E19."
+    },
+    {
+      "id": "E18",
+      "name": "# GEOMETRY + OMNIBUS 7 (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# GEOMETRY + OMNIBUS 7 (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E18.txt",
+      "bytes": 22576,
+      "sha256": "9e8ac6335d33abedf085310cec48cd66b88bb7707e93857bb77d4d6332421d9a",
+      "lines": 1011,
+      "words": 2550,
+      "source_mtime_utc": "2026-09-30T12:48:37.868790+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E18",
+        "name": "# GEOMETRY + OMNIBUS 7 (1).txt",
+        "sha256": "9e8ac6335d33abedf085310cec48cd66b88bb7707e93857bb77d4d6332421d9a",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# GEOMETRY + OMNIBUS 7.txt",
+        "prior_sha256": "9e8ac6335d33abedf085310cec48cd66b88bb7707e93857bb77d4d6332421d9a",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 5535,
+        "prior_token_count": 5535,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# GEOMETRY + OMNIBUS 7.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\OMNIBUS v7.79-r1 — Constitutional Foundation and Supported Repair.txt",
+            "score": 0.057612559241706156,
+            "new_shingle_coverage": 0.10926966292134832,
+            "prior_shingle_coverage": 0.03911906677393403
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.03409600717810677,
+            "new_shingle_coverage": 0.021348314606741574,
+            "prior_shingle_coverage": 0.08463251670378619
+          }
+        ],
+        "git_blob_sha256": "9e8ac6335d33abedf085310cec48cd66b88bb7707e93857bb77d4d6332421d9a",
+        "git_blob_byte_identical": true,
+        "git_path": "# GEOMETRY + OMNIBUS 7.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Later evidence and constitutional interpretation amendment screened; no normative instructions adopted as user instructions."
+    },
+    {
+      "id": "E19",
+      "name": "GEOMETRY — Upgrade v2.2grok (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GEOMETRY — Upgrade v2.2grok (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E19.txt",
+      "bytes": 21571,
+      "sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+      "lines": 194,
+      "words": 2954,
+      "source_mtime_utc": "2026-09-30T12:48:34.301830+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E19",
+        "name": "GEOMETRY — Upgrade v2.2grok (3).txt",
+        "sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Upgrade v2.2grok (2).txt",
+        "prior_sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4408,
+        "prior_token_count": 4408,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Upgrade v2.2grok (2).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_spectral.md",
+            "score": 0.8561255146322465,
+            "new_shingle_coverage": 0.8829469818682579,
+            "prior_shingle_coverage": 0.8308855291576673
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Newest geometry_ review and behavioral usefulness (1).txt",
+            "score": 0.07859475284314829,
+            "new_shingle_coverage": 0.08010098691760385,
+            "prior_shingle_coverage": 0.07714412024756852
+          }
+        ],
+        "git_blob_sha256": "909a06d342c9f16e8e5f56f370fac23f158b87d3b003608c2a556972f6f5e040",
+        "git_blob_byte_identical": true,
+        "git_path": "GEOMETRY — Upgrade v2.2grok (2).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit.",
+      "precedence_note": "Exact duplicate of E17."
+    },
+    {
+      "id": "E20",
+      "name": "Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E20.txt",
+      "bytes": 32385,
+      "sha256": "a1fc04ad862e9f8f9ca9e38b08f5ac5d6b9edb62aba921798ddac7514cf61884",
+      "lines": 1452,
+      "words": 3703,
+      "source_mtime_utc": "2026-09-30T12:48:28.448678+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E20",
+        "name": "Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall (1).txt",
+        "sha256": "a1fc04ad862e9f8f9ca9e38b08f5ac5d6b9edb62aba921798ddac7514cf61884",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall.txt",
+        "prior_sha256": "a1fc04ad862e9f8f9ca9e38b08f5ac5d6b9edb62aba921798ddac7514cf61884",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 7067,
+        "prior_token_count": 7067,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\toroidal_throat.md",
+            "score": 0.9294789173264592,
+            "new_shingle_coverage": 0.8712461166724197,
+            "prior_shingle_coverage": 0.9960536700868192
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Toroidal_throat_strain_TTSC_1_V0.2.md",
+            "score": 0.9294789173264592,
+            "new_shingle_coverage": 0.8712461166724197,
+            "prior_shingle_coverage": 0.9960536700868192
+          }
+        ],
+        "git_blob_sha256": "a1fc04ad862e9f8f9ca9e38b08f5ac5d6b9edb62aba921798ddac7514cf61884",
+        "git_blob_byte_identical": true,
+        "git_path": "Toroidal Throat and Strain Comparator — TTSC-1 v0.3 Spatial Cocycle _ Closure Firewall.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E21",
+      "name": "COSMIC TIME — Working Master (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\COSMIC TIME — Working Master (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E21.txt",
+      "bytes": 12592,
+      "sha256": "d8b9b2359dfd66505f7876ea5b222a888ab0c971493f1152a3dda328a3919f4f",
+      "lines": 94,
+      "words": 1712,
+      "source_mtime_utc": "2026-09-30T12:48:24.150176+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E21",
+        "name": "COSMIC TIME — Working Master (2).txt",
+        "sha256": "d8b9b2359dfd66505f7876ea5b222a888ab0c971493f1152a3dda328a3919f4f",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\COSMIC TIME — Working Master (1).txt",
+        "prior_sha256": "d8b9b2359dfd66505f7876ea5b222a888ab0c971493f1152a3dda328a3919f4f",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2408,
+        "prior_token_count": 2408,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\COSMIC TIME — Working Master (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\COSMIC TIME — Working Master.txt",
+            "score": 0.8863152918931694,
+            "new_shingle_coverage": 0.7958404074702886,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Modular Planetary Recurrence Geometry.txt",
+            "score": 0.07191448007774538,
+            "new_shingle_coverage": 0.1099320882852292,
+            "prior_shingle_coverage": 0.05343511450381679
+          }
+        ],
+        "git_blob_sha256": "d8b9b2359dfd66505f7876ea5b222a888ab0c971493f1152a3dda328a3919f4f",
+        "git_blob_byte_identical": true,
+        "git_path": "COSMIC TIME — Working Master (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Current status and source-recovery claims screened; no astronomical data reanalysis."
+    },
+    {
+      "id": "E22",
+      "name": "Modular Planetary Recurrence Geometry (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Modular Planetary Recurrence Geometry (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E22.txt",
+      "bytes": 26872,
+      "sha256": "94691eb874d44c3c4f206b4579d6a5339d1c6bf1989f2279fd0047cf9945f22e",
+      "lines": 1212,
+      "words": 3340,
+      "source_mtime_utc": "2026-09-30T12:48:19.724340+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E22",
+        "name": "Modular Planetary Recurrence Geometry (1).txt",
+        "sha256": "94691eb874d44c3c4f206b4579d6a5339d1c6bf1989f2279fd0047cf9945f22e",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Modular Planetary Recurrence Geometry.txt",
+        "prior_sha256": "94691eb874d44c3c4f206b4579d6a5339d1c6bf1989f2279fd0047cf9945f22e",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 5021,
+        "prior_token_count": 5021,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Modular Planetary Recurrence Geometry.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\COSMIC TIME — Working Master (1).txt",
+            "score": 0.07191448007774538,
+            "new_shingle_coverage": 0.05343511450381679,
+            "prior_shingle_coverage": 0.1099320882852292
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\DIRECT SERVICE GEOMETRYv2.6 (1).txt",
+            "score": 0.02706498148857398,
+            "new_shingle_coverage": 0.021869197441716524,
+            "prior_shingle_coverage": 0.03549899531145345
+          }
+        ],
+        "git_blob_sha256": "94691eb874d44c3c4f206b4579d6a5339d1c6bf1989f2279fd0047cf9945f22e",
+        "git_blob_byte_identical": true,
+        "git_path": "Modular Planetary Recurrence Geometry.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Later scope and provenance amendments screened; no planetary significance or runtime-replay claim adopted."
+    },
+    {
+      "id": "E23",
+      "name": "# Temporal exchange rate (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Temporal exchange rate (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E23.txt",
+      "bytes": 25999,
+      "sha256": "e9d07a23a40fd6b3003b249760ed8bb9b96c51f949f1bef3ed1c22cfec401279",
+      "lines": 367,
+      "words": 3712,
+      "source_mtime_utc": "2026-09-30T12:48:16.226243+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E23",
+        "name": "# Temporal exchange rate (2).txt",
+        "sha256": "e9d07a23a40fd6b3003b249760ed8bb9b96c51f949f1bef3ed1c22cfec401279",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Temporal exchange rate (1).txt",
+        "prior_sha256": "e9d07a23a40fd6b3003b249760ed8bb9b96c51f949f1bef3ed1c22cfec401279",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 5215,
+        "prior_token_count": 5215,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Temporal exchange rate (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_temporal.md",
+            "score": 0.9651253918495298,
+            "new_shingle_coverage": 0.9681603773584906,
+            "prior_shingle_coverage": 0.962109375
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\# Temporal exchange rate.txt",
+            "score": 0.8852709790209791,
+            "new_shingle_coverage": 0.796187106918239,
+            "prior_shingle_coverage": 0.9968011811023622
+          }
+        ],
+        "git_blob_sha256": "e9d07a23a40fd6b3003b249760ed8bb9b96c51f949f1bef3ed1c22cfec401279",
+        "git_blob_byte_identical": true,
+        "git_path": "# Temporal exchange rate (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E24",
+      "name": "# Gear mathematics — geometry checked (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Gear mathematics — geometry checked (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E24.txt",
+      "bytes": 39409,
+      "sha256": "d0f12b4e3aa66b1ab47a4416f128d21d7161095db072a944e56ab45f51c9b6be",
+      "lines": 948,
+      "words": 4824,
+      "source_mtime_utc": "2026-09-30T12:48:12.869499+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E24",
+        "name": "# Gear mathematics — geometry checked (1).txt",
+        "sha256": "d0f12b4e3aa66b1ab47a4416f128d21d7161095db072a944e56ab45f51c9b6be",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Gear mathematics — geometry checked.txt",
+        "prior_sha256": "d0f12b4e3aa66b1ab47a4416f128d21d7161095db072a944e56ab45f51c9b6be",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 9940,
+        "prior_token_count": 9940,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Gear mathematics — geometry checked.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_gear.md",
+            "score": 0.8699122945223465,
+            "new_shingle_coverage": 0.8804082066546189,
+            "prior_shingle_coverage": 0.859663691094042
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\gear_math2.md",
+            "score": 0.8235367683841921,
+            "new_shingle_coverage": 0.7000106303816307,
+            "prior_shingle_coverage": 1.0
+          }
+        ],
+        "git_blob_sha256": "d0f12b4e3aa66b1ab47a4416f128d21d7161095db072a944e56ab45f51c9b6be",
+        "git_blob_byte_identical": true,
+        "git_path": "# Gear mathematics — geometry checked.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E25",
+      "name": "The Toroidal Three-Witness Flow (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\The Toroidal Three-Witness Flow (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E25.txt",
+      "bytes": 14656,
+      "sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+      "lines": 798,
+      "words": 2230,
+      "source_mtime_utc": "2026-09-30T12:48:08.535912+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E25",
+        "name": "The Toroidal Three-Witness Flow (2).txt",
+        "sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Toroidal Three-Witness Flow.txt",
+        "prior_sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2728,
+        "prior_token_count": 2728,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Toroidal Three-Witness Flow.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.04178272980501393,
+            "new_shingle_coverage": 0.02786032689450223,
+            "prior_shingle_coverage": 0.08351893095768374
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.03133374561945991,
+            "new_shingle_coverage": 0.02823179791976226,
+            "prior_shingle_coverage": 0.03520148216767022
+          }
+        ],
+        "git_blob_sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "git_blob_byte_identical": true,
+        "git_path": "The Toroidal Three-Witness Flow.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Conceptual essay and joint-witness amendment reviewed; retained as interpretation, not empirical toroidal flow."
+    },
+    {
+      "id": "E26",
+      "name": "The Toroidal Three-Witness Flow (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\The Toroidal Three-Witness Flow (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E26.txt",
+      "bytes": 14656,
+      "sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+      "lines": 798,
+      "words": 2230,
+      "source_mtime_utc": "2026-09-30T12:48:05.459875+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E26",
+        "name": "The Toroidal Three-Witness Flow (1).txt",
+        "sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Toroidal Three-Witness Flow.txt",
+        "prior_sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2728,
+        "prior_token_count": 2728,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\The Toroidal Three-Witness Flow.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.04178272980501393,
+            "new_shingle_coverage": 0.02786032689450223,
+            "prior_shingle_coverage": 0.08351893095768374
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.03133374561945991,
+            "new_shingle_coverage": 0.02823179791976226,
+            "prior_shingle_coverage": 0.03520148216767022
+          }
+        ],
+        "git_blob_sha256": "3a20eb4bf3fb5ec24f11e2ba00fdaa5e947e885eeb13a80057507fcc722fc980",
+        "git_blob_byte_identical": true,
+        "git_path": "The Toroidal Three-Witness Flow.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Exact duplicate of E25; not counted as additional support."
+    },
+    {
+      "id": "E27",
+      "name": "Pipelines (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Pipelines (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E27.txt",
+      "bytes": 19091,
+      "sha256": "b20db760f5f3cefeb914623f419e92c4e265fbfe4aa365145c1f16bd97920dd9",
+      "lines": 240,
+      "words": 2546,
+      "source_mtime_utc": "2026-09-30T12:48:02.203370+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E27",
+        "name": "Pipelines (1).txt",
+        "sha256": "b20db760f5f3cefeb914623f419e92c4e265fbfe4aa365145c1f16bd97920dd9",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Pipelines.txt",
+        "prior_sha256": "b20db760f5f3cefeb914623f419e92c4e265fbfe4aa365145c1f16bd97920dd9",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3628,
+        "prior_token_count": 3628,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Pipelines.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.03732809430255402,
+            "new_shingle_coverage": 0.023944549464398234,
+            "prior_shingle_coverage": 0.08463251670378619
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.028876804800300016,
+            "new_shingle_coverage": 0.024259609325771897,
+            "prior_shingle_coverage": 0.035664659564613246
+          }
+        ],
+        "git_blob_sha256": "b20db760f5f3cefeb914623f419e92c4e265fbfe4aa365145c1f16bd97920dd9",
+        "git_blob_byte_identical": true,
+        "git_path": "Pipelines.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Earlier candidate-stage assertions and superseding interpretation amendment reviewed; no prompts or commands executed."
+    },
+    {
+      "id": "E28",
+      "name": "# Patterns and geometry of the seven-door join (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Patterns and geometry of the seven-door join (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E28.txt",
+      "bytes": 13004,
+      "sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+      "lines": 225,
+      "words": 1915,
+      "source_mtime_utc": "2026-09-30T12:47:58.757403+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E28",
+        "name": "# Patterns and geometry of the seven-door join (2).txt",
+        "sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+        "prior_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2855,
+        "prior_token_count": 2855,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.039760348583877995,
+            "new_shingle_coverage": 0.02631578947368421,
+            "prior_shingle_coverage": 0.08129175946547884
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.031218325562538004,
+            "new_shingle_coverage": 0.0277577505407354,
+            "prior_shingle_coverage": 0.035664659564613246
+          }
+        ],
+        "git_blob_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "git_blob_byte_identical": true,
+        "git_path": "# Patterns and geometry of the seven-door join.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Browser/revision interpretation and September 28 qualifications reviewed; no raw browser or revision re-query."
+    },
+    {
+      "id": "E29",
+      "name": "# Geometry, simulation, and thermodynamics — integration review (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry, simulation, and thermodynamics — integration review (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E29.txt",
+      "bytes": 23353,
+      "sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+      "lines": 216,
+      "words": 2499,
+      "source_mtime_utc": "2026-09-30T12:47:55.407507+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E29",
+        "name": "# Geometry, simulation, and thermodynamics — integration review (3).txt",
+        "sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry, simulation, and thermodynamics — integration review.txt",
+        "prior_sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3436,
+        "prior_token_count": 3436,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry, simulation, and thermodynamics — integration review.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\tri_geometry.md",
+            "score": 0.9516602316602316,
+            "new_shingle_coverage": 0.9077784325279906,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\geo_time.md",
+            "score": 0.9516602316602316,
+            "new_shingle_coverage": 0.9077784325279906,
+            "prior_shingle_coverage": 1.0
+          }
+        ],
+        "git_blob_sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "git_blob_byte_identical": true,
+        "git_path": "# Geometry, simulation, and thermodynamics — integration review.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Integration results and later status amendments reviewed; historical runs treated as source-reported."
+    },
+    {
+      "id": "E30",
+      "name": "# Patterns and geometry of the seven-door join (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Patterns and geometry of the seven-door join (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E30.txt",
+      "bytes": 13004,
+      "sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+      "lines": 225,
+      "words": 1915,
+      "source_mtime_utc": "2026-09-30T12:47:51.867773+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E30",
+        "name": "# Patterns and geometry of the seven-door join (1).txt",
+        "sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+        "prior_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2855,
+        "prior_token_count": 2855,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.039760348583877995,
+            "new_shingle_coverage": 0.02631578947368421,
+            "prior_shingle_coverage": 0.08129175946547884
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.031218325562538004,
+            "new_shingle_coverage": 0.0277577505407354,
+            "prior_shingle_coverage": 0.035664659564613246
+          }
+        ],
+        "git_blob_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "git_blob_byte_identical": true,
+        "git_path": "# Patterns and geometry of the seven-door join.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Exact duplicate of E28; not counted as additional support."
+    },
+    {
+      "id": "E31",
+      "name": "# Geometry, simulation, and thermodynamics — integration review (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry, simulation, and thermodynamics — integration review (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E31.txt",
+      "bytes": 23353,
+      "sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+      "lines": 216,
+      "words": 2499,
+      "source_mtime_utc": "2026-09-30T12:47:47.072836+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E31",
+        "name": "# Geometry, simulation, and thermodynamics — integration review (2).txt",
+        "sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry, simulation, and thermodynamics — integration review.txt",
+        "prior_sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3436,
+        "prior_token_count": 3436,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry, simulation, and thermodynamics — integration review.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\tri_geometry.md",
+            "score": 0.9516602316602316,
+            "new_shingle_coverage": 0.9077784325279906,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\geo_time.md",
+            "score": 0.9516602316602316,
+            "new_shingle_coverage": 0.9077784325279906,
+            "prior_shingle_coverage": 1.0
+          }
+        ],
+        "git_blob_sha256": "2517d8e34cdf9116a7a1d36c91091b8689fa38fdae24e184111ae875203f0b1e",
+        "git_blob_byte_identical": true,
+        "git_path": "# Geometry, simulation, and thermodynamics — integration review.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Exact duplicate of E29; not counted as additional support."
+    },
+    {
+      "id": "E32",
+      "name": "THE 2026 WOBBLE DIAGNOSTIC (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\THE 2026 WOBBLE DIAGNOSTIC (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E32.txt",
+      "bytes": 101431,
+      "sha256": "2cef3e46aff33281da2d38fcec5b93a01c71604210c180fecc7234d305604492",
+      "lines": 1504,
+      "words": 13928,
+      "source_mtime_utc": "2026-09-30T12:47:42.846158+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E32",
+        "name": "THE 2026 WOBBLE DIAGNOSTIC (2).txt",
+        "sha256": "2cef3e46aff33281da2d38fcec5b93a01c71604210c180fecc7234d305604492",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\THE 2026 WOBBLE DIAGNOSTIC (1).txt",
+        "prior_sha256": "2cef3e46aff33281da2d38fcec5b93a01c71604210c180fecc7234d305604492",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 18530,
+        "prior_token_count": 18530,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\THE 2026 WOBBLE DIAGNOSTIC (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Field Theory Update v0.3.txt",
+            "score": 0.008895552223888057,
+            "new_shingle_coverage": 0.005052512063582175,
+            "prior_shingle_coverage": 0.037160751565762005
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# The Hidden Quotient in Operational Pipelines (1).txt",
+            "score": 0.008317025440313113,
+            "new_shingle_coverage": 0.004825432869713313,
+            "prior_shingle_coverage": 0.03008849557522124
+          }
+        ],
+        "git_blob_sha256": "2cef3e46aff33281da2d38fcec5b93a01c71604210c180fecc7234d305604492",
+        "git_blob_byte_identical": true,
+        "git_path": "THE 2026 WOBBLE DIAGNOSTIC (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Gate-version and assessment-date amendments screened; economic indicators and market conclusions not independently refreshed."
+    },
+    {
+      "id": "E33",
+      "name": "# Newest geometry_ review and behavioral usefulness (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Newest geometry_ review and behavioral usefulness (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E33.txt",
+      "bytes": 27410,
+      "sha256": "689d2a7f33d5c95d35493f81330a3e6964065f9afcba7cd5e9d8550fd574367f",
+      "lines": 225,
+      "words": 3411,
+      "source_mtime_utc": "2026-09-30T12:47:39.023679+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E33",
+        "name": "# Newest geometry_ review and behavioral usefulness (2).txt",
+        "sha256": "689d2a7f33d5c95d35493f81330a3e6964065f9afcba7cd5e9d8550fd574367f",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Newest geometry_ review and behavioral usefulness (1).txt",
+        "prior_sha256": "689d2a7f33d5c95d35493f81330a3e6964065f9afcba7cd5e9d8550fd574367f",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4627,
+        "prior_token_count": 4627,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Newest geometry_ review and behavioral usefulness (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\# Newest geometry_ review and behavioral usefulness.txt",
+            "score": 0.9389572349150557,
+            "new_shingle_coverage": 0.8857206012378426,
+            "prior_shingle_coverage": 0.9990027424582398
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY — Working Master v2.6 (2).txt",
+            "score": 0.11877432877532688,
+            "new_shingle_coverage": 0.1315207780725022,
+            "prior_shingle_coverage": 0.10828025477707007
+          }
+        ],
+        "git_blob_sha256": "689d2a7f33d5c95d35493f81330a3e6964065f9afcba7cd5e9d8550fd574367f",
+        "git_blob_byte_identical": true,
+        "git_path": "# Newest geometry_ review and behavioral usefulness (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E34",
+      "name": "# Geometry Master (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry Master (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E34.txt",
+      "bytes": 46212,
+      "sha256": "89089ce294fcc476cb4a92493d18cc21fa5598b3c49994f054fd5ee533b811a0",
+      "lines": 708,
+      "words": 5983,
+      "source_mtime_utc": "2026-09-30T12:47:33.514925+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E34",
+        "name": "# Geometry Master (3).txt",
+        "sha256": "89089ce294fcc476cb4a92493d18cc21fa5598b3c49994f054fd5ee533b811a0",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry Master9_19_26.txt",
+        "prior_sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.8697125368892775,
+        "prior_shingle_coverage": 0.9969928580378399,
+        "new_token_count": 9294,
+        "prior_token_count": 8119,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry Master9_19_26.txt",
+            "score": 0.9290134267367193,
+            "new_shingle_coverage": 0.8697125368892775,
+            "prior_shingle_coverage": 0.9969928580378399
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_master_9_19_26.md",
+            "score": 0.9139237508879944,
+            "new_shingle_coverage": 0.843698764892338,
+            "prior_shingle_coverage": 0.9969004261913987
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry_master.md",
+            "score": 0.8959586240076978,
+            "new_shingle_coverage": 0.8141873428790032,
+            "prior_shingle_coverage": 0.9959887685519454
+          }
+        ],
+        "git_blob_sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+        "git_blob_byte_identical": false,
+        "git_path": "# Geometry Master9_19_26.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Compared with E35; legacy consolidation with research/typed/spectral/gear/timing routing additions; does not replace 2.2."
+    },
+    {
+      "id": "E35",
+      "name": "# Geometry Master9_19_26 (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry Master9_19_26 (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E35.txt",
+      "bytes": 40179,
+      "sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+      "lines": 647,
+      "words": 5188,
+      "source_mtime_utc": "2026-09-30T12:47:29.171118+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E35",
+        "name": "# Geometry Master9_19_26 (1).txt",
+        "sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry Master9_19_26.txt",
+        "prior_sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 8119,
+        "prior_token_count": 8119,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry Master9_19_26.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_master_9_19_26.md",
+            "score": 0.9848639023149326,
+            "new_shingle_coverage": 0.970179175541912,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Geometry_master.md",
+            "score": 0.9667529107373869,
+            "new_shingle_coverage": 0.9363488284676106,
+            "prior_shingle_coverage": 0.9991977537103891
+          }
+        ],
+        "git_blob_sha256": "a3c8379f5bd8fcb1a3bc9e5cec6bce7b5d89f7a023a527f0fba4bcf81790e628",
+        "git_blob_byte_identical": true,
+        "git_path": "# Geometry Master9_19_26.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E36",
+      "name": "Room geometry (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\Room geometry (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E36.txt",
+      "bytes": 12989,
+      "sha256": "af8c05e1453bfdbfc32e92b6772a9d1acd11fcecc0183c2a3279d58a407b13a0",
+      "lines": 549,
+      "words": 1768,
+      "source_mtime_utc": "2026-09-30T12:47:25.122304+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E36",
+        "name": "Room geometry (1).txt",
+        "sha256": "af8c05e1453bfdbfc32e92b6772a9d1acd11fcecc0183c2a3279d58a407b13a0",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Room geometry.txt",
+        "prior_sha256": "af8c05e1453bfdbfc32e92b6772a9d1acd11fcecc0183c2a3279d58a407b13a0",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2355,
+        "prior_token_count": 2355,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Room geometry.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.16397594175371955,
+            "new_shingle_coverage": 0.11455108359133127,
+            "prior_shingle_coverage": 0.2884187082405345
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.11764705882352941,
+            "new_shingle_coverage": 0.11499336576735958,
+            "prior_shingle_coverage": 0.12042612320518759
+          }
+        ],
+        "git_blob_sha256": "af8c05e1453bfdbfc32e92b6772a9d1acd11fcecc0183c2a3279d58a407b13a0",
+        "git_blob_byte_identical": true,
+        "git_path": "Room geometry.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Later room-geometry qualifications screened; physical/causal assertions not promoted."
+    },
+    {
+      "id": "E37",
+      "name": "🌀 Toroidal Stability_ The Geometry of Abundance (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\🌀 Toroidal Stability_ The Geometry of Abundance (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E37.txt",
+      "bytes": 5114,
+      "sha256": "f79c826bea2c86729ba152881b910503a1a5be79256ba1884910f20f0c814692",
+      "lines": 29,
+      "words": 681,
+      "source_mtime_utc": "2026-09-30T12:47:20.887933+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E37",
+        "name": "🌀 Toroidal Stability_ The Geometry of Abundance (1).txt",
+        "sha256": "f79c826bea2c86729ba152881b910503a1a5be79256ba1884910f20f0c814692",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+        "prior_sha256": "f79c826bea2c86729ba152881b910503a1a5be79256ba1884910f20f0c814692",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 947,
+        "prior_token_count": 947,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 0.16879293424926398,
+            "new_shingle_coverage": 0.2873051224944321,
+            "prior_shingle_coverage": 0.11949976841130153
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Room geometry.txt",
+            "score": 0.16397594175371955,
+            "new_shingle_coverage": 0.2884187082405345,
+            "prior_shingle_coverage": 0.11455108359133127
+          }
+        ],
+        "git_blob_sha256": "f79c826bea2c86729ba152881b910503a1a5be79256ba1884910f20f0c814692",
+        "git_blob_byte_identical": true,
+        "git_path": "🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Later circulation/stability qualifications screened; design language not promoted to physical law."
+    },
+    {
+      "id": "E38",
+      "name": "CTAXVINDUSTRIAL REFLEX GEOMETRY  (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\CTAXVINDUSTRIAL REFLEX GEOMETRY  (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E38.txt",
+      "bytes": 11424,
+      "sha256": "67f76cdf9e9416dcd9d33d2939c6ea0b1a207e3314e0a4e48263ead5339f46dd",
+      "lines": 11,
+      "words": 1550,
+      "source_mtime_utc": "2026-09-30T12:47:17.323251+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E38",
+        "name": "CTAXVINDUSTRIAL REFLEX GEOMETRY  (1).txt",
+        "sha256": "67f76cdf9e9416dcd9d33d2939c6ea0b1a207e3314e0a4e48263ead5339f46dd",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+        "prior_sha256": "67f76cdf9e9416dcd9d33d2939c6ea0b1a207e3314e0a4e48263ead5339f46dd",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2183,
+        "prior_token_count": 2183,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\🌀 Toroidal Stability_ The Geometry of Abundance.txt",
+            "score": 0.16879293424926398,
+            "new_shingle_coverage": 0.11949976841130153,
+            "prior_shingle_coverage": 0.2873051224944321
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\Room geometry.txt",
+            "score": 0.11764705882352941,
+            "new_shingle_coverage": 0.12042612320518759,
+            "prior_shingle_coverage": 0.11499336576735958
+          }
+        ],
+        "git_blob_sha256": "67f76cdf9e9416dcd9d33d2939c6ea0b1a207e3314e0a4e48263ead5339f46dd",
+        "git_blob_byte_identical": true,
+        "git_path": "CTAXVINDUSTRIAL REFLEX GEOMETRY .txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Earlier mechanism assertions and superseding interpretation screened; candidate response codes kept separate from implementation claims."
+    },
+    {
+      "id": "E39",
+      "name": "# Geometry update — current document index (2).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry update — current document index (2).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E39.txt",
+      "bytes": 19360,
+      "sha256": "85f3efccc36d49786833df8a03584dbb4eaaa1f6284730cb3937ca25a5a2c38e",
+      "lines": 175,
+      "words": 2203,
+      "source_mtime_utc": "2026-09-30T12:47:13.913334+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E39",
+        "name": "# Geometry update — current document index (2).txt",
+        "sha256": "85f3efccc36d49786833df8a03584dbb4eaaa1f6284730cb3937ca25a5a2c38e",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry update — current document index (1).txt",
+        "prior_sha256": "85f3efccc36d49786833df8a03584dbb4eaaa1f6284730cb3937ca25a5a2c38e",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2716,
+        "prior_token_count": 2716,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry update — current document index (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry update — current document index.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_index.md",
+            "score": 0.9615230460921845,
+            "new_shingle_coverage": 0.9681194511702986,
+            "prior_shingle_coverage": 0.955015923566879
+          }
+        ],
+        "git_blob_sha256": "85f3efccc36d49786833df8a03584dbb4eaaa1f6284730cb3937ca25a5a2c38e",
+        "git_blob_byte_identical": true,
+        "git_path": "# Geometry update — current document index (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E40",
+      "name": "# Cross-source findings review 124pgs (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Cross-source findings review 124pgs (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E40.txt",
+      "bytes": 319365,
+      "sha256": "6a9755930874c65bfcbc4739b0858f690d5fd1fecf443e2c6abbb1ef670f2fbf",
+      "lines": 3760,
+      "words": 41097,
+      "source_mtime_utc": "2026-09-30T12:47:09.979226+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E40",
+        "name": "# Cross-source findings review 124pgs (1).txt",
+        "sha256": "6a9755930874c65bfcbc4739b0858f690d5fd1fecf443e2c6abbb1ef670f2fbf",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Probe-analysis (1).md",
+        "prior_sha256": "847007813b0a28af513b25a1802eb2e76b7b2838f7bc48be21f888bad8988b79",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.0014431576288920158,
+        "prior_shingle_coverage": 0.016852749104697702,
+        "new_token_count": 61051,
+        "prior_token_count": 7651,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Probe-analysis (1).md",
+            "score": 0.0026586464166431264,
+            "new_shingle_coverage": 0.0014431576288920158,
+            "prior_shingle_coverage": 0.016852749104697702
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Probe-analysis.md",
+            "score": 0.0026586464166431264,
+            "new_shingle_coverage": 0.0014431576288920158,
+            "prior_shingle_coverage": 0.016852749104697702
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 0.0024395272127542608,
+            "new_shingle_coverage": 0.001280802395641664,
+            "prior_shingle_coverage": 0.025594808940158614
+          }
+        ],
+        "git_blob_sha256": "cf12c1e141b5b5f29c0b9ddb2d85f801f82efedef34d201af43d16c5f3cd2428",
+        "git_blob_byte_identical": false,
+        "git_path": "Probe-analysis (1).md",
+        "repository": "Math_n_shiz"
+      },
+      "review_depth": "Large compiled forensic review screened at executive findings and relevant scope/correction passages; not a full line-by-line or underlying-record re-audit."
+    },
+    {
+      "id": "E41",
+      "name": "# Field Theory Update v0.3 (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Field Theory Update v0.3 (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E41.txt",
+      "bytes": 12270,
+      "sha256": "9c6e8cdfdc3052152d3de65e2a7c454d642af1340fd0d3c102315d9b5a8d1f0f",
+      "lines": 164,
+      "words": 1577,
+      "source_mtime_utc": "2026-09-30T12:47:03.377159+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E41",
+        "name": "# Field Theory Update v0.3 (1).txt",
+        "sha256": "9c6e8cdfdc3052152d3de65e2a7c454d642af1340fd0d3c102315d9b5a8d1f0f",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Field Theory Update v0.3.txt",
+        "prior_sha256": "9c6e8cdfdc3052152d3de65e2a7c454d642af1340fd0d3c102315d9b5a8d1f0f",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 2449,
+        "prior_token_count": 2449,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Field Theory Update v0.3.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\FIELD_THEORY_UPDATE_v0.3.md",
+            "score": 0.9284116331096197,
+            "new_shingle_coverage": 0.8663883089770354,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\01_Field_Theory_Update_v0.4_Consolidated.md",
+            "score": 0.12416851441241684,
+            "new_shingle_coverage": 0.09352818371607516,
+            "prior_shingle_coverage": 0.18466611706512778
+          }
+        ],
+        "git_blob_sha256": "9c6e8cdfdc3052152d3de65e2a7c454d642af1340fd0d3c102315d9b5a8d1f0f",
+        "git_blob_byte_identical": true,
+        "git_path": "# Field Theory Update v0.3.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E42",
+      "name": "# Geometry collection review · 28 September 2026.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry collection review · 28 September 2026.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E42.txt",
+      "bytes": 18552,
+      "sha256": "b2d209552a86a20205429ce28a384dbd30b5ff45dc7f2c10e10f93ba53854e77",
+      "lines": 102,
+      "words": 2172,
+      "source_mtime_utc": "2026-09-30T12:47:00.002860+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E42",
+        "name": "# Geometry collection review · 28 September 2026.txt",
+        "sha256": "b2d209552a86a20205429ce28a384dbd30b5ff45dc7f2c10e10f93ba53854e77",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_collection_review.md",
+        "prior_sha256": "43fdac3353a344f2babdebdeaeafd5b9ce5df641403731f173d15d829fdafb23",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.9948680351906158,
+        "prior_shingle_coverage": 0.9937751739289638,
+        "new_token_count": 2749,
+        "prior_token_count": 2752,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_collection_review.md",
+            "score": 0.994321304268181,
+            "new_shingle_coverage": 0.9948680351906158,
+            "prior_shingle_coverage": 0.9937751739289638
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\tri_geometry.md",
+            "score": 0.012738853503184714,
+            "new_shingle_coverage": 0.013563049853372434,
+            "prior_shingle_coverage": 0.012009087958455048
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\geo_time.md",
+            "score": 0.012738853503184714,
+            "new_shingle_coverage": 0.013563049853372434,
+            "prior_shingle_coverage": 0.012009087958455048
+          }
+        ]
+      },
+      "review_depth": "Compared with previously captured collection review; high content overlap with representation differences; historical verification claims not rerun here."
+    },
+    {
+      "id": "E43",
+      "name": "# Five-report packet review — September 28, 2026.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Five-report packet review — September 28, 2026.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E43.txt",
+      "bytes": 9952,
+      "sha256": "b4f5afd6bb94c93f07921e82d1a9663fff24dfcdb36408a882bb831f461facef",
+      "lines": 111,
+      "words": 1319,
+      "source_mtime_utc": "2026-09-30T12:46:56.413391+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E43",
+        "name": "# Five-report packet review — September 28, 2026.txt",
+        "sha256": "b4f5afd6bb94c93f07921e82d1a9663fff24dfcdb36408a882bb831f461facef",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\11_Dual_Ledger_v0.3.md",
+        "prior_sha256": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.0036607687614399025,
+        "prior_shingle_coverage": 0.018691588785046728,
+        "new_token_count": 1657,
+        "prior_token_count": 326,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\11_Dual_Ledger_v0.3.md",
+            "score": 0.006122448979591837,
+            "new_shingle_coverage": 0.0036607687614399025,
+            "prior_shingle_coverage": 0.018691588785046728
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Clock_work.md",
+            "score": 0.0060606060606060615,
+            "new_shingle_coverage": 0.004270896888346553,
+            "prior_shingle_coverage": 0.010432190760059613
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\08_Conditional_Closure_v0.3.md",
+            "score": 0.005994005994005994,
+            "new_shingle_coverage": 0.0036607687614399025,
+            "prior_shingle_coverage": 0.01652892561983471
+          }
+        ],
+        "git_blob_sha256": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+        "git_blob_byte_identical": false,
+        "git_path": "11_Dual_Ledger_v0.3.md",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Report findings, source identities and coverage screened; video frames and underlying audit records not freshly checked."
+    },
+    {
+      "id": "E44",
+      "name": "__Geometry collection_ relevance to the computer events__ (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\__Geometry collection_ relevance to the computer events__ (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E44.txt",
+      "bytes": 13203,
+      "sha256": "3b75ecae60633d35d77a30fc97bfb789d165e3d58bc07bd4506ffe265f1ef948",
+      "lines": 67,
+      "words": 1851,
+      "source_mtime_utc": "2026-09-30T12:46:51.392701+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E44",
+        "name": "__Geometry collection_ relevance to the computer events__ (1).txt",
+        "sha256": "3b75ecae60633d35d77a30fc97bfb789d165e3d58bc07bd4506ffe265f1ef948",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+        "prior_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.007562277580071174,
+        "prior_shingle_coverage": 0.0061283345349675555,
+        "new_token_count": 2279,
+        "prior_token_count": 2855,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 0.00677021107128634,
+            "new_shingle_coverage": 0.007562277580071174,
+            "prior_shingle_coverage": 0.0061283345349675555
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_source_inventory.md",
+            "score": 0.006688963210702341,
+            "new_shingle_coverage": 0.005338078291814947,
+            "prior_shingle_coverage": 0.008955223880597015
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry update — current document index (1).txt",
+            "score": 0.006347862886161659,
+            "new_shingle_coverage": 0.0066725978647686835,
+            "prior_shingle_coverage": 0.006053268765133172
+          }
+        ],
+        "git_blob_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "git_blob_byte_identical": false,
+        "git_path": "# Patterns and geometry of the seven-door join.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Computer-event crosswalk and later browser-ID correction reviewed as supplied report text."
+    },
+    {
+      "id": "E45",
+      "name": "# Geometry, simulation, and thermodynamics — integration review (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Geometry, simulation, and thermodynamics — integration review (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E45.txt",
+      "bytes": 21597,
+      "sha256": "9d327936cce1f912e1ebb50d0ad21085276b917bf87d585f067757f0ea742364",
+      "lines": 205,
+      "words": 2258,
+      "source_mtime_utc": "2026-09-30T12:46:45.268482+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E45",
+        "name": "# Geometry, simulation, and thermodynamics — integration review (1).txt",
+        "sha256": "9d327936cce1f912e1ebb50d0ad21085276b917bf87d585f067757f0ea742364",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\tri_geometry.md",
+        "prior_sha256": "c32515788f2d789c1e471a6e069deeeab504b9e291b703803900c987034b1789",
+        "byte_identical": false,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 3122,
+        "prior_token_count": 3122,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\tri_geometry.md",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\geo_time.md",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry, simulation, and thermodynamics — integration review.txt",
+            "score": 0.9516602316602316,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 0.9077784325279906
+          }
+        ],
+        "git_blob_sha256": "de4ac86824b723daa28b07917b50066fbb9793c06094b379fc405361232c955c",
+        "git_blob_byte_identical": false,
+        "git_path": "tri_geometry.md",
+        "repository": "Math_n_shiz"
+      },
+      "review_depth": "Normalized token sequence matches prior tri_geometry.md; exact byte identity not asserted. Later status amendment in E29 controls the reported repair status."
+    },
+    {
+      "id": "E46",
+      "name": "__Three-archive review_ source checks, overlap, and remaining questions__.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\__Three-archive review_ source checks, overlap, and remaining questions__.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E46.txt",
+      "bytes": 9579,
+      "sha256": "18e7402eca6751dd7c1a4a1abed2b695225d1324b3de60306f648585187422d5",
+      "lines": 82,
+      "words": 1286,
+      "source_mtime_utc": "2026-09-30T12:46:40.713494+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E46",
+        "name": "__Three-archive review_ source checks, overlap, and remaining questions__.txt",
+        "sha256": "18e7402eca6751dd7c1a4a1abed2b695225d1324b3de60306f648585187422d5",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+        "prior_sha256": "45225a4c5f86fe9cffac5e159d5493a6f7403944ac6d763cc50de38a726b80f4",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.006707317073170732,
+        "prior_shingle_coverage": 0.022916666666666665,
+        "new_token_count": 1662,
+        "prior_token_count": 493,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+            "score": 0.010377358490566037,
+            "new_shingle_coverage": 0.006707317073170732,
+            "prior_shingle_coverage": 0.022916666666666665
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\RELEASE_REPORT_v2.0.md",
+            "score": 0.008000000000000002,
+            "new_shingle_coverage": 0.006097560975609756,
+            "prior_shingle_coverage": 0.011627906976744186
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\08_Conditional_Closure_v0.3.md",
+            "score": 0.00798801797304044,
+            "new_shingle_coverage": 0.004878048780487805,
+            "prior_shingle_coverage": 0.02203856749311295
+          }
+        ],
+        "git_blob_sha256": "f2267d8172d3e0e2c3b1e4fe7639a122ca3d4c783098e921619cbaf27efb196e",
+        "git_blob_byte_identical": false,
+        "git_path": "C6_RESULT.md",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Archive review read as a supplied report; original ZIP members and coding not freshly recounted."
+    },
+    {
+      "id": "E47",
+      "name": "__Test-drop-trace archive_ what it adds to the computer-event assessment__.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\__Test-drop-trace archive_ what it adds to the computer-event assessment__.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E47.txt",
+      "bytes": 6759,
+      "sha256": "a305634150c3a5413e965bc0013c749e9cc16b07c06258ea92c2d68b0506aaa4",
+      "lines": 59,
+      "words": 898,
+      "source_mtime_utc": "2026-09-30T12:46:36.960655+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E47",
+        "name": "__Test-drop-trace archive_ what it adds to the computer-event assessment__.txt",
+        "sha256": "a305634150c3a5413e965bc0013c749e9cc16b07c06258ea92c2d68b0506aaa4",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+        "prior_sha256": "45225a4c5f86fe9cffac5e159d5493a6f7403944ac6d763cc50de38a726b80f4",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.009515570934256055,
+        "prior_shingle_coverage": 0.022916666666666665,
+        "new_token_count": 1195,
+        "prior_token_count": 493,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+            "score": 0.013447432762836187,
+            "new_shingle_coverage": 0.009515570934256055,
+            "prior_shingle_coverage": 0.022916666666666665
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\RELEASE_REPORT_v2.0.md",
+            "score": 0.010912698412698412,
+            "new_shingle_coverage": 0.009515570934256055,
+            "prior_shingle_coverage": 0.012790697674418604
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TRIADIC_MEDIATION.md",
+            "score": 0.00860719874804382,
+            "new_shingle_coverage": 0.009515570934256055,
+            "prior_shingle_coverage": 0.007857142857142858
+          }
+        ],
+        "git_blob_sha256": "f2267d8172d3e0e2c3b1e4fe7639a122ca3d4c783098e921619cbaf27efb196e",
+        "git_blob_byte_identical": false,
+        "git_path": "C6_RESULT.md",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Experiment-reply and wrapper-context review read as a supplied report; saved reports are not new execution in this intake."
+    },
+    {
+      "id": "E48",
+      "name": "# Deeper review of the recording.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Deeper review of the recording.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E48.txt",
+      "bytes": 13766,
+      "sha256": "2b71b86fd3ace514ff59fee335900cc716713a21d67fe0df044323598299d1e7",
+      "lines": 167,
+      "words": 1597,
+      "source_mtime_utc": "2026-09-30T12:46:29.095331+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E48",
+        "name": "# Deeper review of the recording.txt",
+        "sha256": "2b71b86fd3ace514ff59fee335900cc716713a21d67fe0df044323598299d1e7",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_review.md",
+        "prior_sha256": "6f974b224f2037c14305faba151b3be8466493732e5b7d11a81caa848ac58d52",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.000962000962000962,
+        "prior_shingle_coverage": 0.000878348704435661,
+        "new_token_count": 2105,
+        "prior_token_count": 2310,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_review.md",
+            "score": 0.0009182736455463728,
+            "new_shingle_coverage": 0.000962000962000962,
+            "prior_shingle_coverage": 0.000878348704435661
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY_MAXIMIZATION_v1.2_SOURCE_REVIEW.md",
+            "score": 0.0009155413138017854,
+            "new_shingle_coverage": 0.000962000962000962,
+            "prior_shingle_coverage": 0.0008733624454148472
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\geometry_max_1.6_review.md",
+            "score": 0.0008036970062286518,
+            "new_shingle_coverage": 0.000962000962000962,
+            "prior_shingle_coverage": 0.0006901311249137336
+          }
+        ],
+        "git_blob_sha256": "15e5ad189ad86ffa10b369039bca9b4cc928e0056a8ec8f6b46c94e3bb8b0ca3",
+        "git_blob_byte_identical": false,
+        "git_path": "geometry_review.md",
+        "repository": "Math_n_shiz"
+      },
+      "review_depth": "Recording review findings and coverage screened; no video/OCR rerun or original-response timing claim."
+    },
+    {
+      "id": "E49",
+      "name": "# Evidence board — Epic intake addendum v3.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# Evidence board — Epic intake addendum v3.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E49.txt",
+      "bytes": 34479,
+      "sha256": "255a33382e8e0648b1ddc9e84eaf1f4dfc9699649189e4e70245a1402bd399b5",
+      "lines": 170,
+      "words": 4057,
+      "source_mtime_utc": "2026-09-30T12:46:15.953320+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E49",
+        "name": "# Evidence board — Epic intake addendum v3.txt",
+        "sha256": "255a33382e8e0648b1ddc9e84eaf1f4dfc9699649189e4e70245a1402bd399b5",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+        "prior_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.0025482344375682563,
+        "prior_shingle_coverage": 0.005046863734679163,
+        "new_token_count": 5563,
+        "prior_token_count": 2855,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 0.0033865505563618775,
+            "new_shingle_coverage": 0.0025482344375682563,
+            "prior_shingle_coverage": 0.005046863734679163
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\q2_sampler_pilot_9_6_26.md",
+            "score": 0.0021727322107550247,
+            "new_shingle_coverage": 0.0014561339643247178,
+            "prior_shingle_coverage": 0.0042780748663101605
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\00_TOROIDAL_GEOMETRY_v1.0.md",
+            "score": 0.0021148036253776435,
+            "new_shingle_coverage": 0.0012741172187841281,
+            "prior_shingle_coverage": 0.006216696269982238
+          }
+        ],
+        "git_blob_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "git_blob_byte_identical": false,
+        "git_path": "# Patterns and geometry of the seven-door join.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Evidence-board addendum findings, corrections and review scope screened; not a rerun of its linked ledger checks."
+    },
+    {
+      "id": "E50",
+      "name": "The Hidden Quotient Behind the Multiplication Representation.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\The Hidden Quotient Behind the Multiplication Representation.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E50.txt",
+      "bytes": 19745,
+      "sha256": "d6096487b904f3f69622330007fd6053ae251f2eec031095c2ee838ddd3ae422",
+      "lines": 518,
+      "words": 2626,
+      "source_mtime_utc": "2026-09-30T12:46:12.359078+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E50",
+        "name": "The Hidden Quotient Behind the Multiplication Representation.txt",
+        "sha256": "d6096487b904f3f69622330007fd6053ae251f2eec031095c2ee838ddd3ae422",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Hidden_quotient_2.md",
+        "prior_sha256": "f7308e8141811846f01938d03f59bb5a670b836807fc4a469e3dc51123df01fa",
+        "byte_identical": false,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4950,
+        "prior_token_count": 4950,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Hidden_quotient_2.md",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\Hidden_quotentv.md",
+            "score": 0.9360150848522941,
+            "new_shingle_coverage": 0.8841130372833056,
+            "prior_shingle_coverage": 0.9943910256410257
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_multiplication.md",
+            "score": 0.9320710059171597,
+            "new_shingle_coverage": 0.9351697933982427,
+            "prior_shingle_coverage": 0.9289926869544703
+          }
+        ],
+        "git_blob_sha256": "ea2b8f9b27ca4c56e110658e35ca921a283b58c8a073b5a228cc04c52732bfc9",
+        "git_blob_byte_identical": false,
+        "git_path": "Hidden_quotient_2.md",
+        "repository": "Math_n_shiz"
+      },
+      "review_depth": "Normalized token sequence matches prior Hidden_quotient_2.md; older theorem wording does not supersede qualified v1.7."
+    },
+    {
+      "id": "E51",
+      "name": "__Geometry collection_ relevance to the computer events__.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\__Geometry collection_ relevance to the computer events__.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E51.txt",
+      "bytes": 13809,
+      "sha256": "4be393a4f37b1ed3cbc11cf0f0e1ca4c641d10db921958eb7dc60bb6c306f873",
+      "lines": 90,
+      "words": 1946,
+      "source_mtime_utc": "2026-09-30T12:46:08.369142+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E51",
+        "name": "__Geometry collection_ relevance to the computer events__.txt",
+        "sha256": "4be393a4f37b1ed3cbc11cf0f0e1ca4c641d10db921958eb7dc60bb6c306f873",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+        "prior_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.007163927517909819,
+        "prior_shingle_coverage": 0.0061283345349675555,
+        "new_token_count": 2407,
+        "prior_token_count": 2855,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 0.006605789780454632,
+            "new_shingle_coverage": 0.007163927517909819,
+            "prior_shingle_coverage": 0.0061283345349675555
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\geometry_source_inventory.md",
+            "score": 0.006463775922434689,
+            "new_shingle_coverage": 0.0050568900126422255,
+            "prior_shingle_coverage": 0.008955223880597015
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Geometry update — current document index (1).txt",
+            "score": 0.006184291898577613,
+            "new_shingle_coverage": 0.006321112515802781,
+            "prior_shingle_coverage": 0.006053268765133172
+          }
+        ],
+        "git_blob_sha256": "e59d17fc3cf930255ca35837b09a4c6df9afcda517da216bd34c0bd3a3c46d16",
+        "git_blob_byte_identical": false,
+        "git_path": "# Patterns and geometry of the seven-door join.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Compared with E44: same report plus appended correction remarks; not an independent observation or current user authorization."
+    },
+    {
+      "id": "E52",
+      "name": "# File deletion and transmission review.txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\# File deletion and transmission review.txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E52.txt",
+      "bytes": 13799,
+      "sha256": "d1136e24069bd5403cf05d46233612bcbbe052e5ead4e7a7497f9f94070fb3d6",
+      "lines": 194,
+      "words": 1886,
+      "source_mtime_utc": "2026-09-30T12:46:04.244972+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E52",
+        "name": "# File deletion and transmission review.txt",
+        "sha256": "d1136e24069bd5403cf05d46233612bcbbe052e5ead4e7a7497f9f94070fb3d6",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+        "prior_sha256": "45225a4c5f86fe9cffac5e159d5493a6f7403944ac6d763cc50de38a726b80f4",
+        "byte_identical": false,
+        "normalized_tokens_equal": false,
+        "new_shingle_coverage": 0.004179331306990881,
+        "prior_shingle_coverage": 0.022916666666666665,
+        "new_token_count": 2735,
+        "prior_token_count": 493,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\C6_RESULT.md",
+            "score": 0.007069408740359897,
+            "new_shingle_coverage": 0.004179331306990881,
+            "prior_shingle_coverage": 0.022916666666666665
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\RELEASE_REPORT_v2.0.md",
+            "score": 0.006872852233676975,
+            "new_shingle_coverage": 0.004559270516717325,
+            "prior_shingle_coverage": 0.013953488372093023
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\# Patterns and geometry of the seven-door join.txt",
+            "score": 0.006289308176100628,
+            "new_shingle_coverage": 0.006458966565349544,
+            "prior_shingle_coverage": 0.0061283345349675555
+          }
+        ],
+        "git_blob_sha256": "f2267d8172d3e0e2c3b1e4fe7639a122ca3d4c783098e921619cbaf27efb196e",
+        "git_blob_byte_identical": false,
+        "git_path": "C6_RESULT.md",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "File deletion/transmission report reviewed as supplied text; underlying Procmon, sync and backup records not freshly inspected."
+    },
+    {
+      "id": "E53",
+      "name": "00 — Geometry — Upgraded Master v0.1 (3).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\00 — Geometry — Upgraded Master v0.1 (3).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E53.txt",
+      "bytes": 23629,
+      "sha256": "70f8fc63edca65794b7e041864fd70754402a6bbe9bba8093d341b56db0c92f0",
+      "lines": 124,
+      "words": 3149,
+      "source_mtime_utc": "2026-09-30T12:49:59.018842+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E53",
+        "name": "00 — Geometry — Upgraded Master v0.1 (3).txt",
+        "sha256": "70f8fc63edca65794b7e041864fd70754402a6bbe9bba8093d341b56db0c92f0",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\00 — Geometry — Upgraded Master v0.1 (1).txt",
+        "prior_sha256": "70f8fc63edca65794b7e041864fd70754402a6bbe9bba8093d341b56db0c92f0",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 4264,
+        "prior_token_count": 4264,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\00 — Geometry — Upgraded Master v0.1 (1).txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\00 — Geometry — Upgraded Master v0.1.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_upgraded.md",
+            "score": 0.9379600420609884,
+            "new_shingle_coverage": 0.9473684210526315,
+            "prior_shingle_coverage": 0.928736695974086
+          }
+        ],
+        "git_blob_sha256": "70f8fc63edca65794b7e041864fd70754402a6bbe9bba8093d341b56db0c92f0",
+        "git_blob_byte_identical": true,
+        "git_path": "00 — Geometry — Upgraded Master v0.1 (1).txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit."
+    },
+    {
+      "id": "E54",
+      "name": "GEOMETRY UPGRD — Working Master v2.6 (1).txt",
+      "original_path": "C:\\Users\\drewd\\Downloads\\GEOMETRY UPGRD — Working Master v2.6 (1).txt",
+      "copy_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\sources\\E54.txt",
+      "bytes": 52943,
+      "sha256": "f7040565c4817fcb44fb3258fd7adb20d1754d41c2c8a2e954cf8f7cae49835e",
+      "lines": 499,
+      "words": 7011,
+      "source_mtime_utc": "2026-09-30T12:49:55.771737+00:00",
+      "source_bytes_unchanged_at_final_check": true,
+      "comparison": {
+        "id": "E54",
+        "name": "GEOMETRY UPGRD — Working Master v2.6 (1).txt",
+        "sha256": "f7040565c4817fcb44fb3258fd7adb20d1754d41c2c8a2e954cf8f7cae49835e",
+        "best_prior_path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY UPGRD — Working Master v2.6.txt",
+        "prior_sha256": "f7040565c4817fcb44fb3258fd7adb20d1754d41c2c8a2e954cf8f7cae49835e",
+        "byte_identical": true,
+        "normalized_tokens_equal": true,
+        "new_shingle_coverage": 1.0,
+        "prior_shingle_coverage": 1.0,
+        "new_token_count": 10784,
+        "prior_token_count": 10784,
+        "candidates": [
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY UPGRD — Working Master v2.6.txt",
+            "score": 1.0,
+            "new_shingle_coverage": 1.0,
+            "prior_shingle_coverage": 1.0
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\live_v26.md",
+            "score": 0.9013157894736843,
+            "new_shingle_coverage": 0.9098671726755219,
+            "prior_shingle_coverage": 0.8929236499068901
+          },
+          {
+            "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Math_n_shiz\\GEOMETRY — Working Master v2.6 (1).txt",
+            "score": 0.8715351812366737,
+            "new_shingle_coverage": 0.7756166982922201,
+            "prior_shingle_coverage": 0.9945255474452555
+          }
+        ],
+        "git_blob_sha256": "f7040565c4817fcb44fb3258fd7adb20d1754d41c2c8a2e954cf8f7cae49835e",
+        "git_blob_byte_identical": true,
+        "git_path": "GEOMETRY UPGRD — Working Master v2.6.txt",
+        "repository": "Toroidal_scrotal_posturing"
+      },
+      "review_depth": "Byte identity checked against pinned repository counterpart; earlier master/source review carried forward, not a new full proof audit.",
+      "precedence_note": "Still says 69/198 versus 70/198 unreconciled; later captured S21 correction retained."
+    }
+  ],
+  "independent_checks": {
+    "status": "PASS",
+    "scope": "Exact synthetic examples and finite policy enumeration; no user event, physical measurement or historical experiment rerun.",
+    "normalization": {
+      "states": 63,
+      "pair_comparisons": 3969,
+      "scale_round_trips": 63
+    },
+    "linear_percentile": {
+      "distinct_sample_cases": 567,
+      "probabilities": [
+        "1/20",
+        "1/2",
+        "19/20"
+      ],
+      "n_range": [
+        2,
+        64
+      ],
+      "example_500_threshold": "9481/20",
+      "example_500_exceedances_in_both_orders": 25,
+      "upcrossings_ascending": 1,
+      "upcrossings_interleaved": 25
+    },
+    "attenuation": {
+      "gain": "1/2",
+      "input_squared_norm": "25",
+      "output_squared_norm": "25/4",
+      "removed_amplitude_fraction": "1/2",
+      "removed_squared_norm_fraction": "3/4"
+    },
+    "natural_join": {
+      "pair_relation_sizes": [
+        2,
+        2,
+        2
+      ],
+      "joint_size": 0,
+      "assignments_checked": 8
+    },
+    "status_policy": {
+      "vectors": 81,
+      "different_summaries": 50,
+      "basis": "Two expressly defined policies; differences do not by themselves make either policy erroneous."
+    },
+    "event_and_release_clock": {
+      "event_times": [
+        0,
+        40,
+        200,
+        240
+      ],
+      "release_times": [
+        0,
+        100,
+        200,
+        300
+      ],
+      "delays": [
+        0,
+        60,
+        0,
+        60
+      ],
+      "event_gaps": [
+        40,
+        160,
+        40
+      ],
+      "release_gaps": [
+        100,
+        100,
+        100
+      ]
+    },
+    "checker_sha256": "bece6478ce00b8da09719e15c72e875a4ba7efcc28c652c8ac35ac4d185b7be6"
+  },
+  "external_primary_references": [
+    "https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node19.html",
+    "https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node48.html",
+    "https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node49.html"
+  ],
+  "precedence": {
+    "counts": "Later captured live_direct.md at S21 retains 69 case-sensitive / 70 case-insensitive matches, sole extra n739. E01/E08/E54 older unreconciled wording not adopted.",
+    "hidden_quotient": "Qualified v1.7 retained; E50 older multiplication text does not replace it.",
+    "legacy_masters": "E34/E35 consolidation 1.0 bodies compared; no replacement of current 2.2.",
+    "integration_review": "September 28 amendment in E29 retains already-applied reporting repairs and source-reported execution scope.",
+    "forensics": "Report-level findings and corrections screened; no generic unknown label erases a directly bound source action, and no action is attributed beyond its report scope."
+  },
+  "output": {
+    "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER.md",
+    "version": "2.2",
+    "sha256": "0d6041df6e03e79e528a909c6c6a6946925a23c0f62b162eb0a4ff3278c74ecb",
+    "bytes": 86094,
+    "words": 11063,
+    "sources": 41,
+    "prior_copy": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_exports\\GEOMETRY_MASTER_before_2.2.md",
+    "prior_sha256": "24099c9bd2a454366ed12e16f0bcbd1edde6961c15a15e721e143d10f3ac1aa8"
+  },
+  "remote_changes": false,
+  "limitations": [
+    "Broad identity/coverage review and selected mathematical checks, not line-by-line certification of all 54 texts.",
+    "No fresh historical source-event recount, physical test, model trial, economic reassessment, or planetary reanalysis.",
+    "Source hashes establish retained bytes, not authorship, authenticity, permission, or the cause of an event."
+  ]
+}

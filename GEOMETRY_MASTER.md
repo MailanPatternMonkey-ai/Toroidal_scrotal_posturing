@@ -1,7 +1,7 @@
 # Geometry Master
 
 **A portable working reference for Geometry, Geometry Maximization, Hidden Quotient, GQG, and Toroidal**  
-Consolidation 2.1 · Live source and repository review: 18 October 2026 · Incorporates the later v2.6, September 28 integration, current direct-service correction, and verified finite tools
+Consolidation 2.4 · Source, repository, and supplied-archive review: 18 October 2026 · Incorporates the later v2.6, September 28 integration, current direct-service correction, verified finite tools, rectangular extension, and recovered phase/lattice/throat releases
 
 This file carries the definitions, worked examples, mathematical results, evidence limits, and next work needed to continue the geometry projects in another chat or workspace. Its organizing question is: **which distinctions must a retained description preserve for the particular observation, recovery, or prediction being made?**
 
@@ -10,6 +10,12 @@ The projects share this question while keeping their mathematical objects distin
 **What changed in 2.0.** Added exact finite measurement repair and acquisition costs, the unbounded batch/sequential query gap, coverage and approximation guarantees, geometric stability examples, and claim/delivery checks. Updated toroidal verifier recovery and preserved the unresolved sampler discrepancy. Corrected source precedence for Hidden Quotient and FAILED versus UNRESOLVED closure. The core hypotheses, source domains, and original phase formulas remain explicit.
 
 **What changed in 2.1.** Added pinned access to the finite repair engines, checked their Git blobs against the bundled release manifests, and freshly passed 39 unit tests plus the separate 4,096-table acquisition verification. Reran the original toroidal arithmetic verifier and added the rectangular diagonal-routing criterion with an independent 64-case check. Recorded the mixed root packaging and remaining replay limits. The repository's uploaded master exactly matched consolidation 2.0 before these additions; it is the same source, not independent corroboration.
+
+**What changed in 2.2.** Reconciled 54 supplied exports: 50 distinct byte sequences, with 41 of the 54 matching pinned repository blobs exactly. Added operational quotient examples, the difference between exceedance counts and upward crossings, amplitude-versus-squared-norm attenuation, observer-dependent records, compatible partial joins, and resource/status accounting. Preserved later corrections where the exports contain older wording. This intake contributes source reconciliation and new finite checks, not a new historical incident or physical experiment.
+
+**What changed in 2.3.** Reviewed the rectangular-torus extension under the ideal unbounded cosine kernel and reproduced its six exact comparison cases and nine numerical local cases. Added the OMNIBUS/GQG ledger's episode, intervention and downstream-repair distinctions. The supplied ZIP has 1,239 entries and 640 distinct contents; its main ledger is one 3,088-row source repeated eleven times. Source screening labels remain screening labels, and the separate analytical extension does not change the reference execution profile or physical validation status. [S42–S44]
+
+**What changed in 2.4.** Recovered the intact Geometry Maximization v2.0 and Toroidal Geometry v1.0 packages from the supplied collection. Fresh verification passed 10 phase tests and 26 lattice/throat/reporting tests, reproducing all 11 examples and 50 generated artifacts byte-for-byte on this runtime. Added the rational approximation bound, strict bin-margin certificate, and its recorded floating-point boundary counterexample. The runnable lattice/throat access gap is closed by this archive; the historical sampler discrepancy and production execution work remain open. [S45–S48]
 
 **Read route.** §§2–4 give the core and Hidden Quotient; §5 gives the phase model; §§7–9 give Toroidal; §§11–13 give practical acquisition, timing, and quantitative examples; §14 resolves evidence and version issues. This is one self-contained drop-in reference; source links are in §16.
 
@@ -20,12 +26,15 @@ The projects share this question while keeping their mathematical objects distin
 | Witness-relative geometry | Exact descent, typed calculus, coverage envelope, canonical refinement, and available-coordinate repair | Set-level recovery does not supply regularity, causal availability, or a mechanism |
 | Acquisition and approximation | Exact finite hitting-set and sequential formulations; n−1 versus ceil(log₂ n) query gap; uniform path-error bound | Declared menus, costs, complete domains, and uniform premises are required |
 | Finite repair software | Recovered engine and label-conditioned batch optimizer; 39 tests and separate 4,096-table verification freshly pass | Exact on declared finite inputs; exponential menu search; batch optimizer is not the general sequential solver |
+| Operational pipelines | Exact normalization and calibration examples; typed observer and action records; compatible-join checks | A diagram or summary cannot establish which real processing stages or actions occurred |
 | Geometric and timing bounds | Recovery/conditioning distinction, global sampling bounds, optimal causal padding | Mathematical examples do not establish manufacturing or human benefit |
-| Geometry Maximization | Exact 39-screen phases and counts; deterministic predictive refinement; finite-horizon loss | Practical prediction requires available present coordinates and an error assessment |
+| Geometry Maximization | Exact 39-screen phases and counts; recovered reference passes 10 tests and reproduces five examples | Ideal real-arithmetic certificates do not certify floating execution; practical prediction needs available coordinates |
 | Hidden Quotient | Correct locally null kernel and norm; qualified structural theorem; explicit restoration and incompleteness examples | Recovery, completion, and predictive autonomy are different problems |
 | GQG | Claim-relative witness fidelity and a typed empirical constraint-response instrument | Observable differences do not identify hidden actors, motives, or implementations |
-| Toroidal geometry | Integer or modular cut flux, membrane constraints, ensemble distinctions, and circular-throat kinematics | Geometry and ensemble projection do not establish confinement or critical behavior |
+| Toroidal geometry | Integer/modular cut flux, membrane constraints and throat kinematics; recovered package passes 26 tests and six examples | Deterministic references do not supply the production Monte Carlo sampler, mixing evidence or physical verdicts |
 | Toroidal sector dynamics | No exact finite Markov order for the specified sector process at any fixed attempted-microtick spacing | The theorem does not exclude every augmented or finite-dimensional hidden-state model |
+| Rectangular extension | Reviewed extension to fixed side lengths at least two and fixed finite J>0, 0<t<1, under the same ideal proposal rule | Separate local derivation; no extension to truncated currents, adaptive clocks or practical error guarantees |
+| OMNIBUS evidence ledger | 3,088 episode keys; linked proposition and deletion records; checked internal joins | 2,660 rows are labeled unadjudicated screening candidates; all 113 lineage records leave descendant repair unknown |
 | L=3 follow-up | Separate source-reported engineering-validation **PASS** | Original pilot **UNRESOLVED**; physical Q2 **NOT_RUN**; production **NOT_AUTHORIZED** |
 | Proof verifier | Complete source recovered; original six clock and three local arithmetic checks freshly reproduced | Supplementary checks support the analytical proof; separate rational certificate checker not rerun in this consolidation |
 | Reproduction | Historical accepted-event discrepancy remains −1,352; replacement inputs recovered | Historical cause **UNRESOLVED**; adapter/recorder/validation and full replacement replay remain outstanding |
@@ -284,7 +293,25 @@ At θ₀=0 and N>0, S_N=ceil(Nτ): 39 departures give 5 slips, 507 give 53, and 
 
 The stationary slip process is nonmixing and has no finite Markov order. A fixed finite slip suffix is not an exact substitute for its continuous predictive phase. These are phase-rotation results, separate from the toroidal stochastic memory theorem.
 
-For |ε|<1, h_ε(x)=x+ε sin(2πx)/(2π) has h′>0 and defines the conjugate map F_ε=h_ε⁻¹R_αh_ε. Exact phase observations survive when transported through h_ε. Equal-width bins in x are a different observation. The invariant occupation measure is h′_ε(x)dx. The v2 source also supplies analytic approximation bounds; its floating-point trajectories are not certified interval enclosures. [S1, S6]
+For |ε|<1, h_ε(x)=x+ε sin(2πx)/(2π) has h′>0 and defines the conjugate map F_ε=h_ε⁻¹R_αh_ε. Exact phase observations survive when transported through h_ε. Equal-width bins in x are a different observation. The invariant occupation measure is h′_ε(x)dx. The recovered v2 release makes the approximation and its separate numerical output executable. [S1, S6, S45]
+
+### An executable approximation with a declared error contract
+
+Write a(x)=sin(2πx)/(2π), y=x+α and Δ=a(x)−a(y). On degree-one real lifts, the second-order map is
+
+\[
+G_\epsilon(x)=y+\epsilon\Delta-\epsilon^2a'(y)\Delta,
+\qquad
+\widehat E_\epsilon=\frac{|\epsilon|^3}{3}\bigl[1+(1+|\epsilon|)^2\bigr].
+\]
+
+Its uniform phase residual satisfies |h_ε(G_ε(x))−h_ε(x)−α|≤Ê_ε. The bound follows from the source Taylor estimate using c=|sin(πα)|/π≤1/π<1/3 and πc²≤1/π<1/3. Since h′_ε≥1−|ε|, the one-step coordinate error is at most Ê_ε/(1−|ε|). Iterating the residual gives phase error at most nÊ_ε from identical initial data. Rational ε makes Ê_ε exactly representable. [S45, core §5]
+
+The exact phase's nearest bin-boundary distance is d_n=min(ρ_n,1−ρ_n)/39. For n>0 and ε≠0, d_n>nÊ_ε certifies that **ideal real-valued G** has the reference bin. The inequality is strict. Identical initialization at n=0 and exact rotation at ε=0 give separate equality cases. For N labels, n=0,…,N−1, a union bound on boundary neighborhoods gives Haar possible-error cover at most min{1,39Ê_εN(N−1)}. This is a conservative measure of starting phases, not an empirical error rate or an independence claim.
+
+The floating implementation has no interval enclosure for trigonometric evaluation or iteration. Its `ideal_bin_certified` and `numeric_bin_agrees` fields answer different questions. Fresh reproduction retained the 64-row bin-boundary example's one numerical mismatch even though all 64 ideal rows are certified. The 39-row stronger-warp example has three numerical mismatches, none on its one ideal-certified row. Keep those discrepancies visible; a successful release test means the documented behavior reproduced, not that every displayed bin is exact. [S47, S48]
+
+Protocol v0.5 accepts 1≤N≤100,000, θ₀∈ℚ(√5)∩[0,1), and rational |ε|≤0.99. Exact fields use integer or rational-string inputs; floats are rejected. These are implementation limits; the smooth theorem retains |ε|<1. Outputs contain the complete departure record, terminal state, exact coefficient pairs, numerical comparison and hashes. The recovered 10-test suite includes an independent integer-square-root oracle over 10,000 departures, endpoint checks and overwrite refusal. All five packaged examples reproduced byte-for-byte. The offline explorer displays these records; its historical browser receipt was not rerun in this intake. [S45, S48]
 
 ### Corrected smooth-phase algebra
 
@@ -313,6 +340,14 @@ Confirmatory promotion retains the instrument's independent, framework-naive sea
 The Open-Seam Atlas records typed partial transitions, route provenance, discarded distinctions, correction, alternate routes, and path order. Equal endpoints do not establish equal paths or a global manifold.
 
 The unified residual record R=(δ_C,δ_D,δ_K) carries chart, dyadic, and retained-context comparisons. Each channel needs its own comparator; subtraction and a shared metric are not automatic. UP/DOWN/FLAT/MIXED record coordinate directions. Progressive or regressive interpretations require separately justified polarity and provenance. Residual autonomy must satisfy the fixed-time and cross-time tests in Section 3. [S1, S4, S7]
+
+### Evidence ledgers and repair propagation
+
+The supplied OMNIBUS/GQG archive provides a concrete empirical record: 3,088 uniquely keyed episodes across 24 cases, with exact-text fields, source hashes, node references, eligibility, response codes, correction and repair nodes, counter-witnesses, and reliability labels. Its compact and full episode tables share those episode keys; the full table retains 13,309 member records. Their internal correspondence does not independently authenticate the original event or speaker. Of the main ledger's rows, 2,660 are explicitly labeled unadjudicated screening candidates, and 3,067 carry a screening-only denominator tag, sometimes with other tags. These counts describe different fields; 3,088 is not a common prevalence denominator or a count of confirmed failures. [S43]
+
+The 113 proposition-lineage rows distinguish NO_REPAIR (88), VERDICT_REPAIR (15), LOCAL_REPAIR (8), and SURFACE_RETRACTION (2). Both descendant-location and descendant-repair fields remain UNKNOWN in every row. Keep the coded local finding while following the dependency path from proposition to conclusion to action; correction of the originating sentence does not by itself establish correction of its downstream uses. These are source coding labels, not a fresh adjudication of the episodes. [S43]
+
+The 20 agency-deletion rows are an exact subset of the 55-row deletion ledger, not 20 additional cases. All 44 applicable rows retain deleted spans that match the packaged response and episode text; eleven are NOT_APPLICABLE. A successful textual deletion test concerns the retained answer. It does not establish R(x)=R(y)⇒R(Ux)=R(Uy) on a declared state domain. In particular, a coded YES in `descent_test_all_compatible_occupants` is not a proof of the universal mathematical condition. Name the test being applied: textual intervention, deterministic factor test, or stochastic next-observation-law test. Retain its exact intervention, criterion, domain, coverage, counter-witness and downstream repair record. [S43, S44]
 
 ## 7 Toroidal geometry and ensembles
 
@@ -356,7 +391,7 @@ The periodic cell complex has H₁(T³;ℤ)≅ℤ³. Choose reference cycles Γ�
 
 With charge-six sources, a₆=[I mod 6]∈H₁(T³;ℤ₆)≅ℤ₆³ and q=a₆ mod 2. Forced q=0 permits components 0,2,4 of a₆, not only zero. For direct gauge loops bounding a plaquette strip A, H(Γ′)H(Γ)=∏_(p∈A)B_p. Reference-loop signs therefore need not be path-independent when plaquette flux is present. [S2]
 
-For a separate two-dimensional routing chart ℤ_M×ℤ_N with moves (1,1) and (1,−1), the reachable subgroup has index gcd(2,M,N). In the quotient by those moves, the two axis generators become equal and have order dividing 2; the period relations further divide that order by M and N. Hence there are two sheets exactly when both periods are even. If either is odd, the chart is connected and (x+y) mod 2 is not a globally defined torus label. Independent breadth-first enumeration confirms all 64 cases M,N=2,…,9. This is a static routing statement; it does not extend the cubic all-orders Markov theorem to rectangular lattices. [S35]
+For a separate two-dimensional routing chart ℤ_M×ℤ_N with moves (1,1) and (1,−1), the reachable subgroup has index gcd(2,M,N). In the quotient by those moves, the two axis generators become equal and have order dividing 2; the period relations further divide that order by M and N. Hence there are two sheets exactly when both periods are even. If either is odd, the chart is connected and (x+y) mod 2 is not a globally defined torus label. Independent breadth-first enumeration confirms all 64 cases M,N=2,…,9. This is a static routing statement. The separate temporal-memory extension in §8 requires the full stochastic-kernel argument. [S35]
 
 ## 8 The declared toroidal dynamics
 
@@ -405,7 +440,51 @@ The written all-orders argument is distinct from the six finite arithmetic check
 
 The full state remains Markov. Given an initial law, the causal posterior ν_n(x)=Pr(X_dn=x | Y₀,…,Y_n), updated by prediction with K^d and conditioning on the new sector, is a sufficient belief state. Its representation may be unbounded. Practical finite compression is the remaining approximation question. [S10]
 
+### Rectangular tori and positive couplings
+
+**Reviewed analytical extension.** Fix integers Lₓ,Lᵧ,L_z≥2, finite J>0, 0<t<1, and fixed attempted-microtick spacing d≥1. Under the same source-free, unbounded-current cosine model, fixed-reference Z000 ensemble, labelled cells, reference cycles and complete proposal weights, set B=8LₓLᵧL_z+7. The no-finite-Markov-order conclusion extends to these rectangular tori and couplings, including the exclusion of an exactly time-homogeneous finite-order sector law from another initial full-state distribution. This is a separately reviewed local derivation, not a change to the named reference execution profile. [S42]
+
+The kernel's normalizability, reversibility and reachability arguments already permit this domain. For valid uniform-current states x_N, a positive unit cycle along axis a has acceptance ε_{a,N}(1+O(N⁻¹)), where ε_{a,N}=(J/(4N))^{L_a}; the negative cycle is accepted with probability one for sufficiently large N. Both signed descriptors have probability 1/(2B), leave M unchanged, and flip the same sector bit. Other proposal families preserve q.
+
+The comparison return polynomial and its three derivatives become
+
+\[
+r_d(\varepsilon)=\frac18\sum_{S\subseteq\{x,y,z\}}
+\left(1-\frac{|S|+\sum_{a\in S}\varepsilon_a}{B}\right)^d,
+\qquad
+g_a=\partial_a r_d(0)
+=-\frac d{8B}\sum_{S\ni a}\left(1-\frac{|S|}{B}\right)^{d-1}<0.
+\]
+
+With m=min L_a and η_N=(J/(4N))ᵐ, the fixed-horizon error is o(η_N), and the shortest cycles give
+
+\[
+\frac{A^2u(x_N)}{Au(x_N)}
+=r_d(0)+\eta_N\sum_{a:L_a=m}g_a+o(\eta_N).
+\]
+
+Finite order would force the left side to be constant. Its limit fixes that constant as r_d(0), while the strictly negative leading coefficient contradicts constancy. The same stationary-limit argument then excludes other initial laws with a fixed finite-history transition rule. All parameters and d stay fixed before N→∞. Finite-current truncation, accepted-move clocks, adaptive observation, growing-parameter uniformity, and practical prediction error remain separate questions. The full derivation and primary Bessel references are in S42.
+
+The six exact finite-walk comparisons cover shapes (2,3,4), (2,2,3), and (3,4,5), each at d=1 and d=B. The nine 70-digit Decimal local-kernel cases cover those shapes with (J,t)=(0.5,0.2), (2,0.8), and (3.25,0.01), at N=10,100,1000 and d=1. Both supplied JSON outputs reproduced exactly. At N=1000, the scaled local corrections differ from their predicted limits by about 0.087%, 0.074%, and 0.069%. These checks supplement the analytical argument; they are not stationary simulation estimates, certified intervals, historical replay or physical measurements. [S42, S43]
+
 ## 9 Validation and reproduction status
+
+### Recovered reference packages and fresh execution
+
+The supplied Geometry Maximization collection contains an intact 44-file phase release and an intact 88-file Toroidal Geometry release. The latter restores the `reference/`, `configs/`, and `examples/` folders absent from the pinned repository root. Both packages passed their complete declared hash registers and remained byte-for-byte unchanged during execution. [S45–S48]
+
+| Recovered component | Fresh tests | Reproduced examples | What was checked |
+|---|---:|---:|---|
+| Exact phase reference, protocol v0.5 | 10 | 5 | Exact labels/counts, independent 10,000-step oracle, numerical/error fields, exports |
+| Exact lattice reference, protocol v0.6 | 17 | 3 | Integer boundary-square, mod-two Betti numbers (1,3,3,1), cut flux, operator constraints, accessibility and closure counterexamples |
+| Circular throat reference, protocol v0.6 | 7 | 3 | Curved metric, Cartesian divergence, material tangency, side flux, flat and translated controls |
+| Declared reporting rules | 2 | No separate fixture family | Exact scale threshold and conditional-verdict logic |
+
+All 36 tests passed. The 11 examples regenerated 50 artifacts, all byte-identical on Windows Python 3.12.14. Throat verification also requires exact structure and declared numerical tolerances (absolute 10⁻⁹, relative 10⁻¹⁰); byte identity on this runtime does not promise identical last floating digits everywhere. These counts describe reference checks and constructed fixtures, not independent empirical experiments.
+
+The lattice validator accepts side lengths 2–16, volume at most 512, a canonical reference origin, and typed integer chains. Its field-state charge modulus must be even, 2–1000. It reports charge, membrane and sector defects; integer winding is unavailable when integer divergence is nonzero. A valid geometry does not establish positive weight under an unspecified physical action. The constructed operator ledger has 11 events and 12 states; it does not implement random proposals or an acceptance law. The exact finite closure example and synthetic character identity retain those finite/synthetic domains.
+
+The phase baseline's 90 archive entries and six nested checksum registers were also integrity-checked. Its older algebraic verification programs were preserved, not rerun. These recovered deterministic packages close a reference-software access gap. They do not implement the full replacement sampler envelope, rerun the historical L=2/L=3 experiments, or change physical Q1/Q2/Q3 and empirical TTSC status. [S48]
 
 ### The separate L=3 follow-up
 
@@ -475,6 +554,8 @@ v_s=U(s),\qquad v_r=-\frac{rU'(s)}{2h},\qquad v_\vartheta=0
 \]
 
 are divergence-free. The material tube R_mat=R₀√(U₀/U) carries constant flow πR₀²U₀ with no relative side flux. A fixed-radius control tube has Q_c=πR_c²U and outward side flux Q_c(a)−Q_c(b). Different boundary definitions explain their different flux statements.
+
+The recovered throat implementation now reproduces this construction for the sinusoidal profile U(s)=U₀[1+ε cos((s−s₀)/A)], with 0≤ε<1, R_c<A and R₀²<A²(1−ε). In the baseline fixture, the corrected field's maximum sampled Cartesian divergence residual is about 1.09×10⁻¹¹ against tolerance 10⁻⁷; the uncorrected straight-tube radial velocity gives about 2.29×10⁻³ at the sampled points. Material tangency, constant throughflow, integrated curved side flux, cocycle additivity, flat control and translation control all pass their declared numerical checks. The corrected formula has analytical conservation; finite differences and quadrature check the implementation on these fixtures. [S46, S48]
 
 This is continuum kinematics, without a derived gauge-force law, arbitrary-centerline extension, physical-time calibration, or empirical throat validation. [S2, S8]
 
@@ -561,6 +642,8 @@ With m(T)=E[max(R,T)], v(T)=Var(max(R,T)), and a(T)=E[(R−T)_+], the differenti
 
 For equally likely readiness 40/400 ms, mean readiness is 220 ms and SD is 180 ms. A 290-ms mean budget permits T=180 ms, giving releases 180/400 ms and SD 110 ms. A constant 180-ms release is infeasible. These are model calculations, independently checked in October; they do not demonstrate that padding benefits people. A favorable regularity/delay tradeoff is also distinct from an experimentally established interaction. The source's human timing experiment remains NOT_RUN; a separately executed toy mediation comparison is a different experiment. [S16, S23]
 
+Event time and report time are additional witnesses. On one calibrated time scale, if an event occurs at t_n and its report is released at s_n=t_n+d_n, then Δs_n=Δt_n+Δd_n. Events at (0,40,200,240) can be reported at (0,100,200,300) using nonnegative delays (0,60,0,60). The report intervals become regular while the event intervals remain (40,160,40). This synthetic identity was freshly checked; it does not describe a measured clock. Buffering a report does not create a physical tick or establish residual closure. [S39]
+
 ## 13 Worked additions: arithmetic, spectra, and geometric stability
 
 ### Arithmetic witnesses and a failed predictive repair
@@ -583,6 +666,24 @@ For a μ-strongly convex objective on a fixed nonempty compact convex domain, ch
 
 A sampled violation v has global upper bound max_i v_i+Lh only when L is a valid Lipschitz constant and the sample is an h-net in the declared metric. Local tangency needs end caps, trimming, and a global interference check. Units, coordinate metric, active branch, and physical clock must be retained when the witness depends on them. A compact-domain bound cannot be applied to unbounded toroidal current space without additional tail control. [S16, S19]
 
+### Operational quotients: normalization, calibration, and action
+
+For a nonzero vector a∈ℝ₊ᵏ, N(a)=a/||a||₁ retains composition and loses magnitude: N(a)=N(b) exactly when b=λa for λ>0. The converse follows by multiplying by the two total magnitudes. Keeping (N(a),||a||₁) reconstructs a exactly on this domain. Increasing one raw coordinate decreases the other normalized shares even when their raw values stay fixed; that apparent competition does not establish interaction between the underlying quantities. An argmax additionally loses margins and losing values; ties need a declared rule. [S36]
+
+Self-calibration can force a comparison's result. For n distinct observations, linear-interpolated quantile level p∈(0,1), and strict exceedance x>τ_p, the number of exceeding samples is n−1−⌊p(n−1)⌋. At n=500 and p=0.95 this is 25 for every distinct sample, regardless of its values. This is a rank identity under the stated quantile convention, not evidence of universal dynamics. Ties, another convention, or evaluation on a different sample change the premise. Evaluate generalization on data separate from the calibration sample. [S36]
+
+**Exceedance samples and temporal crossings are different counts.** Sorting 0,…,499 produces one upward crossing of its 95th-percentile threshold. Interleaving each of the 25 largest values with a below-threshold value produces 25 upward crossings, while retaining exactly the same values, threshold, and 25 exceedances. An upward crossing here means one adjacent pair x_t≤τ_p<x_(t+1). Clusters, dwell times, recurrence intervals, and transition counts therefore require temporal order. Fresh exact checks reproduce this example and 567 distinct-sample quantile cases for n=2,…,64.
+
+For a band of coefficients transformed by Y_k=dX_k, 0≤d≤1, d is retained-amplitude gain. The removed amplitude fraction is 1−d. For the declared band squared norm E=Σ_k|X_k|², E_out=d²E_in, so the removed squared-norm fraction is 1−d². At d=1/2 these are 50% and 75%, respectively. Calling both “damping” without a specified witness reverses or mis-scales a controller's meaning. A physical-energy interpretation additionally needs the model's normalization and units. [S36]
+
+Retain source and transformed histories separately when either matters to the claim, together with the transform version, input/output binding, and available-time boundary. A causal output at time t can depend only on information available by t; an offline retrospective filter has a different domain. Likewise keep detection, decision, authorization, attempt, application, effect measurement, and closure as separate event fields. “Detected” does not establish “applied,” and a successful tool response does not establish every downstream outcome. For response audits, retain the full marker/failure product (M,F)∈{0,1}²: an unmarked failure and a marked successful answer are both possible. [S36]
+
+### Equal output, different upkeep
+
+The governing thermodynamic v3 uses separate witnesses for delivered output, resource use, capacity change, and participation conditions. Its joint-witness use follows the product rule in §2; it does not turn these quantities into one scalar. For a named resource r, its bookkeeping convention is m^(r)=a^(r)−u_task^(r)−u_coord^(r)−u_maint^(r)−u_regen^(r). All terms need the same unit, boundary, and interval, and overlapping expenditures must be allocated once. Spending on restoration does not establish restored capacity. The identity k(t+Δt)=k(t)+g−d is an accounting decomposition until a predictive law or measurements specify gains and losses. [S37]
+
+Physical accounting is separately defined: ΔE_store=E_in−E_out includes every applicable heat, work, and matter transfer once. For a closed system, ΔS_th=Σ∫δQ_heat/T_boundary+S_gen with S_gen≥0; open systems also need entropy carried by matter. With a fixed reference environment, exergy destruction is B_dest=T₀S_gen. Energy is in joules, entropy in joules per kelvin. A steady entropy stock can coexist with entropy generation and export. These balances do not convert word count, deleted presentation stages, frustration, or a loop-shaped diagram into energy savings or regeneration. The physical relations were checked against the primary teaching sources; this intake contains no corresponding physical measurements. [MIT energy accounting](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node19.html), [entropy balance](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node48.html), [lost work](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node49.html).
+
 ## 14 Evidence, service, and version precedence
 
 ### Preserve a finding while keeping its cause open
@@ -591,13 +692,21 @@ Claim closure records the proposition, domain, criterion version, relevant evide
 
 For deterministic residual closure, a valid same-retained-state/different-successor pair establishes FAILED on the declared domain. An untested, underspecified, or insufficiently covered claim is UNRESOLVED. CLOSED requires a proof or complete applicable check. TTSC §20 still groups a valid failure with an untested claim; this master corrects that rule without inventing an executed TTSC failure. Stochastic closure compares successor laws, not two individual random outcomes. Within-time closure and cross-time homogeneity remain separate; adding a clock cannot repair the former. [S22]
 
+Native aggregate gates can have different reporting conventions. Thermodynamic/Omnibus's gate prioritizes an unknown coordinate, whereas AS-001 preserves a known validation failure. Keep the criterion version, native gate status, known violations, unresolved coordinates, and coverage together. For example, `gate_status=UNRESOLVED; known_violations=[C_bind]; coverage=INCOMPLETE` records both facts under the first policy. Fresh enumeration finds 50 of the 81 four-coordinate PASS/FAIL/UNKNOWN vectors contain both a failure and an unknown, so the two policies return different summaries on those vectors. These are constructed policy cases, not 50 observed incidents. A cross-domain dashboard needs an expressly defined rule; one domain's label must not overwrite another's finding. [S37, S40]
+
 ### Selected text, a valid answer, and delivered work
 
 Direct Service Geometry's text-preserving ablations concern a declared selected-text witness. They do not establish equal correctness, completion, latency, implementation, or service history. The current AS-001 contract separately checks faithful source selection S, task completion C, applicable content constraints K, claim-disposition fidelity P, historical service compliance H, and exact bytes B for a specified payload pair. A validated candidate requires S,C,K,P; delivery needs its own comparison with what was actually delivered. Its integration suite remains source-reported as unexecuted. [S17, S21]
 
 The current recurrence correction uses one window of 198 eligible assistant replies after n334: 69 case-sensitive whole-word Checking recurrences, versus 70 case-insensitive recurrences. The extra match is n739. The stricter CORRECTION-BINDING RATE remains 129/198≈65.2%. These are alternative codings of one window, not independent cohorts. The literal DROP_IT baseline was already 0/16, so a 0/64 marker-free follow-up is not a measured reduction. These reconciled source counts establish no actor, intent, or mechanism and were not recounted from the raw transcript in this pass. [S21]
 
-Transport observations, request records, session metadata, and returned records remain distinct spaces. Link them only with compatible identifiers, times, scope, and evidence for the actual relation. A process ID, endpoint, repeated answer, or file hash alone is not that join. [S17]
+### Observer state and compatible evidence joins
+
+Transport observations T, request records R, session metadata S, and returned records D remain distinct collections. Use typed relations J_AB⊆A×B, possibly partial and many-to-many, carrying source/version, row locator, identifier namespace, capture scope, clock basis and uncertainty. A full bundle is a compatible natural join of the supported relations. Even individually nonempty pair relations need not admit a joint assignment: over binary values, a=b, b=c, and a≠c each has solutions, but no triple satisfies all three. The eight-assignment check reproduces that obstruction. A nonempty join still needs evidence that its edges represent the claimed real relationships. [S38]
+
+Model an observation as O(h,m), where h is the source history and m is the observer's configuration, knowledge, coverage, and transform version. O(h,m₁)≠O(h,m₂) can arise without a change in h. First observation, an already-open connection found at startup, and a later identification update are different events. Event, observation, and retrieval times likewise remain distinct. When known, retain process generation and capture identity; matching endpoints or reused PIDs do not prove an uninterrupted process or connection. [S38]
+
+Missing provenance is not automatically mathematical non-descent. Non-descent needs a defined map and an actual same-fiber/different-witness pair. An unavailable cross-source binding leaves that relation unresolved. Conversely, a directly bound action remains a finding within its object, time, and scope even when another action's author is unknown. A process label, endpoint, repeated answer, or file hash alone is not the missing join. [S17, S38]
 
 ### Which source controls
 
@@ -607,17 +716,26 @@ The restored Full-Packet Audit v0.2 is dated September 3. Its q-only closure lab
 
 The v2.6 receiving note and September 28 collection review report different recovery scopes for earlier repair-engine files. The latter ran locally recovered files but explicitly did not establish identity with earlier originals. The 18 October repository review adds stronger, specific evidence: exact Git blobs of nine selected math source/receipt files match all ten applicable byte-length and SHA-256 entries in the bundled v2.4/v2.5 manifests, including `geometry_engine.py` and `geometry_adaptive.py`. This establishes identity relative to those published manifests; it does not independently authenticate earlier publication dates or every historically run file. The repeat-call matching bug and original vine conditioning defect remain distinct from the finite repair engine. [S16, S27, S34]
 
-The Toroidal repository's root is a mixed collection rather than an intact runnable release. Its `verify_release.py` requires `reference/`, `configs/`, and `examples/`, none of which occurs in the pinned Git tree; the root `SHA256SUMS.txt` instead names ordering-project files, and the README describes PEP-6 Route Guard. Treat these as packaging and lineage gaps. The standalone arithmetic verifier runs, but that success does not validate the missing lattice/throat package or resolve the original companion sampler discrepancy. Archived packages were inventoried by name, not exhaustively extracted and audited in this pass. [S35]
+The Toroidal repository's pinned root remains a mixed collection. Its `verify_release.py` requires `reference/`, `configs/`, and `examples/`, absent from that Git tree; its root checksum list names ordering-project files and its README describes PEP-6 Route Guard. Consolidation 2.4 closes the local lattice/throat access gap through the supplied archive's intact 88-file release and fresh verification. The recovered core, protocol and companion texts agree with the corresponding pinned repository documents; preserve each complete release in its own folder rather than combining root files. The original companion sampler discrepancy remains unresolved. [S35, S46–S48]
+
+The large supplied ZIP is a 1,273-entry collection, not a minimal v2.0 release. All 44 phase-release files match their corresponding outer-folder files exactly. The outer folder also contains an unlisted `DROP_IT.py` and cached bytecode; neither was executed. The two embedded Geometry v2.0 ZIPs are identical, including the one preserved in the Toroidal baseline. The previously captured Docs core differs by its tab header, an explicit CC0 line, line endings and trailing whitespace; removing only those declared presentation differences gives the same core text. That comparison preserves the license line in the original snapshot and does not label distinct source bytes identical. [S47, S48]
+
+The 54-file export batch contains several older states despite its download suffixes. In particular, the service/acquisition exports E01, E08, and E54 still call 69/198 versus 70/198 unreconciled; the later captured live S21 text gives the n739 case-sensitivity reconciliation retained above. E34 and E35 are legacy consolidation-1.0 bodies with additions, not successors to this portable master. E50 retains the older multiplication formulation and does not supersede qualified v1.7. Filename suffixes, export times, and shared version titles do not determine mathematical precedence. [S41]
+
+Read later amendments with the earlier body. The September 28 amendment to the integration review reports that the thermodynamic copy identity and status crosswalk were repaired, Triadic's executed toy comparison was separated from untested application benefit, and WOBBLE's Watch/Cascade rule was frozen. Its dated documentary re-score is not a current economic assessment. The room, abundance, three-witness-flow, and reflex essays retain design or interpretive uses; their loop language does not establish physical stability, regeneration, a necessary third mediator, or a backend mechanism. The supplied source amendments expressly preserve these distinctions. [S40, S41]
+
+The OMNIBUS archive's v7.79-r1 text is identical to the pinned repository source. Its §10 remains SUPPORTED RECONSTRUCTION, not a verbatim recovery of lost wording. The source's adopted constitutional commitments do not follow from a mathematical descent theorem, and the declared shared field ℒ does not identify a physical or platform field. Retain the source's native gate, known violations and coverage separately. Repeated ledger copies, derived table views and repeated OMNIBUS text add provenance links but no independent corroboration. [S43, S44]
 
 
 ## 15 Continue from here
 
 1. **Choose the claim.** State the domain, retained record, witness or output, dynamics, clock, and required comparison. Separate static recovery, representability, exact autonomy, and approximate prediction.
 2. **For mathematics, locate the obstruction.** Use same-fiber witnesses for non-descent, missing objects or suprema for completeness, and successor laws for predictive closure. Preserve the corrected examples and theorem hypotheses above.
-   The recovered finite tools in §11 can now compute small declared examples. Restore each runnable release to its own folder before using a collection-wide verification command.
+   The finite tools in §11 and recovered phase/lattice/throat packages in §§5 and 9 can compute declared examples. Keep each intact release in its own folder; use its README and protocol for inputs and verification. The compact master kit includes the preserved releases and fresh receipts.
 3. **For toroidal replay, close the execution gap.** The complete proof verifier is recovered. Seek the original companion authority and comparable event prefixes if available. Otherwise work under the already defined prospective replacement profile, implement configuration enforcement and lossless recording, and validate replay without claiming the historical mismatch is solved.
 4. **For useful prediction, specify an approximation problem.** Choose B, r, horizon, clock, tolerance, and evaluation domain. Compare full-state or causal-filter behavior with candidate retained coordinates. Report pairwise lower bounds separately from uniform guarantees.
 5. **For empirical work, use the complete frozen instrument.** Preserve eligibility, denominator, uncertainty, coverage, holdouts, and independent confirmation. Fit validity, scale admissibility, accessibility, stationarity, and mixing remain separate conditions.
+   The supplied ledger gives a concrete follow-up: locate downstream uses of its 113 proposition-lineage records, check propagation of each correction, and retain UNKNOWN where the required descendant record is absent. Textual deletion checks and formal descent tests require separate criteria.
 
 No new physical Q1/Q2/Q3 result, global non-descent geometry, holonomy, or mechanism attribution follows from assembling this file. Add future changes with the source, affected claim, evidence scope, and date. Do not promote a historical unresolved result by editing a summary label.
 
@@ -661,10 +779,33 @@ These are the sources behind this consolidation. The equations and distinctions 
 - **S34 — [Math_n_shiz pinned snapshot](https://github.com/aureoncorner-dotcom/Math_n_shiz/tree/ea9c230942f442b3aeb0bdcc82c9aeb71b1d8334)**. Finite repair engine, label-conditioned acquisition optimizer, tests, independent finite verifier, and v2.4/v2.5 manifests. Source files were extracted as exact Git blobs before execution.
 - **S35 — [Toroidal_scrotal_posturing pinned snapshot](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/tree/bbf8bb615002c76a833b2317998d5cd2a462e935)**. Complete standalone `verify.py`, original arithmetic receipt, Toroidal Geometry v1.0 and curved-throat derivation, missing-authority register, and mixed root packaging.
 
+- **S36 — [Hidden Quotient in Operational Pipelines](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/%23%20The%20Hidden%20Quotient%20in%20Operational%20Pipelines%20%281%29.txt)**. Exact counterpart of supplied export E12. Normalization, percentile calibration, transforms, action lifecycle, and outcome coding.
+- **S37 — [Thermodynamic Coordination and Reflex Geometry v3](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/%23%20Thermodynamic%20Coordination%20%2B%20Reflex%20Geometry%20%C2%B7%20v3%20%283%29.txt)**. Exact counterpart of supplied export E13. Master-linked governing copy, resource accounts, capacity, and native gate policy.
+- **S38 — [Four-Space Evidence Geometry — Canonical Patch](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/FOUR-SPACE%20EVIDENCE%20GEOMETRY%20%E2%80%94%20CANONICAL%20PATCH.txt)**. Exact counterpart of supplied export E05. Typed partial joins, observer state, and the distinction between information loss and unavailable provenance.
+- **S39 — [Clock v0.4 — Residual Descent](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/The%20Clock%20Is%20a%20Bifurcation%20Machine%20%E2%80%94%20Geometry-Corrected%20v0.4%20Residual%20Descent%20%284%29.txt)**. Exact counterpart of supplied export E15. Physical-event versus report time, path parametrization, and retained closure limits.
+- **S40 — [Geometry, simulation, and thermodynamics — integration review](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/%23%20Geometry%2C%20simulation%2C%20and%20thermodynamics%20%E2%80%94%20integration%20review.txt)**. Exact counterpart of supplied export E29. September 19 review with September 28 implementation-status amendments; historical runs remain source-reported.
+- **S41 — [Supplied-export source register and verification receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_EXPORT_REVIEW_2026-10-18.json)**. All 54 supplied paths, E01–E54 identities, preserved byte hashes, duplicate groups, comparison basis, per-file review depth, precedence decisions, and new finite-check results.
+- **S42 — [Rectangular toroidal extension and OMNIBUS ledger review](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_ADDITIONS_REVIEW_2026-10-18.md)**. Complete reviewed extension, fixed-parameter hypotheses, original proposal link, primary Bessel references, reproduced finite cases, and detailed archive findings.
+- **S43 — [Supplied archive and rectangular-check verification receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_OMNIBUS_REVIEW_2026-10-18.json)**. Four preserved inputs, all-entry hashes and CRC checks, duplicate/name-collision inventory, ledger counts and joins, declared representation normalization, local execution receipts, coverage and output identity.
+- **S44 — [OMNIBUS v7.79-r1 — Constitutional Foundation and Supported Repair](https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/bbf8bb615002c76a833b2317998d5cd2a462e935/OMNIBUS%20v7.79-r1%20%E2%80%94%20Constitutional%20Foundation%20and%20Supported%20Repair.txt)**. Exact counterpart of archive member M0150. Formal residual descent, typed shared-field representation, evidence boundaries, reconstructed constitutional section and later provenance clarification.
+
+- **S45 — [Recovered Geometry Maximization v2.0 release](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_maximization/geometry_v2_release/README.md)**. Intact 44-file package, exact phase implementation, protocol v0.5, approximation contract, examples and preserved v1.6 baseline.
+- **S46 — [Recovered Toroidal Geometry v1.0 release](C:/Users/drewd/Documents/Codex/2026-09-08/che/work/intake_oct18_maximization/toroidal_v1_release/README.md)**. Intact 88-file package, lattice/throat implementations, protocol v0.6, examples and Geometry v2.0 baseline.
+- **S47 — [Geometry Maximization archive recovery and verification review](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_MAXIMIZATION_INTAKE_REVIEW_2026-10-18.md)**. Recovery findings, input limits, full fresh example table, lineage comparisons and coverage.
+- **S48 — [Geometry Maximization intake verification receipt](C:/Users/drewd/Documents/Codex/2026-09-08/che/outputs/GEOMETRY_MAXIMIZATION_INTAKE_2026-10-18.json)**. Original ZIP identity, selected-member hashes/CRC checks, release manifests, fresh execution and preservation records, source comparisons and output identity.
+
 **Review coverage, 18 October 2026.** The direct Drive connector was unavailable; authenticated browser access recovered the current Docs. This pass searched geometry, toroidal, hidden quotient, and the full-packet audit, screened current indexes and version relationships, and read the current mathematical, Hidden Quotient, Toroidal, predictive, typed-defect, gear, spectral, timing, service, and integration texts listed below. The restored September packet was read in Drive's preview. Exported text represents selected working tabs, not every historical tab, native element, comment, revision, or file in Drive. Historical source links S4–S5 and S7–S15 are carried from the earlier consolidation unless specifically refreshed through their current receiving masters. This is a broad current-source upgrade, not a claim that every Drive file or every theorem was exhaustively re-proved.
 
-**Verification in this pass.** The definitions, finite acquisition arguments, uniform path bound, and causal-padding proof received mathematical review. Independent exact checks cover n=1,…,32 threshold models, the skew-prior expected optimum, timing and prime-label examples, and a sharp path-law fixture through horizon 12. The repository follow-up freshly executed the selected finite suites and original toroidal arithmetic verifier described above, and independently checked the 64 diagonal-routing rectangles. Other large source suites and historical sampler receipts remain source-reported. The experimental rectangular-torus extension explored locally was not adopted into the governing all-orders theorem. Source export hashes and review depth are recorded in the Drive review receipt; pinned Git commits, selected-blob hashes, run outputs, and packaging findings are recorded in the separate GitHub review receipt.
+**Verification in this pass.** The definitions, finite acquisition arguments, uniform path bound, and causal-padding proof received mathematical review. Independent exact checks cover n=1,…,32 threshold models, the skew-prior expected optimum, timing and prime-label examples, and a sharp path-law fixture through horizon 12. The repository follow-up freshly executed the selected finite suites and original toroidal arithmetic verifier described above, and independently checked the 64 diagonal-routing rectangles. Other large source suites and historical sampler receipts remain source-reported. Consolidation 2.3 adds the rectangular-torus argument as a separately reviewed analytical extension; the published cubic theorem and named execution profile retain their identities. Source export hashes and review depth are recorded in the Drive review receipt; pinned Git commits, selected-blob hashes, run outputs, and packaging findings are recorded in the separate GitHub review receipt.
 
 **Repository coverage.** Inventoried the full pinned trees: 211 tracked entries in Math_n_shiz and 221 in Toroidal_scrotal_posturing. Read selected current source, code, manifests, and evidence registers. This does not claim an audit of every program, binary document, archive member, or historical revision. The Math_n_shiz copy of this master had SHA-256 `47e81e3830e210bf42c7281fa6d2e6383b460b83b8aa52c2378edfb14bf8efbc`, exactly matching local consolidation 2.0; that duplicate is not a new finding or an independent source.
 
-**Version note.** This updates the portable file; online source bodies and remote repositories were not edited in this pass. Section 14 identifies older source wording and packaging that still need synchronization. A linked document changing later does not silently update this snapshot. Pre-upgrade copies of consolidations 1.x and 2.0 are preserved in the review workspace.
+**Supplied-export intake.** All 54 named TXT files were available and preserved byte-for-byte. There are 50 distinct contents; the exact duplicate pairs are E17/E19, E25/E26, E28/E30, and E29/E31. Forty-one file entries, representing 37 distinct contents, match the pinned Git blobs from the preceding review. E45 and E50 match prior text after declared token normalization, which is not byte identity. Other comparisons and per-file review depth are recorded in S41. The collection includes legacy mathematical bodies, current amendments, interpretive essays, and secondary forensic reports. Hashing every file does not mean every proof, claim, or underlying archive was freshly re-audited.
+
+**Fresh checks for 2.2.** Exact arithmetic checked 3,969 normalization pairs and 63 scale-restoration round trips; 567 distinct-sample percentile cases; the 500-sample exceedance/crossing counterexample; a band-gain squared-norm example; the eight-assignment incompatible-join example; all 81 four-coordinate status-policy vectors; and the event/report-clock identity. These are separate synthetic check families, not counts of independent experiments. No source-supplied program, historical model trial, sampler, capture, or cloud write was executed in this intake. The large computer-event reports remain source accounts unless a specific underlying check is identified; duplicated reports are not additional incidents. Interpretive essays and dated economic/planetary assessments do not gain new validation through inclusion here. [S41]
+
+**Archive and check intake for 2.3.** All four supplied inputs remain unchanged. All 1,239 ZIP entries were read, CRC-checked and hashed; the 640 distinct contents include one empty-content group, and 54 names refer to multiple different contents. All 130 distinct CSV contents were structurally parsed. Detailed checks covered the main ledger, compact/full episode tables, proposition lineage and deletion tables; individual historical codings and binary-document bodies were not exhaustively reviewed. Eight of nine compared master/compact fields agree throughout after the declared removal of node padding and labels; the ninth differs only in the explicit representation of one redacted node. All 44 applicable deleted-span rows match the packaged response and episode text. The 20 agency rows are already included in the 55 deletion rows. The inspected local rectangular generators reproduced six exact and nine numerical cases; no program from the ZIP was executed. [S42, S43]
+
+**Archive recovery for 2.4.** The original 11,961,147,925-byte ZIP was hashed in full and retained unchanged. All 1,273 outer entries were inventoried; 49 selected outer members were read and CRC-checked. The complete embedded 44-file Geometry and 88-file Toroidal releases were extracted, checked and preserved. Both release verifiers were inspected before running. All 36 tests and 11 example reproductions passed; exact, numerical and historical evidence remain separately labeled. Other outer videos, binary documents and large nested collections were not exhaustively decompressed or reviewed. Fresh receipts supersede no historical evidence merely by being newer. [S47, S48]
+
+**Version note.** This updates the portable file; online source bodies and remote repositories were not edited in this pass. Section 14 identifies older source wording and packaging that still need synchronization. A linked document changing later does not silently update this snapshot. Pre-upgrade copies of consolidations 1.0, 2.0, 2.1, 2.2, and 2.3 are preserved in the review workspace. The compact 2.4 kit carries this master, the recovery review, preserved runnable releases and fresh receipts; the original 12 GB collection remains separately preserved.

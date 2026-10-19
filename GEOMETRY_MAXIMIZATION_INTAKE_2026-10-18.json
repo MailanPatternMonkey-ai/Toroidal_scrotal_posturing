@@ -1,0 +1,3009 @@
+{
+  "schema": "geometry_maximization_intake_v1",
+  "review_date_local": "2026-10-18",
+  "timezone": "America/New_York",
+  "assembled_utc": "2026-10-19T03:13:11.486966+00:00",
+  "status": "PASS_WITH_DECLARED_SCOPE",
+  "original_source_before": {
+    "source": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\GEOMETRY_MAXIMIZATION_v2.0.zip",
+    "bytes": 11961147925,
+    "mtime_ns": 1792378947986803800,
+    "sha256": "02b176731ab825e9b8689a48ce8e7070f351a64245fdcf18a2a4f5c7db826333",
+    "recorded_utc": "2026-10-19T03:04:52.158092+00:00",
+    "unchanged_during_hash": true,
+    "elapsed_seconds": 7.078,
+    "preservation": "Original opened read-only and retained in place. Selected entries copied separately; no full 12 GB duplicate created."
+  },
+  "original_source_after": {
+    "path": "C:\\Users\\drewd\\OneDrive\\Desktop\\New folder\\New folder (2)\\New Stuff 9_2_26\\GEOMETRY_MAXIMIZATION_v2.0.zip",
+    "bytes": 11961147925,
+    "sha256": "02b176731ab825e9b8689a48ce8e7070f351a64245fdcf18a2a4f5c7db826333",
+    "mtime_ns": 1792378947986803800,
+    "recorded_utc": "2026-10-19T03:13:11.224673+00:00",
+    "unchanged_during_hash": true,
+    "matches_initial_bytes_and_hash": true,
+    "matches_initial_mtime": true
+  },
+  "original_preservation": "Read-only original retained in place; selected contents copied. No full 12 GB duplicate.",
+  "outer_inventory": {
+    "entry_count": 1273,
+    "file_entries": 1197,
+    "directory_entries": 76,
+    "total_uncompressed_bytes": 12108414995,
+    "inventory_file": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\archive_inventory.json",
+      "bytes": 391786,
+      "sha256": "425b777311d4fac13afe20b0aa90bbb6867775942342e2b51c5e09deb97a8eba"
+    },
+    "all_outer_entry_bodies_crc_checked": false,
+    "selected_outer_members_read_crc_checked_and_hashed": 49
+  },
+  "extraction": {
+    "selected_outer_members": [
+      {
+        "index": 2,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+        "bytes": 262971,
+        "sha256": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6.md",
+        "crc_verified": true
+      },
+      {
+        "index": 3,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+        "bytes": 15162,
+        "sha256": "54d0c69ce29eeffb115af639c9de34154d243706d004182174ce7dfdc0d9e6b3",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+        "crc_verified": true
+      },
+      {
+        "index": 4,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+        "bytes": 7062333,
+        "sha256": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+        "crc_verified": true
+      },
+      {
+        "index": 5,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/CHANGELOG_v2.0.md",
+        "bytes": 2568,
+        "sha256": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\CHANGELOG_v2.0.md",
+        "crc_verified": true
+      },
+      {
+        "index": 6,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/DROP_IT.py",
+        "bytes": 35711,
+        "sha256": "0c20c40fd979410446d1d06878bf25a0e64d881a08a7bced381009a937251a07",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\DROP_IT.py",
+        "crc_verified": true
+      },
+      {
+        "index": 7,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/EVIDENCE_LEDGER_v2.0.json",
+        "bytes": 5537,
+        "sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\EVIDENCE_LEDGER_v2.0.json",
+        "crc_verified": true
+      },
+      {
+        "index": 10,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/run.json",
+        "bytes": 54818,
+        "sha256": "98dfcbdf86d228a5ed808cab3c2f0d50347b1a2f52da480ad5b3fb092aea896b",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\run.json",
+        "crc_verified": true
+      },
+      {
+        "index": 11,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/RUN_SHA256SUMS.txt",
+        "bytes": 233,
+        "sha256": "d82c222935984830a6872ca4ff5a8fec20283bd4460032a47424dc3c142af990",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\RUN_SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 12,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/summary.json",
+        "bytes": 2400,
+        "sha256": "d3ae9c89263c256ef2cbda3d6a658cedb20642f79a5d16a1729f6d474614ffc8",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\summary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 13,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/trace.csv",
+        "bytes": 13703,
+        "sha256": "ddecc59d5cbf18a882d5eea6092529b8d3752ffb36956ae57cf873ba3573c440",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\trace.csv",
+        "crc_verified": true
+      },
+      {
+        "index": 15,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/run.json",
+        "bytes": 34255,
+        "sha256": "3c8caf27defe515c21c430a28156f5f09d93c20c9293c987e219564d92047695",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\run.json",
+        "crc_verified": true
+      },
+      {
+        "index": 16,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/RUN_SHA256SUMS.txt",
+        "bytes": 233,
+        "sha256": "d9ed2705273ab75272313c30808130e844ad81d4f3dd9a1a7543aba7d1b1ff36",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\RUN_SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 17,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/summary.json",
+        "bytes": 2387,
+        "sha256": "5d6247651ef42a3ef60c4b605304cabb1006be819b43fbceff9fc397861d0f58",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\summary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 18,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/trace.csv",
+        "bytes": 8419,
+        "sha256": "9ce746a42675f55b01052cfc1e16afa6ba4c3b11364592d90533ad502b16ac4f",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\trace.csv",
+        "crc_verified": true
+      },
+      {
+        "index": 20,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/run.json",
+        "bytes": 418974,
+        "sha256": "15f6b49751489eab8809b64a95633f062f83825cf1ade11078807ff9e78db357",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\run.json",
+        "crc_verified": true
+      },
+      {
+        "index": 21,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/RUN_SHA256SUMS.txt",
+        "bytes": 233,
+        "sha256": "12a21634a95136be25918d0e5082bc61c770264b3cb9b700a1f01e7a2bfa9d51",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\RUN_SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 22,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/summary.json",
+        "bytes": 2957,
+        "sha256": "ca846ee3de5f276d25dad92f1526e78f37d9df7f8c1c9ebd1e9695d226e0d7fb",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\summary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 23,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/trace.csv",
+        "bytes": 107742,
+        "sha256": "b09456c287588432fd6537a4d5ff3c8ef38ec76a9a38e02498aca4dd65448b86",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\trace.csv",
+        "crc_verified": true
+      },
+      {
+        "index": 25,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/run.json",
+        "bytes": 8113669,
+        "sha256": "b5deb605cf953d6bbf54ae24a616f88fdc79297b6abf7fbd0259d1371180a73e",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\run.json",
+        "crc_verified": true
+      },
+      {
+        "index": 26,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/RUN_SHA256SUMS.txt",
+        "bytes": 233,
+        "sha256": "1d27391cce984f933687b4d7f9895f2db76e4033b8af3d92fddc259fd427dfbb",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\RUN_SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 27,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/summary.json",
+        "bytes": 15579,
+        "sha256": "ecc294fbfcaa90689190dd25411765635d77df27d6d79fac34be45c7dc8c9613",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\summary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 28,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/trace.csv",
+        "bytes": 1964161,
+        "sha256": "ed584e1e7ee251799f18330e53da293f475c036e0a1104eeee5a642d4cea9fe1",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\trace.csv",
+        "crc_verified": true
+      },
+      {
+        "index": 30,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/run.json",
+        "bytes": 33689,
+        "sha256": "7803be99eea33aa62e3c595808aa7d8ef08206ffbabd2fc9bbb3438bcbde4838",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\run.json",
+        "crc_verified": true
+      },
+      {
+        "index": 31,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/RUN_SHA256SUMS.txt",
+        "bytes": 233,
+        "sha256": "825fee613164a9cb9875d4625fc8885d09793ae7511377e89d65325819cab747",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\RUN_SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 32,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/summary.json",
+        "bytes": 2349,
+        "sha256": "7397f53886a1f1c5ca4c17b93c6a73854ae486120b86bb367cee88aae613a844",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\summary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 33,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/trace.csv",
+        "bytes": 8011,
+        "sha256": "b3e5c8c4e3ee2862e96797e68a9130d8a8f548d9084f262c9cc2ffd721b1f3a8",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\trace.csv",
+        "crc_verified": true
+      },
+      {
+        "index": 34,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/EXPLORER.html",
+        "bytes": 404621,
+        "sha256": "5838e07609910037bece4bf653684779b018acdc6d3097b79576eafad9ad9134",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\EXPLORER.html",
+        "crc_verified": true
+      },
+      {
+        "index": 35,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/FIELD_THEORY_UPDATE_v0.3.md",
+        "bytes": 10209,
+        "sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\FIELD_THEORY_UPDATE_v0.3.md",
+        "crc_verified": true
+      },
+      {
+        "index": 68,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/GEOMETRY_MAXIMIZATION_v2.0.zip",
+        "bytes": 9043524,
+        "sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0068.zip",
+        "crc_verified": true
+      },
+      {
+        "index": 174,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/TOROIDAL_GEOMETRY_v1.0/baseline/GEOMETRY_MAXIMIZATION_v2.0.zip",
+        "bytes": 9043524,
+        "sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0174.zip",
+        "crc_verified": true
+      },
+      {
+        "index": 254,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY UPDATE/TOROIDAL_GEOMETRY_v1.0.zip",
+        "bytes": 9520744,
+        "sha256": "623f07aaa0b1fd6cdf817966f09f42792e6c2baf05da55294c09e9ed88b14c8f",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0254.zip",
+        "crc_verified": true
+      },
+      {
+        "index": 1252,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY_MAXIMIZATION_v2.0.md",
+        "bytes": 12491,
+        "sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+        "crc_verified": true
+      },
+      {
+        "index": 1253,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/PROVENANCE_v2.0.json",
+        "bytes": 1480,
+        "sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\PROVENANCE_v2.0.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1254,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/README.md",
+        "bytes": 3598,
+        "sha256": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\README.md",
+        "crc_verified": true
+      },
+      {
+        "index": 1255,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/RELEASE_REPORT_v2.0.md",
+        "bytes": 4685,
+        "sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\RELEASE_REPORT_v2.0.md",
+        "crc_verified": true
+      },
+      {
+        "index": 1256,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/SHA256SUMS.txt",
+        "bytes": 4215,
+        "sha256": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\SHA256SUMS.txt",
+        "crc_verified": true
+      },
+      {
+        "index": 1257,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/SIMULATION_PROTOCOL_v0.5.md",
+        "bytes": 12154,
+        "sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\SIMULATION_PROTOCOL_v0.5.md",
+        "crc_verified": true
+      },
+      {
+        "index": 1260,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/bin_boundary.json",
+        "bytes": 60,
+        "sha256": "bfb3e9ba6a09c793dc54e82bd11a435c505e6821d85099a306c4ffeec19c2920",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\bin_boundary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1261,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/boundary.json",
+        "bytes": 80,
+        "sha256": "6cfebc03d576a1530f58c7ab0d4ff90fc4cf9c4a24a98f311e5dd7d49cd2d7d3",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\boundary.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1262,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/default_507.json",
+        "bytes": 57,
+        "sha256": "6dffb8b6911fd39c1e26cad41820eb06ff8f0d8702e5d5f67ef7f8c16b27548b",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\default_507.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1263,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/exact_10000.json",
+        "bytes": 56,
+        "sha256": "80ca5d09c90a7b24bafcf172596a88daf7060930cde066a897340ee01b98cf40",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\exact_10000.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1264,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/warped_39.json",
+        "bytes": 56,
+        "sha256": "3c0be328525bbb3f0b6719f03c4d62bd95fe684d0e7177b12553949a4873723a",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\warped_39.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1265,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/geometry_reference.py",
+        "bytes": 16062,
+        "sha256": "fe0239e52c7f2148e928491a31b83a0cdacb2c69eff23ba02be7325e161388ca",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\geometry_reference.py",
+        "crc_verified": true
+      },
+      {
+        "index": 1266,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/test_geometry_reference.py",
+        "bytes": 8902,
+        "sha256": "aff614b61fc452177643e8f7dc869e8295479bd3eafd9aa16c01267a1e01d1a4",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\test_geometry_reference.py",
+        "crc_verified": true
+      },
+      {
+        "index": 1268,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/__pycache__/geometry_reference.cpython-312.pyc",
+        "bytes": 26055,
+        "sha256": "9b889ddd5d520dcaa6247409c889103ddaf6f8e4aaede5341c1192e19a28c5ad",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\__pycache__\\geometry_reference.cpython-312.pyc",
+        "crc_verified": true
+      },
+      {
+        "index": 1269,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/TECHNICAL_APPENDIX_v2.0.md",
+        "bytes": 8023,
+        "sha256": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\TECHNICAL_APPENDIX_v2.0.md",
+        "crc_verified": true
+      },
+      {
+        "index": 1270,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/UI_QA_v2.0.json",
+        "bytes": 1997,
+        "sha256": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\UI_QA_v2.0.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1271,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/VERIFICATION_RESULTS_v2.0.json",
+        "bytes": 3183,
+        "sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\VERIFICATION_RESULTS_v2.0.json",
+        "crc_verified": true
+      },
+      {
+        "index": 1272,
+        "name": "GEOMETRY_MAXIMIZATION_v2.0/verify_release.py",
+        "bytes": 6775,
+        "sha256": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219",
+        "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\verify_release.py",
+        "crc_verified": true
+      }
+    ],
+    "nested_packages": {
+      "geometry_v2_release": {
+        "source": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0068.zip",
+        "sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+        "files": 44,
+        "members": [
+          {
+            "index": 0,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/CHANGELOG_v2.0.md",
+            "relative_path": "CHANGELOG_v2.0.md",
+            "bytes": 2568,
+            "sha256": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\CHANGELOG_v2.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 1,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/EVIDENCE_LEDGER_v2.0.json",
+            "relative_path": "EVIDENCE_LEDGER_v2.0.json",
+            "bytes": 5537,
+            "sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\EVIDENCE_LEDGER_v2.0.json",
+            "crc_verified": true
+          },
+          {
+            "index": 2,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/EXPLORER.html",
+            "relative_path": "EXPLORER.html",
+            "bytes": 404621,
+            "sha256": "5838e07609910037bece4bf653684779b018acdc6d3097b79576eafad9ad9134",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\EXPLORER.html",
+            "crc_verified": true
+          },
+          {
+            "index": 3,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/FIELD_THEORY_UPDATE_v0.3.md",
+            "relative_path": "FIELD_THEORY_UPDATE_v0.3.md",
+            "bytes": 10209,
+            "sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\FIELD_THEORY_UPDATE_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 4,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/GEOMETRY_MAXIMIZATION_v2.0.md",
+            "relative_path": "GEOMETRY_MAXIMIZATION_v2.0.md",
+            "bytes": 12491,
+            "sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 5,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/PROVENANCE_v2.0.json",
+            "relative_path": "PROVENANCE_v2.0.json",
+            "bytes": 1480,
+            "sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\PROVENANCE_v2.0.json",
+            "crc_verified": true
+          },
+          {
+            "index": 6,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/README.md",
+            "relative_path": "README.md",
+            "bytes": 3598,
+            "sha256": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\README.md",
+            "crc_verified": true
+          },
+          {
+            "index": 7,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/RELEASE_REPORT_v2.0.md",
+            "relative_path": "RELEASE_REPORT_v2.0.md",
+            "bytes": 4685,
+            "sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\RELEASE_REPORT_v2.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 8,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/SHA256SUMS.txt",
+            "relative_path": "SHA256SUMS.txt",
+            "bytes": 4215,
+            "sha256": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 9,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/SIMULATION_PROTOCOL_v0.5.md",
+            "relative_path": "SIMULATION_PROTOCOL_v0.5.md",
+            "bytes": 12154,
+            "sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SIMULATION_PROTOCOL_v0.5.md",
+            "crc_verified": true
+          },
+          {
+            "index": 10,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/TECHNICAL_APPENDIX_v2.0.md",
+            "relative_path": "TECHNICAL_APPENDIX_v2.0.md",
+            "bytes": 8023,
+            "sha256": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\TECHNICAL_APPENDIX_v2.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 11,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/UI_QA_v2.0.json",
+            "relative_path": "UI_QA_v2.0.json",
+            "bytes": 1997,
+            "sha256": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\UI_QA_v2.0.json",
+            "crc_verified": true
+          },
+          {
+            "index": 12,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/VERIFICATION_RESULTS_v2.0.json",
+            "relative_path": "VERIFICATION_RESULTS_v2.0.json",
+            "bytes": 3183,
+            "sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\VERIFICATION_RESULTS_v2.0.json",
+            "crc_verified": true
+          },
+          {
+            "index": 13,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+            "bytes": 262971,
+            "sha256": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6.md",
+            "crc_verified": true
+          },
+          {
+            "index": 14,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+            "bytes": 15162,
+            "sha256": "54d0c69ce29eeffb115af639c9de34154d243706d004182174ce7dfdc0d9e6b3",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+            "crc_verified": true
+          },
+          {
+            "index": 15,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/baseline/GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+            "bytes": 7062333,
+            "sha256": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+            "crc_verified": true
+          },
+          {
+            "index": 16,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/RUN_SHA256SUMS.txt",
+            "relative_path": "examples/bin_boundary/RUN_SHA256SUMS.txt",
+            "bytes": 233,
+            "sha256": "d82c222935984830a6872ca4ff5a8fec20283bd4460032a47424dc3c142af990",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\RUN_SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 17,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/run.json",
+            "relative_path": "examples/bin_boundary/run.json",
+            "bytes": 54818,
+            "sha256": "98dfcbdf86d228a5ed808cab3c2f0d50347b1a2f52da480ad5b3fb092aea896b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\run.json",
+            "crc_verified": true
+          },
+          {
+            "index": 18,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/summary.json",
+            "relative_path": "examples/bin_boundary/summary.json",
+            "bytes": 2400,
+            "sha256": "d3ae9c89263c256ef2cbda3d6a658cedb20642f79a5d16a1729f6d474614ffc8",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\summary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 19,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/bin_boundary/trace.csv",
+            "relative_path": "examples/bin_boundary/trace.csv",
+            "bytes": 13703,
+            "sha256": "ddecc59d5cbf18a882d5eea6092529b8d3752ffb36956ae57cf873ba3573c440",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\trace.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 20,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/RUN_SHA256SUMS.txt",
+            "relative_path": "examples/boundary/RUN_SHA256SUMS.txt",
+            "bytes": 233,
+            "sha256": "d9ed2705273ab75272313c30808130e844ad81d4f3dd9a1a7543aba7d1b1ff36",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\RUN_SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 21,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/run.json",
+            "relative_path": "examples/boundary/run.json",
+            "bytes": 34255,
+            "sha256": "3c8caf27defe515c21c430a28156f5f09d93c20c9293c987e219564d92047695",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\run.json",
+            "crc_verified": true
+          },
+          {
+            "index": 22,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/summary.json",
+            "relative_path": "examples/boundary/summary.json",
+            "bytes": 2387,
+            "sha256": "5d6247651ef42a3ef60c4b605304cabb1006be819b43fbceff9fc397861d0f58",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\summary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 23,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/boundary/trace.csv",
+            "relative_path": "examples/boundary/trace.csv",
+            "bytes": 8419,
+            "sha256": "9ce746a42675f55b01052cfc1e16afa6ba4c3b11364592d90533ad502b16ac4f",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\trace.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 24,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/RUN_SHA256SUMS.txt",
+            "relative_path": "examples/default_507/RUN_SHA256SUMS.txt",
+            "bytes": 233,
+            "sha256": "12a21634a95136be25918d0e5082bc61c770264b3cb9b700a1f01e7a2bfa9d51",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\RUN_SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 25,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/run.json",
+            "relative_path": "examples/default_507/run.json",
+            "bytes": 418974,
+            "sha256": "15f6b49751489eab8809b64a95633f062f83825cf1ade11078807ff9e78db357",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\run.json",
+            "crc_verified": true
+          },
+          {
+            "index": 26,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/summary.json",
+            "relative_path": "examples/default_507/summary.json",
+            "bytes": 2957,
+            "sha256": "ca846ee3de5f276d25dad92f1526e78f37d9df7f8c1c9ebd1e9695d226e0d7fb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\summary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 27,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/default_507/trace.csv",
+            "relative_path": "examples/default_507/trace.csv",
+            "bytes": 107742,
+            "sha256": "b09456c287588432fd6537a4d5ff3c8ef38ec76a9a38e02498aca4dd65448b86",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\trace.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 28,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/RUN_SHA256SUMS.txt",
+            "relative_path": "examples/exact_10000/RUN_SHA256SUMS.txt",
+            "bytes": 233,
+            "sha256": "1d27391cce984f933687b4d7f9895f2db76e4033b8af3d92fddc259fd427dfbb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\RUN_SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 29,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/run.json",
+            "relative_path": "examples/exact_10000/run.json",
+            "bytes": 8113669,
+            "sha256": "b5deb605cf953d6bbf54ae24a616f88fdc79297b6abf7fbd0259d1371180a73e",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\run.json",
+            "crc_verified": true
+          },
+          {
+            "index": 30,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/summary.json",
+            "relative_path": "examples/exact_10000/summary.json",
+            "bytes": 15579,
+            "sha256": "ecc294fbfcaa90689190dd25411765635d77df27d6d79fac34be45c7dc8c9613",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\summary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 31,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/exact_10000/trace.csv",
+            "relative_path": "examples/exact_10000/trace.csv",
+            "bytes": 1964161,
+            "sha256": "ed584e1e7ee251799f18330e53da293f475c036e0a1104eeee5a642d4cea9fe1",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\trace.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 32,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/RUN_SHA256SUMS.txt",
+            "relative_path": "examples/warped_39/RUN_SHA256SUMS.txt",
+            "bytes": 233,
+            "sha256": "825fee613164a9cb9875d4625fc8885d09793ae7511377e89d65325819cab747",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\RUN_SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 33,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/run.json",
+            "relative_path": "examples/warped_39/run.json",
+            "bytes": 33689,
+            "sha256": "7803be99eea33aa62e3c595808aa7d8ef08206ffbabd2fc9bbb3438bcbde4838",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\run.json",
+            "crc_verified": true
+          },
+          {
+            "index": 34,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/summary.json",
+            "relative_path": "examples/warped_39/summary.json",
+            "bytes": 2349,
+            "sha256": "7397f53886a1f1c5ca4c17b93c6a73854ae486120b86bb367cee88aae613a844",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\summary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 35,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/examples/warped_39/trace.csv",
+            "relative_path": "examples/warped_39/trace.csv",
+            "bytes": 8011,
+            "sha256": "b3e5c8c4e3ee2862e96797e68a9130d8a8f548d9084f262c9cc2ffd721b1f3a8",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\trace.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 36,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/bin_boundary.json",
+            "relative_path": "simulator/configs/bin_boundary.json",
+            "bytes": 60,
+            "sha256": "bfb3e9ba6a09c793dc54e82bd11a435c505e6821d85099a306c4ffeec19c2920",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\bin_boundary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 37,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/boundary.json",
+            "relative_path": "simulator/configs/boundary.json",
+            "bytes": 80,
+            "sha256": "6cfebc03d576a1530f58c7ab0d4ff90fc4cf9c4a24a98f311e5dd7d49cd2d7d3",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\boundary.json",
+            "crc_verified": true
+          },
+          {
+            "index": 38,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/default_507.json",
+            "relative_path": "simulator/configs/default_507.json",
+            "bytes": 57,
+            "sha256": "6dffb8b6911fd39c1e26cad41820eb06ff8f0d8702e5d5f67ef7f8c16b27548b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\default_507.json",
+            "crc_verified": true
+          },
+          {
+            "index": 39,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/exact_10000.json",
+            "relative_path": "simulator/configs/exact_10000.json",
+            "bytes": 56,
+            "sha256": "80ca5d09c90a7b24bafcf172596a88daf7060930cde066a897340ee01b98cf40",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\exact_10000.json",
+            "crc_verified": true
+          },
+          {
+            "index": 40,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/configs/warped_39.json",
+            "relative_path": "simulator/configs/warped_39.json",
+            "bytes": 56,
+            "sha256": "3c0be328525bbb3f0b6719f03c4d62bd95fe684d0e7177b12553949a4873723a",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\warped_39.json",
+            "crc_verified": true
+          },
+          {
+            "index": 41,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/geometry_reference.py",
+            "relative_path": "simulator/geometry_reference.py",
+            "bytes": 16062,
+            "sha256": "fe0239e52c7f2148e928491a31b83a0cdacb2c69eff23ba02be7325e161388ca",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\geometry_reference.py",
+            "crc_verified": true
+          },
+          {
+            "index": 42,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/simulator/test_geometry_reference.py",
+            "relative_path": "simulator/test_geometry_reference.py",
+            "bytes": 8902,
+            "sha256": "aff614b61fc452177643e8f7dc869e8295479bd3eafd9aa16c01267a1e01d1a4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\test_geometry_reference.py",
+            "crc_verified": true
+          },
+          {
+            "index": 43,
+            "name": "GEOMETRY_MAXIMIZATION_v2.0/verify_release.py",
+            "relative_path": "verify_release.py",
+            "bytes": 6775,
+            "sha256": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\verify_release.py",
+            "crc_verified": true
+          }
+        ]
+      },
+      "toroidal_v1_release": {
+        "source": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0254.zip",
+        "sha256": "623f07aaa0b1fd6cdf817966f09f42792e6c2baf05da55294c09e9ed88b14c8f",
+        "files": 88,
+        "members": [
+          {
+            "index": 0,
+            "name": "00_TOROIDAL_GEOMETRY_v1.0.md",
+            "relative_path": "00_TOROIDAL_GEOMETRY_v1.0.md",
+            "bytes": 5901,
+            "sha256": "7c6d17855f49f63f0cc516e504f579f9d215c53394fa6ffb954bfd37b9883563",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\00_TOROIDAL_GEOMETRY_v1.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 1,
+            "name": "01_Field_Theory_Update_v0.4_Consolidated.md",
+            "relative_path": "01_Field_Theory_Update_v0.4_Consolidated.md",
+            "bytes": 6188,
+            "sha256": "6c234a3bd7feb49d2b02d9c2f8f3092ecf52d8b781fab375296cd2224bb21927",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\01_Field_Theory_Update_v0.4_Consolidated.md",
+            "crc_verified": true
+          },
+          {
+            "index": 2,
+            "name": "02_Simulation_Protocol_v0.6_Consolidated.md",
+            "relative_path": "02_Simulation_Protocol_v0.6_Consolidated.md",
+            "bytes": 7955,
+            "sha256": "272d42766b8a9c87b39f2cb7a5f7012a89fc03c202bf91be272c5477cd15dcd2",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\02_Simulation_Protocol_v0.6_Consolidated.md",
+            "crc_verified": true
+          },
+          {
+            "index": 3,
+            "name": "03_Appendix_A_v0.3_Exact_Lattice.md",
+            "relative_path": "03_Appendix_A_v0.3_Exact_Lattice.md",
+            "bytes": 5239,
+            "sha256": "05f179f8535da17c831a3eec07e0fdd193592dbfaa55afe7bbc4b4049a5624d8",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\03_Appendix_A_v0.3_Exact_Lattice.md",
+            "crc_verified": true
+          },
+          {
+            "index": 4,
+            "name": "04_Appendix_B_v0.3_Accessibility_Mixing.md",
+            "relative_path": "04_Appendix_B_v0.3_Accessibility_Mixing.md",
+            "bytes": 4279,
+            "sha256": "386917a3f37e12d29ad1e165ce96dafce0bd21ea8cb406c4f51ea839760d061b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\04_Appendix_B_v0.3_Accessibility_Mixing.md",
+            "crc_verified": true
+          },
+          {
+            "index": 5,
+            "name": "05_TTSC_1_v0.4_Curved_Throat.md",
+            "relative_path": "05_TTSC_1_v0.4_Curved_Throat.md",
+            "bytes": 6415,
+            "sha256": "96bfb9c22d02f652d1fd9141f0b34eaeb086fb159d7ddad986bf9d3032365377",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\05_TTSC_1_v0.4_Curved_Throat.md",
+            "crc_verified": true
+          },
+          {
+            "index": 6,
+            "name": "06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md",
+            "relative_path": "06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md",
+            "bytes": 2679,
+            "sha256": "eecd5e75ed2cb42807d0adad8feadb9ceab3322055a63e66edc6ce78e4314715",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md",
+            "crc_verified": true
+          },
+          {
+            "index": 7,
+            "name": "07_Two_Clock_Spec_v0.2.json",
+            "relative_path": "07_Two_Clock_Spec_v0.2.json",
+            "bytes": 2269,
+            "sha256": "a85861e189dfe29d7a7204e2d2adc6eaf1ed7325f98d1300929bbfcde2a6c4b5",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\07_Two_Clock_Spec_v0.2.json",
+            "crc_verified": true
+          },
+          {
+            "index": 8,
+            "name": "08_Conditional_Closure_v0.3.md",
+            "relative_path": "08_Conditional_Closure_v0.3.md",
+            "bytes": 2299,
+            "sha256": "a3f4d2a9a1119724dd290cd342a798aa2fa6a3a082400858f53045cd8e8a2369",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\08_Conditional_Closure_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 9,
+            "name": "09_Q1_Q2_Q3_Dependency_Graph_v0.3.md",
+            "relative_path": "09_Q1_Q2_Q3_Dependency_Graph_v0.3.md",
+            "bytes": 1607,
+            "sha256": "a52b14bbf35439cba20724adc33ce7faae2f0daec7ffc92c2f04e04bdd5c5cd7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\09_Q1_Q2_Q3_Dependency_Graph_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 10,
+            "name": "10_GQG_Relation_Typing_v0.3.md",
+            "relative_path": "10_GQG_Relation_Typing_v0.3.md",
+            "bytes": 2169,
+            "sha256": "73d0af40d5c804ae196046d8fac54500a730f60060d1bed546cf725c8ad08bc4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\10_GQG_Relation_Typing_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 11,
+            "name": "11_Dual_Ledger_v0.3.md",
+            "relative_path": "11_Dual_Ledger_v0.3.md",
+            "bytes": 1973,
+            "sha256": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\11_Dual_Ledger_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 12,
+            "name": "12_Provenance_Trust_v0.3.md",
+            "relative_path": "12_Provenance_Trust_v0.3.md",
+            "bytes": 2064,
+            "sha256": "8a06b130801d4a815dc55f1b25f916ea81eb05d27e8d370f84256df7fb8fbbc6",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\12_Provenance_Trust_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 13,
+            "name": "13_SW1_Post_Freeze_v0.3.md",
+            "relative_path": "13_SW1_Post_Freeze_v0.3.md",
+            "bytes": 2022,
+            "sha256": "d6aa6f7780d8141a1729db86222a6d6040788da9255b2e697d1e186b91e7dd1b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\13_SW1_Post_Freeze_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 14,
+            "name": "14_Confinement_Radius_v0.3.md",
+            "relative_path": "14_Confinement_Radius_v0.3.md",
+            "bytes": 2447,
+            "sha256": "c2b6d623af5102adcd70d36fbad4bf61d8d29488b2755beb22a8d48eceaa1fcb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\14_Confinement_Radius_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 15,
+            "name": "15_Integration_Manifest_v0.3.md",
+            "relative_path": "15_Integration_Manifest_v0.3.md",
+            "bytes": 4877,
+            "sha256": "ef78bc09ba33dc5138e0d456d05ae59e1f37f2eb487a415c7a8298acf79866b1",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\15_Integration_Manifest_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 16,
+            "name": "baseline/FIELD_THEORY_UPDATE_v0.3.md",
+            "relative_path": "baseline/FIELD_THEORY_UPDATE_v0.3.md",
+            "bytes": 10209,
+            "sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\FIELD_THEORY_UPDATE_v0.3.md",
+            "crc_verified": true
+          },
+          {
+            "index": 17,
+            "name": "baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+            "bytes": 262971,
+            "sha256": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6.md",
+            "crc_verified": true
+          },
+          {
+            "index": 18,
+            "name": "baseline/GEOMETRY_MAXIMIZATION_v2.0.md",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v2.0.md",
+            "bytes": 12491,
+            "sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\GEOMETRY_MAXIMIZATION_v2.0.md",
+            "crc_verified": true
+          },
+          {
+            "index": 19,
+            "name": "baseline/GEOMETRY_MAXIMIZATION_v2.0.zip",
+            "relative_path": "baseline/GEOMETRY_MAXIMIZATION_v2.0.zip",
+            "bytes": 9043524,
+            "sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\GEOMETRY_MAXIMIZATION_v2.0.zip",
+            "crc_verified": true
+          },
+          {
+            "index": 20,
+            "name": "baseline/SIMULATION_PROTOCOL_v0.5.md",
+            "relative_path": "baseline/SIMULATION_PROTOCOL_v0.5.md",
+            "bytes": 12154,
+            "sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\SIMULATION_PROTOCOL_v0.5.md",
+            "crc_verified": true
+          },
+          {
+            "index": 21,
+            "name": "configs/cubic.json",
+            "relative_path": "configs/cubic.json",
+            "bytes": 52,
+            "sha256": "072ad034350a3ea2fb5f1d52b5a185bc2b61114642751445754675196094eae2",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\cubic.json",
+            "crc_verified": true
+          },
+          {
+            "index": 22,
+            "name": "configs/rectangular.json",
+            "relative_path": "configs/rectangular.json",
+            "bytes": 52,
+            "sha256": "b1faf187dbe75601d3af0fa6370e02c5c8ac0f83b58f7355824889e0e7e7a0ad",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\rectangular.json",
+            "crc_verified": true
+          },
+          {
+            "index": 23,
+            "name": "configs/throat.json",
+            "relative_path": "configs/throat.json",
+            "bytes": 108,
+            "sha256": "7a18ec320ddc1a0906169618e2660f6b2ca479a5c4a2a2ba38765fe6f85439c6",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\throat.json",
+            "crc_verified": true
+          },
+          {
+            "index": 24,
+            "name": "configs/throat_flat.json",
+            "relative_path": "configs/throat_flat.json",
+            "bytes": 106,
+            "sha256": "08c41adc7fe3957bb9d3bb6894680d490a1532c4c00735ae6d40b1b2dc32a491",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\throat_flat.json",
+            "crc_verified": true
+          },
+          {
+            "index": 25,
+            "name": "configs/throat_translated.json",
+            "relative_path": "configs/throat_translated.json",
+            "bytes": 110,
+            "sha256": "830f21f1e4a3372433229cf589f77070fa1744a93a0db0ee74ffe02f837a5971",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\throat_translated.json",
+            "crc_verified": true
+          },
+          {
+            "index": 26,
+            "name": "configs/translated_rectangular.json",
+            "relative_path": "configs/translated_rectangular.json",
+            "bytes": 52,
+            "sha256": "abbec7a3a57b5b7deaa6ecdb021dae12a02d7cd0d063a2b820cd7841ea78dc6e",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\configs\\translated_rectangular.json",
+            "crc_verified": true
+          },
+          {
+            "index": 27,
+            "name": "EVIDENCE_LEDGER.json",
+            "relative_path": "EVIDENCE_LEDGER.json",
+            "bytes": 1735,
+            "sha256": "0ef25d0d16d02845497fc32df587a9df1f9905d6edf11d755cfed19bdd1792d6",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\EVIDENCE_LEDGER.json",
+            "crc_verified": true
+          },
+          {
+            "index": 28,
+            "name": "examples/cubic/config.json",
+            "relative_path": "examples/cubic/config.json",
+            "bytes": 90,
+            "sha256": "ebc03e99526c4231b26266be3ebba88ba4d818173bf111cd0157da65826ef8ae",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 29,
+            "name": "examples/cubic/lattice_report.json",
+            "relative_path": "examples/cubic/lattice_report.json",
+            "bytes": 7997,
+            "sha256": "024f17c5ba7b0416c037fa99039d3a8fafbcabd63f1704ca21b674560693f4e6",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\lattice_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 30,
+            "name": "examples/cubic/operator_events.jsonl",
+            "relative_path": "examples/cubic/operator_events.jsonl",
+            "bytes": 5569,
+            "sha256": "d7abc92ba0dfcb3c32c1f1dceb37a24ed58ee6f1ed9cec3d56815a60b7013667",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\operator_events.jsonl",
+            "crc_verified": true
+          },
+          {
+            "index": 31,
+            "name": "examples/cubic/operator_states.json",
+            "relative_path": "examples/cubic/operator_states.json",
+            "bytes": 19988,
+            "sha256": "72ee7f888fb7511b815cae0ee19539ea8be4a0535ad48e1d40c4f5412a47e804",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\operator_states.json",
+            "crc_verified": true
+          },
+          {
+            "index": 32,
+            "name": "examples/cubic/source_counterexample_L4.json",
+            "relative_path": "examples/cubic/source_counterexample_L4.json",
+            "bytes": 649,
+            "sha256": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\source_counterexample_L4.json",
+            "crc_verified": true
+          },
+          {
+            "index": 33,
+            "name": "examples/cubic/source_counterexample_L6.json",
+            "relative_path": "examples/cubic/source_counterexample_L6.json",
+            "bytes": 649,
+            "sha256": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\source_counterexample_L6.json",
+            "crc_verified": true
+          },
+          {
+            "index": 34,
+            "name": "examples/cubic/state_input.json",
+            "relative_path": "examples/cubic/state_input.json",
+            "bytes": 2435,
+            "sha256": "6ea3033f5b610bcacac9feffbf578b219d90e5982084830d1b4a01c5576b954f",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\cubic\\state_input.json",
+            "crc_verified": true
+          },
+          {
+            "index": 35,
+            "name": "examples/rectangular/config.json",
+            "relative_path": "examples/rectangular/config.json",
+            "bytes": 90,
+            "sha256": "768aa5c55dea2cb31809f55cfeced7386578d6717dc0a1056bb6b11a518a7380",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 36,
+            "name": "examples/rectangular/lattice_report.json",
+            "relative_path": "examples/rectangular/lattice_report.json",
+            "bytes": 8038,
+            "sha256": "80851ba49c0e2b3fb3ab67b8f44315fee38397985cc6e89522fa6b9a2cd2becb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\lattice_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 37,
+            "name": "examples/rectangular/operator_events.jsonl",
+            "relative_path": "examples/rectangular/operator_events.jsonl",
+            "bytes": 5569,
+            "sha256": "47e529046f2539cc821b4bcab0c33fdbb68d176087888f127692059a4eea7cfa",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\operator_events.jsonl",
+            "crc_verified": true
+          },
+          {
+            "index": 38,
+            "name": "examples/rectangular/operator_states.json",
+            "relative_path": "examples/rectangular/operator_states.json",
+            "bytes": 27161,
+            "sha256": "6b626176800a1e5dbc084ab25fed16d81a8e2eae81641b5789cdf0fc333846b0",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\operator_states.json",
+            "crc_verified": true
+          },
+          {
+            "index": 39,
+            "name": "examples/rectangular/source_counterexample_L4.json",
+            "relative_path": "examples/rectangular/source_counterexample_L4.json",
+            "bytes": 649,
+            "sha256": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\source_counterexample_L4.json",
+            "crc_verified": true
+          },
+          {
+            "index": 40,
+            "name": "examples/rectangular/source_counterexample_L6.json",
+            "relative_path": "examples/rectangular/source_counterexample_L6.json",
+            "bytes": 649,
+            "sha256": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\source_counterexample_L6.json",
+            "crc_verified": true
+          },
+          {
+            "index": 41,
+            "name": "examples/rectangular/state_input.json",
+            "relative_path": "examples/rectangular/state_input.json",
+            "bytes": 3540,
+            "sha256": "c3c0ff7007a0df4f79407c640a4be9eb7f1cd92c2d86d9f8883558b65d9d2d17",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\rectangular\\state_input.json",
+            "crc_verified": true
+          },
+          {
+            "index": 42,
+            "name": "examples/throat/config.json",
+            "relative_path": "examples/throat/config.json",
+            "bytes": 124,
+            "sha256": "9c380d61fc62a9dbc73e6380cb9980232a8e1799e13d2ff45793b53620c45277",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 43,
+            "name": "examples/throat/throat_profile.csv",
+            "relative_path": "examples/throat/throat_profile.csv",
+            "bytes": 42358,
+            "sha256": "97129150ab23d19e99dfb21c8d7f2bf4a405a6088bef18d16e3725485c01dd98",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat\\throat_profile.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 44,
+            "name": "examples/throat/throat_report.json",
+            "relative_path": "examples/throat/throat_report.json",
+            "bytes": 1850,
+            "sha256": "a56834f817b6ec37dd2ad6eb0b3736e888e604981e7d147a97fe6a75c3fd0deb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat\\throat_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 45,
+            "name": "examples/throat_flat/config.json",
+            "relative_path": "examples/throat_flat/config.json",
+            "bytes": 122,
+            "sha256": "312886cb2626426ddba8f759c48e42fb80a616d82015bb9aa2342f84d84fdb1b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_flat\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 46,
+            "name": "examples/throat_flat/throat_profile.csv",
+            "relative_path": "examples/throat_flat/throat_profile.csv",
+            "bytes": 22716,
+            "sha256": "e09b2fcf650b764b13032db72a1485094194f77831187bf3732326102faeb4c3",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_flat\\throat_profile.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 47,
+            "name": "examples/throat_flat/throat_report.json",
+            "relative_path": "examples/throat_flat/throat_report.json",
+            "bytes": 1627,
+            "sha256": "786cd0f36420be46df4ed9d8dc1d11059d5906c236fbc36994ddd7e8ceed3fd4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_flat\\throat_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 48,
+            "name": "examples/throat_translated/config.json",
+            "relative_path": "examples/throat_translated/config.json",
+            "bytes": 126,
+            "sha256": "8ff41a70a715fd5c1cccf39e6df4ab697247052b79fbc89f47564c3d162240b6",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_translated\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 49,
+            "name": "examples/throat_translated/throat_profile.csv",
+            "relative_path": "examples/throat_translated/throat_profile.csv",
+            "bytes": 42351,
+            "sha256": "d00791aa73172db047b68753631989566c8cd03cb0f842f6af2ab6458f249c7c",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_translated\\throat_profile.csv",
+            "crc_verified": true
+          },
+          {
+            "index": 50,
+            "name": "examples/throat_translated/throat_report.json",
+            "relative_path": "examples/throat_translated/throat_report.json",
+            "bytes": 1850,
+            "sha256": "610e9dfcc7a7b3f2d4df0afc906092f9f782ecf54e778e52c44f88dcc9ac3c46",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\throat_translated\\throat_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 51,
+            "name": "examples/translated_rectangular/config.json",
+            "relative_path": "examples/translated_rectangular/config.json",
+            "bytes": 90,
+            "sha256": "93396c9af53855647cd404c097294eeb2f8355db6eccc12899372e7848f6a76b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\config.json",
+            "crc_verified": true
+          },
+          {
+            "index": 52,
+            "name": "examples/translated_rectangular/lattice_report.json",
+            "relative_path": "examples/translated_rectangular/lattice_report.json",
+            "bytes": 8076,
+            "sha256": "717c109650e8a8f07ad6d7f52cce1a530e7f58f5a6cd26c38960c0d5fff043f4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\lattice_report.json",
+            "crc_verified": true
+          },
+          {
+            "index": 53,
+            "name": "examples/translated_rectangular/operator_events.jsonl",
+            "relative_path": "examples/translated_rectangular/operator_events.jsonl",
+            "bytes": 5569,
+            "sha256": "d9ad4bbce8ed89f1a9a463d62b1731069ec70348b8d29ccf567f4b326cfa5c9b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\operator_events.jsonl",
+            "crc_verified": true
+          },
+          {
+            "index": 54,
+            "name": "examples/translated_rectangular/operator_states.json",
+            "relative_path": "examples/translated_rectangular/operator_states.json",
+            "bytes": 38695,
+            "sha256": "d490bb52ee6bb11921869d34b74aad65f94fc7797ebdc207ed8bb6cd0a921de9",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\operator_states.json",
+            "crc_verified": true
+          },
+          {
+            "index": 55,
+            "name": "examples/translated_rectangular/source_counterexample_L4.json",
+            "relative_path": "examples/translated_rectangular/source_counterexample_L4.json",
+            "bytes": 649,
+            "sha256": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\source_counterexample_L4.json",
+            "crc_verified": true
+          },
+          {
+            "index": 56,
+            "name": "examples/translated_rectangular/source_counterexample_L6.json",
+            "relative_path": "examples/translated_rectangular/source_counterexample_L6.json",
+            "bytes": 649,
+            "sha256": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\source_counterexample_L6.json",
+            "crc_verified": true
+          },
+          {
+            "index": 57,
+            "name": "examples/translated_rectangular/state_input.json",
+            "relative_path": "examples/translated_rectangular/state_input.json",
+            "bytes": 5133,
+            "sha256": "e747a46a50e96a3752d1ac266bbb15cc2a5ffe1bc5973d92dd037a126d2da28f",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\examples\\translated_rectangular\\state_input.json",
+            "crc_verified": true
+          },
+          {
+            "index": 58,
+            "name": "figures/curved_throat.png",
+            "relative_path": "figures/curved_throat.png",
+            "bytes": 162306,
+            "sha256": "a31bfbd3d2f18c6a5b3d62d96e810ec5b8f6a1fe88dd9e4a3aa0b237a8a0a5fa",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\figures\\curved_throat.png",
+            "crc_verified": true
+          },
+          {
+            "index": 59,
+            "name": "figures/curved_throat.svg",
+            "relative_path": "figures/curved_throat.svg",
+            "bytes": 93656,
+            "sha256": "c540b6f6be11fb0d2fb320dbe49ba6643cab4e1b7897c798e622cafe546bea30",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\figures\\curved_throat.svg",
+            "crc_verified": true
+          },
+          {
+            "index": 60,
+            "name": "PROVENANCE.json",
+            "relative_path": "PROVENANCE.json",
+            "bytes": 12210,
+            "sha256": "169ab1680d873048cc898305918937cb7c66672122d4deea474e089b0ec2c99c",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\PROVENANCE.json",
+            "crc_verified": true
+          },
+          {
+            "index": 61,
+            "name": "README.md",
+            "relative_path": "README.md",
+            "bytes": 3502,
+            "sha256": "a06cf1e0f4eb0ad2d1c1e850a7f08de82e041422f754e24f0151a08cb9be0b7a",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\README.md",
+            "crc_verified": true
+          },
+          {
+            "index": 62,
+            "name": "reference/lattice.py",
+            "relative_path": "reference/lattice.py",
+            "bytes": 17580,
+            "sha256": "29ec25207cadd6c629fd9717e3872f58ff551c48ff87655cbda4bd7cfe974f21",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\lattice.py",
+            "crc_verified": true
+          },
+          {
+            "index": 63,
+            "name": "reference/lattice_validator.py",
+            "relative_path": "reference/lattice_validator.py",
+            "bytes": 7086,
+            "sha256": "42cd7e36e45ddcc841520ce94b97136d0bbd6711c3bec72667de8eeef4bf3c09",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\lattice_validator.py",
+            "crc_verified": true
+          },
+          {
+            "index": 64,
+            "name": "reference/plot_throat.py",
+            "relative_path": "reference/plot_throat.py",
+            "bytes": 2333,
+            "sha256": "3803a1ea4ffefbccbb1fd4b837c69356c1e26027c6d0f452dae2e62b7799aec4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\plot_throat.py",
+            "crc_verified": true
+          },
+          {
+            "index": 65,
+            "name": "reference/reporting.py",
+            "relative_path": "reference/reporting.py",
+            "bytes": 2976,
+            "sha256": "56820f951376418d7bd305586800741e1a620c7669228a22c72ce4959e24df23",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\reporting.py",
+            "crc_verified": true
+          },
+          {
+            "index": 66,
+            "name": "reference/test_lattice.py",
+            "relative_path": "reference/test_lattice.py",
+            "bytes": 9953,
+            "sha256": "a59c148bb97c0af31411bf6a422526cb2939c5c85af88a53cf039b2dfc3c728f",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\test_lattice.py",
+            "crc_verified": true
+          },
+          {
+            "index": 67,
+            "name": "reference/test_reporting.py",
+            "relative_path": "reference/test_reporting.py",
+            "bytes": 2312,
+            "sha256": "1000716bfdd96c56638117d58ecb8744995120765c9874485b6e8a6c1917e1be",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\test_reporting.py",
+            "crc_verified": true
+          },
+          {
+            "index": 68,
+            "name": "reference/test_throat.py",
+            "relative_path": "reference/test_throat.py",
+            "bytes": 3659,
+            "sha256": "d3c05fbe56f9627485b9f77669d4c0b842e264b1d9b681b3268f4d410a129c85",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\test_throat.py",
+            "crc_verified": true
+          },
+          {
+            "index": 69,
+            "name": "reference/throat.py",
+            "relative_path": "reference/throat.py",
+            "bytes": 10337,
+            "sha256": "c1081fe9a5cd555ca44af75544462c1b759bb26e8bc35cb54f4bf5a4d37afadc",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\reference\\throat.py",
+            "crc_verified": true
+          },
+          {
+            "index": 70,
+            "name": "SHA256SUMS.txt",
+            "relative_path": "SHA256SUMS.txt",
+            "bytes": 9130,
+            "sha256": "021353a2b3c340a5099196776b499c910dc6c972edbf3205d700ebd07beba2a4",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\SHA256SUMS.txt",
+            "crc_verified": true
+          },
+          {
+            "index": 71,
+            "name": "sources/01_Field_Theory_Update_v0.2_Orbit_Quotient_Cocycle.md",
+            "relative_path": "sources/01_Field_Theory_Update_v0.2_Orbit_Quotient_Cocycle.md",
+            "bytes": 34973,
+            "sha256": "f86875e34ec1972721a9f8f4cb08d49d03c8982bd9523862dc684b848dc85ac0",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\01_Field_Theory_Update_v0.2_Orbit_Quotient_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 72,
+            "name": "sources/02_Simulation_Protocol_v0.4_RC1_Orbit_Quotient_Cocycle.md",
+            "relative_path": "sources/02_Simulation_Protocol_v0.4_RC1_Orbit_Quotient_Cocycle.md",
+            "bytes": 52089,
+            "sha256": "38b1abfb494d9663d4f8c58b1c89da4d2db7b302d7f40666cf9df059f7010547",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\02_Simulation_Protocol_v0.4_RC1_Orbit_Quotient_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 73,
+            "name": "sources/03_Appendix_A_v0.2_Three_Axis_Orbit_Cocycle.md",
+            "relative_path": "sources/03_Appendix_A_v0.2_Three_Axis_Orbit_Cocycle.md",
+            "bytes": 26090,
+            "sha256": "6179da0f506abae7f9e42a3a1e97ea17b8ddbefb930d4a9fff33b96e325211fc",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\03_Appendix_A_v0.2_Three_Axis_Orbit_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 74,
+            "name": "sources/04_Appendix_B_v0.2_Orbit_Accessibility_Mixing.md",
+            "relative_path": "sources/04_Appendix_B_v0.2_Orbit_Accessibility_Mixing.md",
+            "bytes": 73776,
+            "sha256": "0e40972512c62e3d327d61ad71f1d0a2506ce5029d70fe8cae41e23d041772c7",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\04_Appendix_B_v0.2_Orbit_Accessibility_Mixing.md",
+            "crc_verified": true
+          },
+          {
+            "index": 75,
+            "name": "sources/05_TTSC_1_v0.3_Dual_Chart_Spatial_Cocycle.md",
+            "relative_path": "sources/05_TTSC_1_v0.3_Dual_Chart_Spatial_Cocycle.md",
+            "bytes": 9653,
+            "sha256": "750e99995679bab3bed39c524fedd7212748ed1b423c990ec902ecf04fbaa62c",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\05_TTSC_1_v0.3_Dual_Chart_Spatial_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 76,
+            "name": "sources/06_Rotating_Lattice_Run_Report_v0.2_Two_Clock_Prospective.md",
+            "relative_path": "sources/06_Rotating_Lattice_Run_Report_v0.2_Two_Clock_Prospective.md",
+            "bytes": 7304,
+            "sha256": "e3d29aa1ba155ec965a63504ef2e40ade57e4f2301f0ab3210d9b07038cfb560",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\06_Rotating_Lattice_Run_Report_v0.2_Two_Clock_Prospective.md",
+            "crc_verified": true
+          },
+          {
+            "index": 77,
+            "name": "sources/07_Rotating_Lattice_Two_Clock_Spec_v0.1.json",
+            "relative_path": "sources/07_Rotating_Lattice_Two_Clock_Spec_v0.1.json",
+            "bytes": 1637,
+            "sha256": "dc8b70f5513ea7b9190abe1e45140f5b8997142f45f1f7ac48c6c32c07c81308",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\07_Rotating_Lattice_Two_Clock_Spec_v0.1.json",
+            "crc_verified": true
+          },
+          {
+            "index": 78,
+            "name": "sources/08_Conditional_Closure_v0.2_Orbit_Accessibility.md",
+            "relative_path": "sources/08_Conditional_Closure_v0.2_Orbit_Accessibility.md",
+            "bytes": 9381,
+            "sha256": "47cac898eb8612fbdf4795976ec4ecd1eadfa472e64d2fb4144a8c05eebe22cb",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\08_Conditional_Closure_v0.2_Orbit_Accessibility.md",
+            "crc_verified": true
+          },
+          {
+            "index": 79,
+            "name": "sources/09_Q1_Q2_Q3_Dependency_Graph_v0.2_Orbit_Cocycle.md",
+            "relative_path": "sources/09_Q1_Q2_Q3_Dependency_Graph_v0.2_Orbit_Cocycle.md",
+            "bytes": 7366,
+            "sha256": "a4287973d7ae84538e4717601718c6ed4503dbfc970f293ef94c741a4dd416f1",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\09_Q1_Q2_Q3_Dependency_Graph_v0.2_Orbit_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 80,
+            "name": "sources/10_GQG_Relation_Typing_v0.2_Orbit_Cocycle.md",
+            "relative_path": "sources/10_GQG_Relation_Typing_v0.2_Orbit_Cocycle.md",
+            "bytes": 8545,
+            "sha256": "95d4e47ce58ca7e4393cd17ce9fd0c505f3a30b8da9c3fb7368c396761e95233",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\10_GQG_Relation_Typing_v0.2_Orbit_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 81,
+            "name": "sources/11_Dual_Ledger_v0.2_Orbit_Cocycle.md",
+            "relative_path": "sources/11_Dual_Ledger_v0.2_Orbit_Cocycle.md",
+            "bytes": 7645,
+            "sha256": "09db3b67049297e933f36ab595f022d3a218258b3e78cfc4d0acf93d05099579",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\11_Dual_Ledger_v0.2_Orbit_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 82,
+            "name": "sources/12_Provenance_Trust_v0.2_Two_Clock.md",
+            "relative_path": "sources/12_Provenance_Trust_v0.2_Two_Clock.md",
+            "bytes": 9427,
+            "sha256": "871c91d1c516e521a9a5ea3b2a9ea04d818d5c1b4a974c8ca47459559abf2cea",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\12_Provenance_Trust_v0.2_Two_Clock.md",
+            "crc_verified": true
+          },
+          {
+            "index": 83,
+            "name": "sources/13_SW1_Post_Freeze_v0.2_Signed_Winding_Cocycle.md",
+            "relative_path": "sources/13_SW1_Post_Freeze_v0.2_Signed_Winding_Cocycle.md",
+            "bytes": 8234,
+            "sha256": "403117e24aa75b15f1827b4082a07014b133535a11859ee5126e431766bc0660",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\13_SW1_Post_Freeze_v0.2_Signed_Winding_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 84,
+            "name": "sources/14_Confinement_Radius_v0.2_Orbit_Accessibility_Firewall.md",
+            "relative_path": "sources/14_Confinement_Radius_v0.2_Orbit_Accessibility_Firewall.md",
+            "bytes": 8913,
+            "sha256": "f9236ead1cbc2b97debe207c98b8f0a20936006e5923f4ed2eaf5f39f8e6d93b",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\14_Confinement_Radius_v0.2_Orbit_Accessibility_Firewall.md",
+            "crc_verified": true
+          },
+          {
+            "index": 85,
+            "name": "sources/15_Ultra_Review_Handoff_Manifest_v0.2_Toroidal_Orbit_Cocycle.md",
+            "relative_path": "sources/15_Ultra_Review_Handoff_Manifest_v0.2_Toroidal_Orbit_Cocycle.md",
+            "bytes": 3533,
+            "sha256": "00d0191fa835b4ac3cf7243999f3ac87b66268363d81f0f489984add9ac52956",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\sources\\15_Ultra_Review_Handoff_Manifest_v0.2_Toroidal_Orbit_Cocycle.md",
+            "crc_verified": true
+          },
+          {
+            "index": 86,
+            "name": "VERIFICATION_RESULTS.json",
+            "relative_path": "VERIFICATION_RESULTS.json",
+            "bytes": 12438,
+            "sha256": "0da194b81f62f4c6984d1ca1f712d2717be2ebebfbe7f30827a985a6b6558030",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\VERIFICATION_RESULTS.json",
+            "crc_verified": true
+          },
+          {
+            "index": 87,
+            "name": "verify_release.py",
+            "relative_path": "verify_release.py",
+            "bytes": 6827,
+            "sha256": "828bccbbbbe75470cc34fe169ddb7820d119a2c27a51e0f0e8617aa3e3bbc529",
+            "saved": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\verify_release.py",
+            "crc_verified": true
+          }
+        ]
+      }
+    },
+    "geometry_inner_outer_comparison": {
+      "shared_files": 44,
+      "identical": [
+        "CHANGELOG_v2.0.md",
+        "EVIDENCE_LEDGER_v2.0.json",
+        "EXPLORER.html",
+        "FIELD_THEORY_UPDATE_v0.3.md",
+        "GEOMETRY_MAXIMIZATION_v2.0.md",
+        "PROVENANCE_v2.0.json",
+        "README.md",
+        "RELEASE_REPORT_v2.0.md",
+        "SHA256SUMS.txt",
+        "SIMULATION_PROTOCOL_v0.5.md",
+        "TECHNICAL_APPENDIX_v2.0.md",
+        "UI_QA_v2.0.json",
+        "VERIFICATION_RESULTS_v2.0.json",
+        "baseline/GEOMETRY_MAXIMIZATION_v1.6.md",
+        "baseline/GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+        "baseline/GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+        "examples/bin_boundary/RUN_SHA256SUMS.txt",
+        "examples/bin_boundary/run.json",
+        "examples/bin_boundary/summary.json",
+        "examples/bin_boundary/trace.csv",
+        "examples/boundary/RUN_SHA256SUMS.txt",
+        "examples/boundary/run.json",
+        "examples/boundary/summary.json",
+        "examples/boundary/trace.csv",
+        "examples/default_507/RUN_SHA256SUMS.txt",
+        "examples/default_507/run.json",
+        "examples/default_507/summary.json",
+        "examples/default_507/trace.csv",
+        "examples/exact_10000/RUN_SHA256SUMS.txt",
+        "examples/exact_10000/run.json",
+        "examples/exact_10000/summary.json",
+        "examples/exact_10000/trace.csv",
+        "examples/warped_39/RUN_SHA256SUMS.txt",
+        "examples/warped_39/run.json",
+        "examples/warped_39/summary.json",
+        "examples/warped_39/trace.csv",
+        "simulator/configs/bin_boundary.json",
+        "simulator/configs/boundary.json",
+        "simulator/configs/default_507.json",
+        "simulator/configs/exact_10000.json",
+        "simulator/configs/warped_39.json",
+        "simulator/geometry_reference.py",
+        "simulator/test_geometry_reference.py",
+        "verify_release.py"
+      ],
+      "different": [],
+      "outer_only": [
+        "DROP_IT.py",
+        "simulator/__pycache__/geometry_reference.cpython-312.pyc"
+      ],
+      "inner_only": []
+    },
+    "duplicate_nested_geometry_zips": true
+  },
+  "lineage": {
+    "outer_vs_intact_geometry": {
+      "file_count": 44,
+      "all_byte_equal": true,
+      "unlisted_outer_files": [
+        "DROP_IT.py",
+        "simulator/__pycache__/geometry_reference.cpython-312.pyc"
+      ],
+      "files": [
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6.md",
+          "left_sha256": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+          "right_sha256": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md",
+          "left_sha256": "54d0c69ce29eeffb115af639c9de34154d243706d004182174ce7dfdc0d9e6b3",
+          "right_sha256": "54d0c69ce29eeffb115af639c9de34154d243706d004182174ce7dfdc0d9e6b3",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\baseline\\GEOMETRY_MAXIMIZATION_v1.6_verification.zip",
+          "left_sha256": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+          "right_sha256": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\CHANGELOG_v2.0.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\CHANGELOG_v2.0.md",
+          "left_sha256": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+          "right_sha256": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\EVIDENCE_LEDGER_v2.0.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\EVIDENCE_LEDGER_v2.0.json",
+          "left_sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+          "right_sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\run.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\run.json",
+          "left_sha256": "98dfcbdf86d228a5ed808cab3c2f0d50347b1a2f52da480ad5b3fb092aea896b",
+          "right_sha256": "98dfcbdf86d228a5ed808cab3c2f0d50347b1a2f52da480ad5b3fb092aea896b",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\RUN_SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\RUN_SHA256SUMS.txt",
+          "left_sha256": "d82c222935984830a6872ca4ff5a8fec20283bd4460032a47424dc3c142af990",
+          "right_sha256": "d82c222935984830a6872ca4ff5a8fec20283bd4460032a47424dc3c142af990",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\summary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\summary.json",
+          "left_sha256": "d3ae9c89263c256ef2cbda3d6a658cedb20642f79a5d16a1729f6d474614ffc8",
+          "right_sha256": "d3ae9c89263c256ef2cbda3d6a658cedb20642f79a5d16a1729f6d474614ffc8",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\bin_boundary\\trace.csv",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\bin_boundary\\trace.csv",
+          "left_sha256": "ddecc59d5cbf18a882d5eea6092529b8d3752ffb36956ae57cf873ba3573c440",
+          "right_sha256": "ddecc59d5cbf18a882d5eea6092529b8d3752ffb36956ae57cf873ba3573c440",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\run.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\run.json",
+          "left_sha256": "3c8caf27defe515c21c430a28156f5f09d93c20c9293c987e219564d92047695",
+          "right_sha256": "3c8caf27defe515c21c430a28156f5f09d93c20c9293c987e219564d92047695",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\RUN_SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\RUN_SHA256SUMS.txt",
+          "left_sha256": "d9ed2705273ab75272313c30808130e844ad81d4f3dd9a1a7543aba7d1b1ff36",
+          "right_sha256": "d9ed2705273ab75272313c30808130e844ad81d4f3dd9a1a7543aba7d1b1ff36",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\summary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\summary.json",
+          "left_sha256": "5d6247651ef42a3ef60c4b605304cabb1006be819b43fbceff9fc397861d0f58",
+          "right_sha256": "5d6247651ef42a3ef60c4b605304cabb1006be819b43fbceff9fc397861d0f58",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\boundary\\trace.csv",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\boundary\\trace.csv",
+          "left_sha256": "9ce746a42675f55b01052cfc1e16afa6ba4c3b11364592d90533ad502b16ac4f",
+          "right_sha256": "9ce746a42675f55b01052cfc1e16afa6ba4c3b11364592d90533ad502b16ac4f",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\run.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\run.json",
+          "left_sha256": "15f6b49751489eab8809b64a95633f062f83825cf1ade11078807ff9e78db357",
+          "right_sha256": "15f6b49751489eab8809b64a95633f062f83825cf1ade11078807ff9e78db357",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\RUN_SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\RUN_SHA256SUMS.txt",
+          "left_sha256": "12a21634a95136be25918d0e5082bc61c770264b3cb9b700a1f01e7a2bfa9d51",
+          "right_sha256": "12a21634a95136be25918d0e5082bc61c770264b3cb9b700a1f01e7a2bfa9d51",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\summary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\summary.json",
+          "left_sha256": "ca846ee3de5f276d25dad92f1526e78f37d9df7f8c1c9ebd1e9695d226e0d7fb",
+          "right_sha256": "ca846ee3de5f276d25dad92f1526e78f37d9df7f8c1c9ebd1e9695d226e0d7fb",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\default_507\\trace.csv",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\default_507\\trace.csv",
+          "left_sha256": "b09456c287588432fd6537a4d5ff3c8ef38ec76a9a38e02498aca4dd65448b86",
+          "right_sha256": "b09456c287588432fd6537a4d5ff3c8ef38ec76a9a38e02498aca4dd65448b86",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\run.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\run.json",
+          "left_sha256": "b5deb605cf953d6bbf54ae24a616f88fdc79297b6abf7fbd0259d1371180a73e",
+          "right_sha256": "b5deb605cf953d6bbf54ae24a616f88fdc79297b6abf7fbd0259d1371180a73e",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\RUN_SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\RUN_SHA256SUMS.txt",
+          "left_sha256": "1d27391cce984f933687b4d7f9895f2db76e4033b8af3d92fddc259fd427dfbb",
+          "right_sha256": "1d27391cce984f933687b4d7f9895f2db76e4033b8af3d92fddc259fd427dfbb",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\summary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\summary.json",
+          "left_sha256": "ecc294fbfcaa90689190dd25411765635d77df27d6d79fac34be45c7dc8c9613",
+          "right_sha256": "ecc294fbfcaa90689190dd25411765635d77df27d6d79fac34be45c7dc8c9613",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\exact_10000\\trace.csv",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\exact_10000\\trace.csv",
+          "left_sha256": "ed584e1e7ee251799f18330e53da293f475c036e0a1104eeee5a642d4cea9fe1",
+          "right_sha256": "ed584e1e7ee251799f18330e53da293f475c036e0a1104eeee5a642d4cea9fe1",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\run.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\run.json",
+          "left_sha256": "7803be99eea33aa62e3c595808aa7d8ef08206ffbabd2fc9bbb3438bcbde4838",
+          "right_sha256": "7803be99eea33aa62e3c595808aa7d8ef08206ffbabd2fc9bbb3438bcbde4838",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\RUN_SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\RUN_SHA256SUMS.txt",
+          "left_sha256": "825fee613164a9cb9875d4625fc8885d09793ae7511377e89d65325819cab747",
+          "right_sha256": "825fee613164a9cb9875d4625fc8885d09793ae7511377e89d65325819cab747",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\summary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\summary.json",
+          "left_sha256": "7397f53886a1f1c5ca4c17b93c6a73854ae486120b86bb367cee88aae613a844",
+          "right_sha256": "7397f53886a1f1c5ca4c17b93c6a73854ae486120b86bb367cee88aae613a844",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\examples\\warped_39\\trace.csv",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\examples\\warped_39\\trace.csv",
+          "left_sha256": "b3e5c8c4e3ee2862e96797e68a9130d8a8f548d9084f262c9cc2ffd721b1f3a8",
+          "right_sha256": "b3e5c8c4e3ee2862e96797e68a9130d8a8f548d9084f262c9cc2ffd721b1f3a8",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\EXPLORER.html",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\EXPLORER.html",
+          "left_sha256": "5838e07609910037bece4bf653684779b018acdc6d3097b79576eafad9ad9134",
+          "right_sha256": "5838e07609910037bece4bf653684779b018acdc6d3097b79576eafad9ad9134",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\FIELD_THEORY_UPDATE_v0.3.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\FIELD_THEORY_UPDATE_v0.3.md",
+          "left_sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+          "right_sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+          "left_sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+          "right_sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\PROVENANCE_v2.0.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\PROVENANCE_v2.0.json",
+          "left_sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+          "right_sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\README.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\README.md",
+          "left_sha256": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+          "right_sha256": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\RELEASE_REPORT_v2.0.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\RELEASE_REPORT_v2.0.md",
+          "left_sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+          "right_sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SHA256SUMS.txt",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\SHA256SUMS.txt",
+          "left_sha256": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+          "right_sha256": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SIMULATION_PROTOCOL_v0.5.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\SIMULATION_PROTOCOL_v0.5.md",
+          "left_sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+          "right_sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\bin_boundary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\bin_boundary.json",
+          "left_sha256": "bfb3e9ba6a09c793dc54e82bd11a435c505e6821d85099a306c4ffeec19c2920",
+          "right_sha256": "bfb3e9ba6a09c793dc54e82bd11a435c505e6821d85099a306c4ffeec19c2920",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\boundary.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\boundary.json",
+          "left_sha256": "6cfebc03d576a1530f58c7ab0d4ff90fc4cf9c4a24a98f311e5dd7d49cd2d7d3",
+          "right_sha256": "6cfebc03d576a1530f58c7ab0d4ff90fc4cf9c4a24a98f311e5dd7d49cd2d7d3",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\default_507.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\default_507.json",
+          "left_sha256": "6dffb8b6911fd39c1e26cad41820eb06ff8f0d8702e5d5f67ef7f8c16b27548b",
+          "right_sha256": "6dffb8b6911fd39c1e26cad41820eb06ff8f0d8702e5d5f67ef7f8c16b27548b",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\exact_10000.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\exact_10000.json",
+          "left_sha256": "80ca5d09c90a7b24bafcf172596a88daf7060930cde066a897340ee01b98cf40",
+          "right_sha256": "80ca5d09c90a7b24bafcf172596a88daf7060930cde066a897340ee01b98cf40",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\configs\\warped_39.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\configs\\warped_39.json",
+          "left_sha256": "3c0be328525bbb3f0b6719f03c4d62bd95fe684d0e7177b12553949a4873723a",
+          "right_sha256": "3c0be328525bbb3f0b6719f03c4d62bd95fe684d0e7177b12553949a4873723a",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\geometry_reference.py",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\geometry_reference.py",
+          "left_sha256": "fe0239e52c7f2148e928491a31b83a0cdacb2c69eff23ba02be7325e161388ca",
+          "right_sha256": "fe0239e52c7f2148e928491a31b83a0cdacb2c69eff23ba02be7325e161388ca",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\simulator\\test_geometry_reference.py",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\simulator\\test_geometry_reference.py",
+          "left_sha256": "aff614b61fc452177643e8f7dc869e8295479bd3eafd9aa16c01267a1e01d1a4",
+          "right_sha256": "aff614b61fc452177643e8f7dc869e8295479bd3eafd9aa16c01267a1e01d1a4",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\TECHNICAL_APPENDIX_v2.0.md",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\TECHNICAL_APPENDIX_v2.0.md",
+          "left_sha256": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+          "right_sha256": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\UI_QA_v2.0.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\UI_QA_v2.0.json",
+          "left_sha256": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+          "right_sha256": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\VERIFICATION_RESULTS_v2.0.json",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\VERIFICATION_RESULTS_v2.0.json",
+          "left_sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+          "right_sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        },
+        {
+          "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\verify_release.py",
+          "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\outer_release\\verify_release.py",
+          "left_sha256": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219",
+          "right_sha256": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219",
+          "byte_equal": true,
+          "equal_after_CRLF_to_LF_only": true
+        }
+      ]
+    },
+    "geometry_duplicate_archives": {
+      "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0068.zip",
+      "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0174.zip",
+      "left_sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+      "right_sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+      "byte_equal": true,
+      "equal_after_CRLF_to_LF_only": true
+    },
+    "toroidal_geometry_baseline_identity": {
+      "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\nested_sources\\M0068.zip",
+      "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\baseline\\GEOMETRY_MAXIMIZATION_v2.0.zip",
+      "left_sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+      "right_sha256": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+      "byte_equal": true,
+      "equal_after_CRLF_to_LF_only": true
+    },
+    "snapshot_comparison": {
+      "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+      "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\oct18\\predictive\\geometry_maximization_v2.september_snapshot.txt",
+      "left_sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+      "right_sha256": "e39d0124357978d37fdff2eb5ef634f54e3eca237dcf15cfa0b30d9e5638bf1e",
+      "byte_equal": false,
+      "equal_after_CRLF_to_LF_only": false,
+      "snapshot_first_lines": [
+        "TAB: Tab 1 (t.0)",
+        "# Geometry Maximization v2.0",
+        "CC0- NO RIGHTS RESERVED"
+      ],
+      "equal_after_removing_one_TAB_header_and_normalizing_line_endings_and_edge_whitespace": false,
+      "equal_after_also_removing_exact_CC0_license_line": true,
+      "normalization_scope": "Only the leading TAB header, exact CC0- NO RIGHTS RESERVED line, line endings, and leading/trailing whitespace were removed. Original bytes preserved."
+    },
+    "pinned_repository_root_comparisons": [
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\CHANGELOG_v2.0.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\CHANGELOG_v2.0.md",
+        "left_sha256": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+        "right_sha256": "b129baf158a7818465e16c3282ef0f2507fb4d6a3170fb2242025a302c3fdb65",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\EVIDENCE_LEDGER_v2.0.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\EVIDENCE_LEDGER_v2.0.json",
+        "left_sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+        "right_sha256": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\FIELD_THEORY_UPDATE_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\FIELD_THEORY_UPDATE_v0.3.md",
+        "left_sha256": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+        "right_sha256": "5d4eb6fedba679e414832959466722eaca4cd89b8e1f28644dc9e583398ae4b2",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\GEOMETRY_MAXIMIZATION_v2.0.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\GEOMETRY_MAXIMIZATION_v2.0.md",
+        "left_sha256": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+        "right_sha256": "95a1f63e23a55a4bd60f9aabff8b9970bcbf0e0f1021cd84e34339cd9dfd0510",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\PROVENANCE_v2.0.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\PROVENANCE_v2.0.json",
+        "left_sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+        "right_sha256": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\README.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\README.md",
+        "left_sha256": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+        "right_sha256": "3810e001f7abe9c4f2d5acd2334975c50225808aaf710186e58e041fcacd4dca",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": false
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\RELEASE_REPORT_v2.0.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\RELEASE_REPORT_v2.0.md",
+        "left_sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+        "right_sha256": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SHA256SUMS.txt",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\SHA256SUMS.txt",
+        "left_sha256": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+        "right_sha256": "9a045195e3e6615b4effd15a9127e5b345279854206aea2dc12411238c7f2f53",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": false
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\SIMULATION_PROTOCOL_v0.5.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\SIMULATION_PROTOCOL_v0.5.md",
+        "left_sha256": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+        "right_sha256": "442fa950409ae60ae2df5c6fce325d5183d6e9f67c9c120bff3c41402163d31b",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\TECHNICAL_APPENDIX_v2.0.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\TECHNICAL_APPENDIX_v2.0.md",
+        "left_sha256": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+        "right_sha256": "fabd10c4c32ee17d96d214575c86844017cab92aa3aed95e902b94f0bd757b8c",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\UI_QA_v2.0.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\UI_QA_v2.0.json",
+        "left_sha256": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+        "right_sha256": "ee0ddad6029877125f956b73644443c374712eacae22396d6385f8ebf376bf8c",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\VERIFICATION_RESULTS_v2.0.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\VERIFICATION_RESULTS_v2.0.json",
+        "left_sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+        "right_sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\verify_release.py",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\verify_release.py",
+        "left_sha256": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219",
+        "right_sha256": "828bccbbbbe75470cc34fe169ddb7820d119a2c27a51e0f0e8617aa3e3bbc529",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": false
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\00_TOROIDAL_GEOMETRY_v1.0.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\00_TOROIDAL_GEOMETRY_v1.0.md",
+        "left_sha256": "7c6d17855f49f63f0cc516e504f579f9d215c53394fa6ffb954bfd37b9883563",
+        "right_sha256": "7c6d17855f49f63f0cc516e504f579f9d215c53394fa6ffb954bfd37b9883563",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\01_Field_Theory_Update_v0.4_Consolidated.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\01_Field_Theory_Update_v0.4_Consolidated.md",
+        "left_sha256": "6c234a3bd7feb49d2b02d9c2f8f3092ecf52d8b781fab375296cd2224bb21927",
+        "right_sha256": "6c234a3bd7feb49d2b02d9c2f8f3092ecf52d8b781fab375296cd2224bb21927",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\02_Simulation_Protocol_v0.6_Consolidated.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\02_Simulation_Protocol_v0.6_Consolidated.md",
+        "left_sha256": "272d42766b8a9c87b39f2cb7a5f7012a89fc03c202bf91be272c5477cd15dcd2",
+        "right_sha256": "272d42766b8a9c87b39f2cb7a5f7012a89fc03c202bf91be272c5477cd15dcd2",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\03_Appendix_A_v0.3_Exact_Lattice.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\03_Appendix_A_v0.3_Exact_Lattice.md",
+        "left_sha256": "05f179f8535da17c831a3eec07e0fdd193592dbfaa55afe7bbc4b4049a5624d8",
+        "right_sha256": "05f179f8535da17c831a3eec07e0fdd193592dbfaa55afe7bbc4b4049a5624d8",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\04_Appendix_B_v0.3_Accessibility_Mixing.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\04_Appendix_B_v0.3_Accessibility_Mixing.md",
+        "left_sha256": "386917a3f37e12d29ad1e165ce96dafce0bd21ea8cb406c4f51ea839760d061b",
+        "right_sha256": "386917a3f37e12d29ad1e165ce96dafce0bd21ea8cb406c4f51ea839760d061b",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\05_TTSC_1_v0.4_Curved_Throat.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\05_TTSC_1_v0.4_Curved_Throat.md",
+        "left_sha256": "96bfb9c22d02f652d1fd9141f0b34eaeb086fb159d7ddad986bf9d3032365377",
+        "right_sha256": "96bfb9c22d02f652d1fd9141f0b34eaeb086fb159d7ddad986bf9d3032365377",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md",
+        "left_sha256": "eecd5e75ed2cb42807d0adad8feadb9ceab3322055a63e66edc6ce78e4314715",
+        "right_sha256": "eecd5e75ed2cb42807d0adad8feadb9ceab3322055a63e66edc6ce78e4314715",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\07_Two_Clock_Spec_v0.2.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\07_Two_Clock_Spec_v0.2.json",
+        "left_sha256": "a85861e189dfe29d7a7204e2d2adc6eaf1ed7325f98d1300929bbfcde2a6c4b5",
+        "right_sha256": "a85861e189dfe29d7a7204e2d2adc6eaf1ed7325f98d1300929bbfcde2a6c4b5",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\08_Conditional_Closure_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\08_Conditional_Closure_v0.3.md",
+        "left_sha256": "a3f4d2a9a1119724dd290cd342a798aa2fa6a3a082400858f53045cd8e8a2369",
+        "right_sha256": "a3f4d2a9a1119724dd290cd342a798aa2fa6a3a082400858f53045cd8e8a2369",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\09_Q1_Q2_Q3_Dependency_Graph_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\09_Q1_Q2_Q3_Dependency_Graph_v0.3.md",
+        "left_sha256": "a52b14bbf35439cba20724adc33ce7faae2f0daec7ffc92c2f04e04bdd5c5cd7",
+        "right_sha256": "a52b14bbf35439cba20724adc33ce7faae2f0daec7ffc92c2f04e04bdd5c5cd7",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\10_GQG_Relation_Typing_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\10_GQG_Relation_Typing_v0.3.md",
+        "left_sha256": "73d0af40d5c804ae196046d8fac54500a730f60060d1bed546cf725c8ad08bc4",
+        "right_sha256": "73d0af40d5c804ae196046d8fac54500a730f60060d1bed546cf725c8ad08bc4",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\11_Dual_Ledger_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\11_Dual_Ledger_v0.3.md",
+        "left_sha256": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+        "right_sha256": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\12_Provenance_Trust_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\12_Provenance_Trust_v0.3.md",
+        "left_sha256": "8a06b130801d4a815dc55f1b25f916ea81eb05d27e8d370f84256df7fb8fbbc6",
+        "right_sha256": "8a06b130801d4a815dc55f1b25f916ea81eb05d27e8d370f84256df7fb8fbbc6",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\13_SW1_Post_Freeze_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\13_SW1_Post_Freeze_v0.3.md",
+        "left_sha256": "d6aa6f7780d8141a1729db86222a6d6040788da9255b2e697d1e186b91e7dd1b",
+        "right_sha256": "d6aa6f7780d8141a1729db86222a6d6040788da9255b2e697d1e186b91e7dd1b",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\14_Confinement_Radius_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\14_Confinement_Radius_v0.3.md",
+        "left_sha256": "c2b6d623af5102adcd70d36fbad4bf61d8d29488b2755beb22a8d48eceaa1fcb",
+        "right_sha256": "c2b6d623af5102adcd70d36fbad4bf61d8d29488b2755beb22a8d48eceaa1fcb",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\15_Integration_Manifest_v0.3.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\15_Integration_Manifest_v0.3.md",
+        "left_sha256": "ef78bc09ba33dc5138e0d456d05ae59e1f37f2eb487a415c7a8298acf79866b1",
+        "right_sha256": "ef78bc09ba33dc5138e0d456d05ae59e1f37f2eb487a415c7a8298acf79866b1",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\EVIDENCE_LEDGER.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\EVIDENCE_LEDGER.json",
+        "left_sha256": "0ef25d0d16d02845497fc32df587a9df1f9905d6edf11d755cfed19bdd1792d6",
+        "right_sha256": "0ef25d0d16d02845497fc32df587a9df1f9905d6edf11d755cfed19bdd1792d6",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\PROVENANCE.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\PROVENANCE.json",
+        "left_sha256": "169ab1680d873048cc898305918937cb7c66672122d4deea474e089b0ec2c99c",
+        "right_sha256": "169ab1680d873048cc898305918937cb7c66672122d4deea474e089b0ec2c99c",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\README.md",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\README.md",
+        "left_sha256": "a06cf1e0f4eb0ad2d1c1e850a7f08de82e041422f754e24f0151a08cb9be0b7a",
+        "right_sha256": "3810e001f7abe9c4f2d5acd2334975c50225808aaf710186e58e041fcacd4dca",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": false
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\SHA256SUMS.txt",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\SHA256SUMS.txt",
+        "left_sha256": "021353a2b3c340a5099196776b499c910dc6c972edbf3205d700ebd07beba2a4",
+        "right_sha256": "9a045195e3e6615b4effd15a9127e5b345279854206aea2dc12411238c7f2f53",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": false
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\VERIFICATION_RESULTS.json",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\VERIFICATION_RESULTS.json",
+        "left_sha256": "0da194b81f62f4c6984d1ca1f712d2717be2ebebfbe7f30827a985a6b6558030",
+        "right_sha256": "3a60f741143a4a9dcc24bdd6278f6e7df3e8a647449c330c55c190e623ffbdff",
+        "byte_equal": false,
+        "equal_after_CRLF_to_LF_only": true
+      },
+      {
+        "left": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\verify_release.py",
+        "right": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\github_oct18\\Toroidal_scrotal_posturing\\verify_release.py",
+        "left_sha256": "828bccbbbbe75470cc34fe169ddb7820d119a2c27a51e0f0e8617aa3e3bbc529",
+        "right_sha256": "828bccbbbbe75470cc34fe169ddb7820d119a2c27a51e0f0e8617aa3e3bbc529",
+        "byte_equal": true,
+        "equal_after_CRLF_to_LF_only": true
+      }
+    ],
+    "scope": "Local preserved snapshot and present files in the already pinned repository checkout; no remote refresh."
+  },
+  "fresh_executions": {
+    "geometry": {
+      "execution": {
+        "kind": "geometry",
+        "started_utc": "2026-10-19T03:08:09.756961+00:00",
+        "elapsed_seconds": 13.203,
+        "command": [
+          "C:\\Users\\drewd\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+          "-I",
+          "-B",
+          "-X",
+          "utf8",
+          "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\geometry_v2_release\\verify_release.py",
+          "--receipt",
+          "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\fresh_geometry\\release_receipt.json"
+        ],
+        "returncode": 0,
+        "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+        "package_files_before": 44,
+        "package_files_after": 44,
+        "package_unchanged": true,
+        "package_hashes": {
+          "baseline/GEOMETRY_MAXIMIZATION_v1.6.md": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+          "baseline/GEOMETRY_MAXIMIZATION_v1.6_SOURCE_REVIEW.md": "54d0c69ce29eeffb115af639c9de34154d243706d004182174ce7dfdc0d9e6b3",
+          "baseline/GEOMETRY_MAXIMIZATION_v1.6_verification.zip": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+          "CHANGELOG_v2.0.md": "6ac25c46ed54c9918cf5687d27857bd4c2ad87de4a05c7244be164f0cd584561",
+          "EVIDENCE_LEDGER_v2.0.json": "facc4afc6b0127aefbf50077be272b9484042ab5782ec8969466675266acda02",
+          "examples/bin_boundary/run.json": "98dfcbdf86d228a5ed808cab3c2f0d50347b1a2f52da480ad5b3fb092aea896b",
+          "examples/bin_boundary/RUN_SHA256SUMS.txt": "d82c222935984830a6872ca4ff5a8fec20283bd4460032a47424dc3c142af990",
+          "examples/bin_boundary/summary.json": "d3ae9c89263c256ef2cbda3d6a658cedb20642f79a5d16a1729f6d474614ffc8",
+          "examples/bin_boundary/trace.csv": "ddecc59d5cbf18a882d5eea6092529b8d3752ffb36956ae57cf873ba3573c440",
+          "examples/boundary/run.json": "3c8caf27defe515c21c430a28156f5f09d93c20c9293c987e219564d92047695",
+          "examples/boundary/RUN_SHA256SUMS.txt": "d9ed2705273ab75272313c30808130e844ad81d4f3dd9a1a7543aba7d1b1ff36",
+          "examples/boundary/summary.json": "5d6247651ef42a3ef60c4b605304cabb1006be819b43fbceff9fc397861d0f58",
+          "examples/boundary/trace.csv": "9ce746a42675f55b01052cfc1e16afa6ba4c3b11364592d90533ad502b16ac4f",
+          "examples/default_507/run.json": "15f6b49751489eab8809b64a95633f062f83825cf1ade11078807ff9e78db357",
+          "examples/default_507/RUN_SHA256SUMS.txt": "12a21634a95136be25918d0e5082bc61c770264b3cb9b700a1f01e7a2bfa9d51",
+          "examples/default_507/summary.json": "ca846ee3de5f276d25dad92f1526e78f37d9df7f8c1c9ebd1e9695d226e0d7fb",
+          "examples/default_507/trace.csv": "b09456c287588432fd6537a4d5ff3c8ef38ec76a9a38e02498aca4dd65448b86",
+          "examples/exact_10000/run.json": "b5deb605cf953d6bbf54ae24a616f88fdc79297b6abf7fbd0259d1371180a73e",
+          "examples/exact_10000/RUN_SHA256SUMS.txt": "1d27391cce984f933687b4d7f9895f2db76e4033b8af3d92fddc259fd427dfbb",
+          "examples/exact_10000/summary.json": "ecc294fbfcaa90689190dd25411765635d77df27d6d79fac34be45c7dc8c9613",
+          "examples/exact_10000/trace.csv": "ed584e1e7ee251799f18330e53da293f475c036e0a1104eeee5a642d4cea9fe1",
+          "examples/warped_39/run.json": "7803be99eea33aa62e3c595808aa7d8ef08206ffbabd2fc9bbb3438bcbde4838",
+          "examples/warped_39/RUN_SHA256SUMS.txt": "825fee613164a9cb9875d4625fc8885d09793ae7511377e89d65325819cab747",
+          "examples/warped_39/summary.json": "7397f53886a1f1c5ca4c17b93c6a73854ae486120b86bb367cee88aae613a844",
+          "examples/warped_39/trace.csv": "b3e5c8c4e3ee2862e96797e68a9130d8a8f548d9084f262c9cc2ffd721b1f3a8",
+          "EXPLORER.html": "5838e07609910037bece4bf653684779b018acdc6d3097b79576eafad9ad9134",
+          "FIELD_THEORY_UPDATE_v0.3.md": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+          "GEOMETRY_MAXIMIZATION_v2.0.md": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+          "PROVENANCE_v2.0.json": "ac2fb2479455b67bd17f891aa8a652cebb68fa2cb18f9e5fecc05272ac4211a7",
+          "README.md": "abea7505b9c07bcb212fe68e88d02d04933b4230ae1c9612d598f90ecfa8690d",
+          "RELEASE_REPORT_v2.0.md": "2da351a1bc2468e8864f97c3dd4fa6c1c1c2078f8661b1d90ac8b29037fd293e",
+          "SHA256SUMS.txt": "738d49c5f9f86538f0f50e866b5d2a1716c78d79e69dd4bfe11a30e4c331c7e2",
+          "SIMULATION_PROTOCOL_v0.5.md": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+          "simulator/configs/bin_boundary.json": "bfb3e9ba6a09c793dc54e82bd11a435c505e6821d85099a306c4ffeec19c2920",
+          "simulator/configs/boundary.json": "6cfebc03d576a1530f58c7ab0d4ff90fc4cf9c4a24a98f311e5dd7d49cd2d7d3",
+          "simulator/configs/default_507.json": "6dffb8b6911fd39c1e26cad41820eb06ff8f0d8702e5d5f67ef7f8c16b27548b",
+          "simulator/configs/exact_10000.json": "80ca5d09c90a7b24bafcf172596a88daf7060930cde066a897340ee01b98cf40",
+          "simulator/configs/warped_39.json": "3c0be328525bbb3f0b6719f03c4d62bd95fe684d0e7177b12553949a4873723a",
+          "simulator/geometry_reference.py": "fe0239e52c7f2148e928491a31b83a0cdacb2c69eff23ba02be7325e161388ca",
+          "simulator/test_geometry_reference.py": "aff614b61fc452177643e8f7dc869e8295479bd3eafd9aa16c01267a1e01d1a4",
+          "TECHNICAL_APPENDIX_v2.0.md": "109afee846825486e77f458841403462a5b79ffe3f5ea4d993b4b72a46ddb31c",
+          "UI_QA_v2.0.json": "863a56e7002eaf35dd27aa400f5f031be1780d525c5ea890b38b0d1ff60f8263",
+          "VERIFICATION_RESULTS_v2.0.json": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b",
+          "verify_release.py": "90b202dcb5fd4da0196f167fe8d1a4575e7a98c791906ddc90a48221cc893219"
+        },
+        "scope": "Inspected packaged deterministic verifiers. No production field simulation or historical empirical reanalysis."
+      },
+      "fresh_receipt": {
+        "version": "2.0",
+        "status": "PASS",
+        "package_integrity": {
+          "status": "PASS",
+          "count": 43
+        },
+        "baseline_integrity": {
+          "archive_sha256": "b4c71388b4211aa08643c49515a69965f6ce9f5aa7fdcc523744c38b788a701e",
+          "members": 90,
+          "checksum_registers": {
+            ".": 89,
+            "v1_5": 79,
+            "v1_5/v1_4": 70,
+            "v1_5/v1_4/v1_3": 62,
+            "v1_5/v1_4/v1_3/v1_2": 54,
+            "v1_5/v1_4/v1_3/v1_2/v1_1": 6
+          },
+          "readable_baseline_matches_archive": true,
+          "legacy_mathematical_verifiers_rerun_in_v2": false
+        },
+        "reference_tests": {
+          "passed": 10,
+          "failed": 0,
+          "independent_departure_oracle_steps": 10000,
+          "arithmetic": "exact Q(sqrt(5)) and independent integer-square-root formulas",
+          "numeric_tolerances": {
+            "inverse_residual": 1e-14,
+            "uniform_bound_roundoff_allowance": 2e-14
+          }
+        },
+        "examples": {
+          "default_507": {
+            "departures": 507,
+            "slips": 53,
+            "ideal_certified": 502,
+            "numeric_mismatches": 0,
+            "ideal_certified_numeric_mismatches": 0,
+            "reproduced_artifacts": [
+              "run.json",
+              "summary.json",
+              "trace.csv",
+              "RUN_SHA256SUMS.txt"
+            ],
+            "byte_identical_on_this_platform": true
+          },
+          "warped_39": {
+            "departures": 39,
+            "slips": 5,
+            "ideal_certified": 1,
+            "numeric_mismatches": 3,
+            "ideal_certified_numeric_mismatches": 0,
+            "reproduced_artifacts": [
+              "run.json",
+              "summary.json",
+              "trace.csv",
+              "RUN_SHA256SUMS.txt"
+            ],
+            "byte_identical_on_this_platform": true
+          },
+          "exact_10000": {
+            "departures": 10000,
+            "slips": 1034,
+            "ideal_certified": 10000,
+            "numeric_mismatches": 0,
+            "ideal_certified_numeric_mismatches": 0,
+            "reproduced_artifacts": [
+              "run.json",
+              "summary.json",
+              "trace.csv",
+              "RUN_SHA256SUMS.txt"
+            ],
+            "byte_identical_on_this_platform": true
+          },
+          "boundary": {
+            "departures": 39,
+            "slips": 4,
+            "ideal_certified": 38,
+            "numeric_mismatches": 0,
+            "ideal_certified_numeric_mismatches": 0,
+            "reproduced_artifacts": [
+              "run.json",
+              "summary.json",
+              "trace.csv",
+              "RUN_SHA256SUMS.txt"
+            ],
+            "byte_identical_on_this_platform": true
+          },
+          "bin_boundary": {
+            "departures": 64,
+            "slips": 7,
+            "ideal_certified": 64,
+            "numeric_mismatches": 1,
+            "ideal_certified_numeric_mismatches": 1,
+            "reproduced_artifacts": [
+              "run.json",
+              "summary.json",
+              "trace.csv",
+              "RUN_SHA256SUMS.txt"
+            ],
+            "byte_identical_on_this_platform": true
+          }
+        },
+        "scope": {
+          "exact_phase_and_labels": "freshly checked",
+          "numerical_coordinates": "finite fixtures; no interval enclosure",
+          "browser_interaction_checks": "separate UI_QA_v2.0.json receipt",
+          "field_production_simulation": "not implemented or run",
+          "historical_empirical_analyses": "not rerun",
+          "source_instructions": "treated as source content, not executable instructions"
+        }
+      },
+      "final_package_unchanged": true,
+      "stdout": {
+        "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\fresh_geometry\\stdout.txt",
+        "bytes": 3183,
+        "sha256": "7e787e255dd87e9001eb68035a49a17de885f343986dd8da519c2d2b935b369b"
+      },
+      "stderr": {
+        "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\fresh_geometry\\stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "toroidal": {
+      "execution": {
+        "kind": "toroidal",
+        "started_utc": "2026-10-19T03:08:10.075977+00:00",
+        "elapsed_seconds": 0.797,
+        "command": [
+          "C:\\Users\\drewd\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+          "-I",
+          "-B",
+          "-X",
+          "utf8",
+          "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\toroidal_v1_release\\verify_release.py",
+          "--json"
+        ],
+        "returncode": 0,
+        "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+        "package_files_before": 88,
+        "package_files_after": 88,
+        "package_unchanged": true,
+        "package_hashes": {
+          "00_TOROIDAL_GEOMETRY_v1.0.md": "7c6d17855f49f63f0cc516e504f579f9d215c53394fa6ffb954bfd37b9883563",
+          "01_Field_Theory_Update_v0.4_Consolidated.md": "6c234a3bd7feb49d2b02d9c2f8f3092ecf52d8b781fab375296cd2224bb21927",
+          "02_Simulation_Protocol_v0.6_Consolidated.md": "272d42766b8a9c87b39f2cb7a5f7012a89fc03c202bf91be272c5477cd15dcd2",
+          "03_Appendix_A_v0.3_Exact_Lattice.md": "05f179f8535da17c831a3eec07e0fdd193592dbfaa55afe7bbc4b4049a5624d8",
+          "04_Appendix_B_v0.3_Accessibility_Mixing.md": "386917a3f37e12d29ad1e165ce96dafce0bd21ea8cb406c4f51ea839760d061b",
+          "05_TTSC_1_v0.4_Curved_Throat.md": "96bfb9c22d02f652d1fd9141f0b34eaeb086fb159d7ddad986bf9d3032365377",
+          "06_Rotating_Lattice_Run_Report_v0.3_Evidence_Status.md": "eecd5e75ed2cb42807d0adad8feadb9ceab3322055a63e66edc6ce78e4314715",
+          "07_Two_Clock_Spec_v0.2.json": "a85861e189dfe29d7a7204e2d2adc6eaf1ed7325f98d1300929bbfcde2a6c4b5",
+          "08_Conditional_Closure_v0.3.md": "a3f4d2a9a1119724dd290cd342a798aa2fa6a3a082400858f53045cd8e8a2369",
+          "09_Q1_Q2_Q3_Dependency_Graph_v0.3.md": "a52b14bbf35439cba20724adc33ce7faae2f0daec7ffc92c2f04e04bdd5c5cd7",
+          "10_GQG_Relation_Typing_v0.3.md": "73d0af40d5c804ae196046d8fac54500a730f60060d1bed546cf725c8ad08bc4",
+          "11_Dual_Ledger_v0.3.md": "a9402ff821c056696355421db4cfc07c305e7a1cbff6497ee64402ceea957ee8",
+          "12_Provenance_Trust_v0.3.md": "8a06b130801d4a815dc55f1b25f916ea81eb05d27e8d370f84256df7fb8fbbc6",
+          "13_SW1_Post_Freeze_v0.3.md": "d6aa6f7780d8141a1729db86222a6d6040788da9255b2e697d1e186b91e7dd1b",
+          "14_Confinement_Radius_v0.3.md": "c2b6d623af5102adcd70d36fbad4bf61d8d29488b2755beb22a8d48eceaa1fcb",
+          "15_Integration_Manifest_v0.3.md": "ef78bc09ba33dc5138e0d456d05ae59e1f37f2eb487a415c7a8298acf79866b1",
+          "baseline/FIELD_THEORY_UPDATE_v0.3.md": "a7a6817668f20376e7f386904e9e82365908ba5aab998338f9ac9ba63e5b0746",
+          "baseline/GEOMETRY_MAXIMIZATION_v1.6.md": "9c62dcc439f67ce117d7caaacc6d140d2ea411104cf0dc8d1f3b5d62a11c8185",
+          "baseline/GEOMETRY_MAXIMIZATION_v2.0.md": "8dbfb68e16b97c3731aec1bcb43fe75f6027d4fc5bac6d2c4cbe1d9a41cb1dbb",
+          "baseline/GEOMETRY_MAXIMIZATION_v2.0.zip": "263681efe82513b062b75bdc23d9d16be2ed8bdee96adf01c562944d2960c3cb",
+          "baseline/SIMULATION_PROTOCOL_v0.5.md": "ee6b41543623392268748fed46421f5947d4bdb7cdd5cbcceec32aa2056a6f72",
+          "configs/cubic.json": "072ad034350a3ea2fb5f1d52b5a185bc2b61114642751445754675196094eae2",
+          "configs/rectangular.json": "b1faf187dbe75601d3af0fa6370e02c5c8ac0f83b58f7355824889e0e7e7a0ad",
+          "configs/throat.json": "7a18ec320ddc1a0906169618e2660f6b2ca479a5c4a2a2ba38765fe6f85439c6",
+          "configs/throat_flat.json": "08c41adc7fe3957bb9d3bb6894680d490a1532c4c00735ae6d40b1b2dc32a491",
+          "configs/throat_translated.json": "830f21f1e4a3372433229cf589f77070fa1744a93a0db0ee74ffe02f837a5971",
+          "configs/translated_rectangular.json": "abbec7a3a57b5b7deaa6ecdb021dae12a02d7cd0d063a2b820cd7841ea78dc6e",
+          "EVIDENCE_LEDGER.json": "0ef25d0d16d02845497fc32df587a9df1f9905d6edf11d755cfed19bdd1792d6",
+          "examples/cubic/config.json": "ebc03e99526c4231b26266be3ebba88ba4d818173bf111cd0157da65826ef8ae",
+          "examples/cubic/lattice_report.json": "024f17c5ba7b0416c037fa99039d3a8fafbcabd63f1704ca21b674560693f4e6",
+          "examples/cubic/operator_events.jsonl": "d7abc92ba0dfcb3c32c1f1dceb37a24ed58ee6f1ed9cec3d56815a60b7013667",
+          "examples/cubic/operator_states.json": "72ee7f888fb7511b815cae0ee19539ea8be4a0535ad48e1d40c4f5412a47e804",
+          "examples/cubic/source_counterexample_L4.json": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+          "examples/cubic/source_counterexample_L6.json": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+          "examples/cubic/state_input.json": "6ea3033f5b610bcacac9feffbf578b219d90e5982084830d1b4a01c5576b954f",
+          "examples/rectangular/config.json": "768aa5c55dea2cb31809f55cfeced7386578d6717dc0a1056bb6b11a518a7380",
+          "examples/rectangular/lattice_report.json": "80851ba49c0e2b3fb3ab67b8f44315fee38397985cc6e89522fa6b9a2cd2becb",
+          "examples/rectangular/operator_events.jsonl": "47e529046f2539cc821b4bcab0c33fdbb68d176087888f127692059a4eea7cfa",
+          "examples/rectangular/operator_states.json": "6b626176800a1e5dbc084ab25fed16d81a8e2eae81641b5789cdf0fc333846b0",
+          "examples/rectangular/source_counterexample_L4.json": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+          "examples/rectangular/source_counterexample_L6.json": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+          "examples/rectangular/state_input.json": "c3c0ff7007a0df4f79407c640a4be9eb7f1cd92c2d86d9f8883558b65d9d2d17",
+          "examples/throat/config.json": "9c380d61fc62a9dbc73e6380cb9980232a8e1799e13d2ff45793b53620c45277",
+          "examples/throat/throat_profile.csv": "97129150ab23d19e99dfb21c8d7f2bf4a405a6088bef18d16e3725485c01dd98",
+          "examples/throat/throat_report.json": "a56834f817b6ec37dd2ad6eb0b3736e888e604981e7d147a97fe6a75c3fd0deb",
+          "examples/throat_flat/config.json": "312886cb2626426ddba8f759c48e42fb80a616d82015bb9aa2342f84d84fdb1b",
+          "examples/throat_flat/throat_profile.csv": "e09b2fcf650b764b13032db72a1485094194f77831187bf3732326102faeb4c3",
+          "examples/throat_flat/throat_report.json": "786cd0f36420be46df4ed9d8dc1d11059d5906c236fbc36994ddd7e8ceed3fd4",
+          "examples/throat_translated/config.json": "8ff41a70a715fd5c1cccf39e6df4ab697247052b79fbc89f47564c3d162240b6",
+          "examples/throat_translated/throat_profile.csv": "d00791aa73172db047b68753631989566c8cd03cb0f842f6af2ab6458f249c7c",
+          "examples/throat_translated/throat_report.json": "610e9dfcc7a7b3f2d4df0afc906092f9f782ecf54e778e52c44f88dcc9ac3c46",
+          "examples/translated_rectangular/config.json": "93396c9af53855647cd404c097294eeb2f8355db6eccc12899372e7848f6a76b",
+          "examples/translated_rectangular/lattice_report.json": "717c109650e8a8f07ad6d7f52cce1a530e7f58f5a6cd26c38960c0d5fff043f4",
+          "examples/translated_rectangular/operator_events.jsonl": "d9ad4bbce8ed89f1a9a463d62b1731069ec70348b8d29ccf567f4b326cfa5c9b",
+          "examples/translated_rectangular/operator_states.json": "d490bb52ee6bb11921869d34b74aad65f94fc7797ebdc207ed8bb6cd0a921de9",
+          "examples/translated_rectangular/source_counterexample_L4.json": "7dead47d1d017cc43979b62e0eda7780c8541435f7500a66f73c0109eac55efd",
+          "examples/translated_rectangular/source_counterexample_L6.json": "61dccb18fdd60537bfcc45365b0cb2fddbd6cb30ed3960ff817a0b016a1931c7",
+          "examples/translated_rectangular/state_input.json": "e747a46a50e96a3752d1ac266bbb15cc2a5ffe1bc5973d92dd037a126d2da28f",
+          "figures/curved_throat.png": "a31bfbd3d2f18c6a5b3d62d96e810ec5b8f6a1fe88dd9e4a3aa0b237a8a0a5fa",
+          "figures/curved_throat.svg": "c540b6f6be11fb0d2fb320dbe49ba6643cab4e1b7897c798e622cafe546bea30",
+          "PROVENANCE.json": "169ab1680d873048cc898305918937cb7c66672122d4deea474e089b0ec2c99c",
+          "README.md": "a06cf1e0f4eb0ad2d1c1e850a7f08de82e041422f754e24f0151a08cb9be0b7a",
+          "reference/lattice.py": "29ec25207cadd6c629fd9717e3872f58ff551c48ff87655cbda4bd7cfe974f21",
+          "reference/lattice_validator.py": "42cd7e36e45ddcc841520ce94b97136d0bbd6711c3bec72667de8eeef4bf3c09",
+          "reference/plot_throat.py": "3803a1ea4ffefbccbb1fd4b837c69356c1e26027c6d0f452dae2e62b7799aec4",
+          "reference/reporting.py": "56820f951376418d7bd305586800741e1a620c7669228a22c72ce4959e24df23",
+          "reference/test_lattice.py": "a59c148bb97c0af31411bf6a422526cb2939c5c85af88a53cf039b2dfc3c728f",
+          "reference/test_reporting.py": "1000716bfdd96c56638117d58ecb8744995120765c9874485b6e8a6c1917e1be",
+          "reference/test_throat.py": "d3c05fbe56f9627485b9f77669d4c0b842e264b1d9b681b3268f4d410a129c85",
+          "reference/throat.py": "c1081fe9a5cd555ca44af75544462c1b759bb26e8bc35cb54f4bf5a4d37afadc",
+          "SHA256SUMS.txt": "021353a2b3c340a5099196776b499c910dc6c972edbf3205d700ebd07beba2a4",
+          "sources/01_Field_Theory_Update_v0.2_Orbit_Quotient_Cocycle.md": "f86875e34ec1972721a9f8f4cb08d49d03c8982bd9523862dc684b848dc85ac0",
+          "sources/02_Simulation_Protocol_v0.4_RC1_Orbit_Quotient_Cocycle.md": "38b1abfb494d9663d4f8c58b1c89da4d2db7b302d7f40666cf9df059f7010547",
+          "sources/03_Appendix_A_v0.2_Three_Axis_Orbit_Cocycle.md": "6179da0f506abae7f9e42a3a1e97ea17b8ddbefb930d4a9fff33b96e325211fc",
+          "sources/04_Appendix_B_v0.2_Orbit_Accessibility_Mixing.md": "0e40972512c62e3d327d61ad71f1d0a2506ce5029d70fe8cae41e23d041772c7",
+          "sources/05_TTSC_1_v0.3_Dual_Chart_Spatial_Cocycle.md": "750e99995679bab3bed39c524fedd7212748ed1b423c990ec902ecf04fbaa62c",
+          "sources/06_Rotating_Lattice_Run_Report_v0.2_Two_Clock_Prospective.md": "e3d29aa1ba155ec965a63504ef2e40ade57e4f2301f0ab3210d9b07038cfb560",
+          "sources/07_Rotating_Lattice_Two_Clock_Spec_v0.1.json": "dc8b70f5513ea7b9190abe1e45140f5b8997142f45f1f7ac48c6c32c07c81308",
+          "sources/08_Conditional_Closure_v0.2_Orbit_Accessibility.md": "47cac898eb8612fbdf4795976ec4ecd1eadfa472e64d2fb4144a8c05eebe22cb",
+          "sources/09_Q1_Q2_Q3_Dependency_Graph_v0.2_Orbit_Cocycle.md": "a4287973d7ae84538e4717601718c6ed4503dbfc970f293ef94c741a4dd416f1",
+          "sources/10_GQG_Relation_Typing_v0.2_Orbit_Cocycle.md": "95d4e47ce58ca7e4393cd17ce9fd0c505f3a30b8da9c3fb7368c396761e95233",
+          "sources/11_Dual_Ledger_v0.2_Orbit_Cocycle.md": "09db3b67049297e933f36ab595f022d3a218258b3e78cfc4d0acf93d05099579",
+          "sources/12_Provenance_Trust_v0.2_Two_Clock.md": "871c91d1c516e521a9a5ea3b2a9ea04d818d5c1b4a974c8ca47459559abf2cea",
+          "sources/13_SW1_Post_Freeze_v0.2_Signed_Winding_Cocycle.md": "403117e24aa75b15f1827b4082a07014b133535a11859ee5126e431766bc0660",
+          "sources/14_Confinement_Radius_v0.2_Orbit_Accessibility_Firewall.md": "f9236ead1cbc2b97debe207c98b8f0a20936006e5923f4ed2eaf5f39f8e6d93b",
+          "sources/15_Ultra_Review_Handoff_Manifest_v0.2_Toroidal_Orbit_Cocycle.md": "00d0191fa835b4ac3cf7243999f3ac87b66268363d81f0f489984add9ac52956",
+          "VERIFICATION_RESULTS.json": "0da194b81f62f4c6984d1ca1f712d2717be2ebebfbe7f30827a985a6b6558030",
+          "verify_release.py": "828bccbbbbe75470cc34fe169ddb7820d119a2c27a51e0f0e8617aa3e3bbc529"
+        },
+        "scope": "Inspected packaged deterministic verifiers. No production field simulation or historical empirical reanalysis."
+      },
+      "fresh_receipt": {
+        "integrity": {
+          "bytes_checked": 10274746,
+          "files_checked": 87,
+          "status": "PASS",
+          "unlisted_files": []
+        },
+        "reference_checks": {
+          "example_reproductions": [
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "byte exact",
+              "example": "cubic",
+              "files_compared": 7,
+              "status": "PASS"
+            },
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "byte exact",
+              "example": "rectangular",
+              "files_compared": 7,
+              "status": "PASS"
+            },
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "byte exact",
+              "example": "translated_rectangular",
+              "files_compared": 7,
+              "status": "PASS"
+            },
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "numeric tolerance and exact structure",
+              "example": "throat",
+              "files_compared": 3,
+              "status": "PASS"
+            },
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "numeric tolerance and exact structure",
+              "example": "throat_flat",
+              "files_compared": 3,
+              "status": "PASS"
+            },
+            {
+              "byte_identical_on_this_runtime": true,
+              "comparison": "numeric tolerance and exact structure",
+              "example": "throat_translated",
+              "files_compared": 3,
+              "status": "PASS"
+            }
+          ],
+          "numeric_reproduction_tolerances": {
+            "absolute": 1e-09,
+            "relative": 1e-10
+          },
+          "scope": "new deterministic references only; no historical empirical reanalysis",
+          "status": "PASS",
+          "throat_checks": [
+            {
+              "example": "throat",
+              "report": {
+                "cartesian_points_checked": 12,
+                "checks": {
+                  "cartesian_divergence": true,
+                  "fixed_control_volume_conservation": true,
+                  "material_tangency_finite_difference": true,
+                  "material_throughflow_constancy": true,
+                  "spatial_cocycle_additivity": true
+                },
+                "divergence_tolerance": 1e-07,
+                "evidence_kind": "KINEMATIC_NUMERICAL_FIXTURE",
+                "exact_domain": "Rc < A and R0^2 < A^2(1-epsilon), with positive scales and 0 <= epsilon < 1",
+                "finite_difference_step": 0.0001,
+                "flux_integrals": [
+                  {
+                    "absolute_residual": 2.5306867712515668e-11,
+                    "cap_flux_difference": -2.3621575127133942,
+                    "integrated_side_flux": -2.362157512738701,
+                    "offset_turns": [
+                      -0.31,
+                      -0.04
+                    ]
+                  },
+                  {
+                    "absolute_residual": 7.220977749783495e-18,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": -7.220977749783495e-18,
+                    "offset_turns": [
+                      -0.12,
+                      0.12
+                    ]
+                  },
+                  {
+                    "absolute_residual": 1.8060664075392197e-11,
+                    "cap_flux_difference": 2.293580456925345,
+                    "integrated_side_flux": 2.2935804569434057,
+                    "offset_turns": [
+                      0.06,
+                      0.31
+                    ]
+                  },
+                  {
+                    "absolute_residual": 8.344997871212058e-17,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 8.344997871212058e-17,
+                    "offset_turns": [
+                      -0.5,
+                      0.5
+                    ]
+                  }
+                ],
+                "flux_tolerance": 7.068583470577035e-08,
+                "material_flux_maximum_residual": 8.881784197001252e-16,
+                "maximum_cartesian_divergence_residual": 1.0938515718206254e-11,
+                "maximum_material_tangency_residual": 7.589224387816174e-13,
+                "maximum_uncorrected_straight_field_divergence": 0.0022851370132638896,
+                "minimum_sampled_h": 0.8845299461620748,
+                "physical_field_verdict": "NOT_RUN",
+                "spatial_cocycle_residual": 0.0,
+                "status": "PASS",
+                "tangency_tolerance": 1e-07
+              }
+            },
+            {
+              "example": "throat_flat",
+              "report": {
+                "cartesian_points_checked": 12,
+                "checks": {
+                  "cartesian_divergence": true,
+                  "fixed_control_volume_conservation": true,
+                  "material_tangency_finite_difference": true,
+                  "material_throughflow_constancy": true,
+                  "spatial_cocycle_additivity": true
+                },
+                "divergence_tolerance": 1e-07,
+                "evidence_kind": "KINEMATIC_NUMERICAL_FIXTURE",
+                "exact_domain": "Rc < A and R0^2 < A^2(1-epsilon), with positive scales and 0 <= epsilon < 1",
+                "finite_difference_step": 0.0001,
+                "flux_integrals": [
+                  {
+                    "absolute_residual": 0.0,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 0.0,
+                    "offset_turns": [
+                      -0.31,
+                      -0.04
+                    ]
+                  },
+                  {
+                    "absolute_residual": 0.0,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 0.0,
+                    "offset_turns": [
+                      -0.12,
+                      0.12
+                    ]
+                  },
+                  {
+                    "absolute_residual": 0.0,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 0.0,
+                    "offset_turns": [
+                      0.06,
+                      0.31
+                    ]
+                  },
+                  {
+                    "absolute_residual": 0.0,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 0.0,
+                    "offset_turns": [
+                      -0.5,
+                      0.5
+                    ]
+                  }
+                ],
+                "flux_tolerance": 7.068583470577035e-08,
+                "material_flux_maximum_residual": 0.0,
+                "maximum_cartesian_divergence_residual": 7.494005416219807e-12,
+                "maximum_material_tangency_residual": 0.0,
+                "maximum_uncorrected_straight_field_divergence": 7.494005416219807e-12,
+                "minimum_sampled_h": 0.9,
+                "physical_field_verdict": "NOT_RUN",
+                "spatial_cocycle_residual": 0.0,
+                "status": "PASS",
+                "tangency_tolerance": 1e-07
+              }
+            },
+            {
+              "example": "throat_translated",
+              "report": {
+                "cartesian_points_checked": 12,
+                "checks": {
+                  "cartesian_divergence": true,
+                  "fixed_control_volume_conservation": true,
+                  "material_tangency_finite_difference": true,
+                  "material_throughflow_constancy": true,
+                  "spatial_cocycle_additivity": true
+                },
+                "divergence_tolerance": 1e-07,
+                "evidence_kind": "KINEMATIC_NUMERICAL_FIXTURE",
+                "exact_domain": "Rc < A and R0^2 < A^2(1-epsilon), with positive scales and 0 <= epsilon < 1",
+                "finite_difference_step": 0.0001,
+                "flux_integrals": [
+                  {
+                    "absolute_residual": 2.5306867712515668e-11,
+                    "cap_flux_difference": -2.3621575127133942,
+                    "integrated_side_flux": -2.362157512738701,
+                    "offset_turns": [
+                      -0.31,
+                      -0.04
+                    ]
+                  },
+                  {
+                    "absolute_residual": 4.9048150753246384e-18,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": -4.9048150753246384e-18,
+                    "offset_turns": [
+                      -0.12,
+                      0.12
+                    ]
+                  },
+                  {
+                    "absolute_residual": 1.8060664075392197e-11,
+                    "cap_flux_difference": 2.293580456925344,
+                    "integrated_side_flux": 2.293580456943405,
+                    "offset_turns": [
+                      0.06,
+                      0.31
+                    ]
+                  },
+                  {
+                    "absolute_residual": 3.443292510195715e-16,
+                    "cap_flux_difference": 0.0,
+                    "integrated_side_flux": 3.443292510195715e-16,
+                    "offset_turns": [
+                      -0.5,
+                      0.5
+                    ]
+                  }
+                ],
+                "flux_tolerance": 7.068583470577035e-08,
+                "material_flux_maximum_residual": 8.881784197001252e-16,
+                "maximum_cartesian_divergence_residual": 1.1265944774296877e-11,
+                "maximum_material_tangency_residual": 7.589224387816174e-13,
+                "maximum_uncorrected_straight_field_divergence": 0.002285137031166236,
+                "minimum_sampled_h": 0.8845299461620748,
+                "physical_field_verdict": "NOT_RUN",
+                "spatial_cocycle_residual": 0.0,
+                "status": "PASS",
+                "tangency_tolerance": 1e-07
+              }
+            }
+          ],
+          "unit_tests": {
+            "errors": 0,
+            "failures": 0,
+            "run": 26,
+            "skipped": 0
+          }
+        },
+        "status": "PASS"
+      },
+      "final_package_unchanged": true,
+      "stdout": {
+        "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\fresh_toroidal\\stdout.txt",
+        "bytes": 9034,
+        "sha256": "475e852ff44bc18af3c8b33de4de6de821574a4d4242b950687f4704ee9870ff"
+      },
+      "stderr": {
+        "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\fresh_toroidal\\stderr.txt",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  },
+  "aggregate": {
+    "tests_passed": 36,
+    "tests_failed": 0,
+    "example_families_reproduced": 11,
+    "artifacts_reproduced": 50,
+    "all_fixture_artifacts_byte_identical_on_this_runtime": true,
+    "extracted_release_files_unchanged": 132,
+    "interpretation": "Counts of tests and deterministic constructed fixtures, not independent empirical experiments."
+  },
+  "review_depth": {
+    "before_execution": "Read both verifiers and all phase/lattice/throat/reporting implementation and test bodies used by the suites; inventoried imports and file operations.",
+    "text_review": "Geometry core, protocol v0.5, technical appendix, changelog, both READMEs, Toroidal protocol v0.6 and source/receipt comparisons. Retained baseline proofs were not all reread.",
+    "excluded_execution": [
+      "Outer DROP_IT.py",
+      "Outer cached Python bytecode",
+      "Optional plot generator",
+      "Browser explorer",
+      "Legacy algebra verifiers",
+      "Historical sampler replay",
+      "Production Monte Carlo",
+      "Physical experiments"
+    ],
+    "other_outer_content": "Central-directory inventory only except the 49 selected members. Other large archives, videos and binary-document contents not exhaustively decompressed or reviewed.",
+    "source_instructions": "Treated as source content, not authorization.",
+    "cloud_mutations": false
+  },
+  "remaining": {
+    "floating_execution": "No interval enclosure; bin_boundary retains one numerical disagreement on an ideal-certified row.",
+    "historical_sampler": "Accepted-event discrepancy -1352 remains unresolved.",
+    "replacement_execution": "Configuration-enforcing adapter, lossless recorder, restart/conformance validation and full replacement replay remain outstanding.",
+    "physical_Q1_Q2_Q3": "NOT_RUN by this intake",
+    "empirical_TTSC": "NOT_RUN by this intake",
+    "prospective_two_clock": "NOT_RUN by this intake",
+    "offline_explorer_UI": "Historical receipt carried; not freshly rerun."
+  },
+  "outputs": {
+    "master": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MASTER.md",
+      "bytes": 104407,
+      "sha256": "4c3b2d72d2e6aa5ae43e97ae4c8c34e45ce8808445868aa550ca6711e9b57bf0"
+    },
+    "review": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\outputs\\GEOMETRY_MAXIMIZATION_INTAKE_REVIEW_2026-10-18.md",
+      "bytes": 10773,
+      "sha256": "d1c510770c6aaab0f4cabc3992ccf49b8222ee7dedf8045357868357337446cc"
+    },
+    "preserved_previous_master": {
+      "path": "C:\\Users\\drewd\\Documents\\Codex\\2026-09-08\\che\\work\\intake_oct18_maximization\\GEOMETRY_MASTER_before_2.4.md",
+      "bytes": 95077,
+      "sha256": "d6deb4e4b45356ac57bd68d5433eefbca324c30024d35ad2f85f9ede4b2f9003"
+    }
+  }
+}
