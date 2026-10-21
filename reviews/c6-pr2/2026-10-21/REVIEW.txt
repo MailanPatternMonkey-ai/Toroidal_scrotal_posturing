@@ -1,0 +1,227 @@
+Independent review of C6 pull request #2
+Review date: October 21, 2026 (America/New_York)
+
+Recommendation: ready to leave draft status for normal review as an additive,
+characterization-only contribution. No blocking error was found in the seven
+test expectations or their narrow sender-origin conclusion. Address the two
+runner/provenance issues below during review; they concern completeness of the
+evidence workflow and do not invalidate the independently reproduced result.
+This is not approval of an authentication fix or a production security claim.
+
+Reviewed repository: aureoncorner-dotcom/Toroidal_scrotal_posturing
+PR: https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/pull/2
+Reviewed head: 1030a509b1afba7f6940332d620eacbe637a6379
+PR base: 53eb51f4b4bb8798ac00aeb3d0eb2c641fff5c20
+Earlier recorded baseline: 56ee3c88c8eda58d242220c29bc1003663562947
+
+The live PR remained open, mergeable and draft at the final readback. No submitted
+reviews were returned. I did not submit a review/comment, change draft status,
+commit, push, merge, or edit any published document. All checks used a detached
+local checkout; fault checks used disposable copies or process-local injection.
+
+Independent execution
+
+The unmodified PR runner completed on Linux CPython 3.12.14 with status
+REFERENCE_BOUNDARY_REPRODUCED and exit code 0. The original suite ran 20 tests;
+the added suite ran 7. Both had zero failures, errors, skips, expected failures,
+and unexpected successes. The trace matched the frozen LF bytes. All nine
+manifest entries matched before and after execution. The fresh execution
+receipt is in pr2-1030a509-run/; this is a new execution, not validation that
+the reported October 19 Windows executions occurred. Python 3.12.10 and Windows
+were not independently exercised in this review.
+
+The observation reports APPLIED / DELIVERY_EFFECT_CREATED for a publicly built
+S-labelled ACK, no event integrity errors, no O ledger verification errors, and
+empty S RAW before and after. O has a genuine local SEND and gains the received
+ACK effect. No protocol code, verifier, or endpoint internals were patched for
+the 20+7 run. The runner fault checks below are separate and must not be counted
+as protocol acceptance tests or authentication evidence.
+
+Assertion-by-assertion assessment
+
+A01: Correct. Public Event.build constructs an S actor / S key-label ACK that
+references O's genuine SEND. receive accepts and applies it although S has no
+local receipt or ACK witness. The test observes S before and after and checks
+both the O effect and its result code.
+
+A02: Correct. Lambda queues the same unsigned ACK twice. Its deliveries call
+the same receive method; the first applies and the second is a duplicate because
+the event ID is already in O's local effect IDs. Three O RAW entries are expected:
+one SEND and two deliveries. Deduplication is not authenticated replay defense.
+
+A03: Correct. The existing verifier accepts the consistent O hash-linked ledger
+that contains the forged ACK. Its checks concern record numbering, links, hashes,
+and adjacent view continuity. It does not prove peer authorship or independently
+re-execute all transition semantics. The PR appropriately limits this claim.
+
+A04: Correct and useful. Changing key_id to O while retaining actor S, then
+rehashing the complete public event body, isolates ACTOR_KEY_MISMATCH from
+EVENT_HASH_MISMATCH. The original acceptance test did not isolate these checks
+because it changed the key without recomputing the event hash.
+
+A05: Correct. An internally consistent ACK with an unknown SEND reference is
+rejected as ACK_REFERENCE_NOT_LOCAL_SEND. This prevents the conclusion from
+being overstated as acceptance of arbitrary ACK references.
+
+A06: Correct. Calling S.acknowledge without S having received the SEND is
+rejected as REFERENCED_SEND_NOT_RECEIVED. This local API restriction does not
+protect O's independently reachable inbound receive method.
+
+A07: Correct positive control. S actually receives the SEND and acknowledges it;
+O accepts. The local S ACK witness is present. Dataclass equality with the public
+builder output establishes identical event fields and hence identical canonical
+event serialization; that event ID does not distinguish the two origins.
+
+Relevant source: corner_relay.py, Event.build and integrity_errors; acknowledge;
+receive (lines 638-709); LambdaTransport.deliver; verify_raw_ledger. All source
+links below are pinned to the reviewed commit.
+
+Preservation and provenance assessment
+
+Git tree comparison found all 310 files from the PR base retained with identical
+Git object metadata in the head. The only changes are the eight added extension
+files, 617 inserted lines. Git status was clean after the fresh run and after all
+independent checks. Every manifest-protected original is byte-identical at the
+earlier baseline, current PR base and head. The older baseline commit is thus not
+evidence that the PR was run against different C6 source bytes.
+
+The original archive SHA-256 is:
+5392666c1892a4fd0d47aed04bfadcf92091d5c5f06a8899da88fb9e5e60b01b
+
+All nine packaged source/documentation hashes match the archived original
+execution receipt. The loose historical execution_provenance.json also matches
+the archived copy. The original README inside the archive explicitly disclaims
+real-world sender authentication. The original provenance's trace content hash
+and its trace file-byte hash are different by design; both were checked against
+their correct serialization, so that difference is not a discrepancy.
+
+The runner correctly separates the two test counts, requires exactly 20 and 7,
+rejects skips and expected failures, records runtime and output hashes, checks
+its nine pinned files before and after, and generates the reference trace into
+a temporary directory. It never runs run_with_provenance.py. A changed pinned
+packet produced REVIEW_FAILED without running suites. Reusing an output directory
+was rejected with exit code 2 and did not alter its previous receipt.
+
+Correction 1: extend protection to loose historical evidence
+
+Location: extensions/c6_sender_authentication/baseline.json, source_sha256
+mapping, and run_review.py lines 24-30 and 71-72.
+
+The nine-entry guard includes the reference ZIP but omits the root historical
+execution_provenance.json and Corner_Relay_Test_Log.txt. In a disposable copy,
+adding a newline to each omitted file still produced a successful
+REFERENCE_BOUNDARY_REPRODUCED receipt. This does not mean the PR changed them:
+the actual PR and fresh checkout preserve them. It means the runner cannot
+independently attest to their byte preservation. The archived receipt remains
+protected by the archive's hash.
+
+Exact correction for repository-checkout mode: add these entries to the extension
+manifest's source_sha256 mapping; do not rewrite the original files or their
+original source_binding.json:
+
+"execution_provenance.json": "5b09bb89891a8354aa971dbcd7151bdb8e2eb60b281f437b6b02871ebb5851fe"
+"Corner_Relay_Test_Log.txt": "a475caae8117955e2d9679a2beba5cc16b9b807e4f5fdad326417d61c3d31bf1"
+
+If the distribution also supports an extracted kit without the loose test log,
+declare that packaging profile explicitly and report the log as absent, rather
+than claim it was protected. Keep required-file absence a failure in checkout
+mode. The extension receipt should also hash extensions/__init__.py, which is
+executed but omitted from HERE.iterdir(); use repository-relative keys to avoid
+colliding with the nested __init__.py. Record the reviewed PR head separately
+from the historical upstream_commit for easier receipt-to-commit attribution.
+These hashes are reproducibility aids, not independent cryptographic attestation
+of the runner or host.
+
+Correction 2: retain failure evidence after unexpected runner errors
+
+Location: extensions/c6_sender_authentication/run_review.py lines 64-108,
+especially the probe and trace work at lines 83-95.
+
+There is no exception-safe finalization. With a process-local simulated OSError
+from reference_trace.write_reference_trace, both suites passed and their logs
+were written, but the process exited 1 before baseline_after or execution_receipt
+was written. This is a reporting omission, not a false successful status.
+
+Exact correction: initialize a failed/in-progress receipt before loading the
+manifest; run manifest loading, tests, probe and trace inside a protected block;
+catch ordinary exceptions and store the failed stage, exception type/message and
+traceback; in a finally block, attempt the post-run hash check and write a
+REVIEW_FAILED receipt with finished_utc. An exception, post-check failure or
+unavailable check must prohibit success and return nonzero. Write the receipt
+through a temporary file and atomic replacement where possible. If the output
+destination itself is unavailable, print the failure to stderr and exit nonzero;
+do not promise receipt creation when the disk cannot be written. Preserve the
+existing rule that an already-existing output directory is rejected unchanged.
+
+Nonblocking improvements and coverage limits
+
+The seven cases are sufficient for their narrow counterexample and controls;
+they are not an exhaustive adversarial protocol suite. Additional v0.1 cases
+could cover the reversed O/S direction, a forged SEND, wrong-route ACKs, ACKs
+after receiver EXIT, and a structurally valid transported EXIT. For the EXIT
+case, expect the actual existing route/actor rejection where applicable, rather
+than invent a cryptographic rejection reason. Do not change the 20 original
+tests. If extra cases are added, use new A identifiers and deliberately update
+the runner's expected extension count and accompanying documentation.
+
+Strengthen A06 with effect_applied == False and equality of the complete S VIEW
+before and after rejection. Strengthen A02 with duplicate == True and equal
+before/after VIEW for the second delivery. These are additional assertion guards;
+the current expected outcomes are correct. In reproduce_unsigned_ack.py, capture
+before_s_raw = [record.to_dict() for record in s.raw] before delivery and use that
+at line 36 instead of a literal empty list. The literal is accurate in the current
+fixture, but a measured snapshot is stronger evidence against fixture drift.
+
+The README refers to an accompanying run receipt; the eight added files do not
+include one or directly link the reported Windows receipts. Add an accessible
+receipt/log link or label those as author-reported historical results. The fresh
+Linux receipt included here provides independently reproducible current evidence
+without rewriting those historical claims.
+
+Demonstrated limitation versus proposed controls
+
+Demonstrated: an attacker able to submit an Event and knowing the real local SEND
+reference can supply a self-consistent S-labelled ACK that O accepts without S
+participating. The public key_id label and event/content hashes are not proof of
+S's authorization. S RAW is observer-visible fixture ground truth, not a claimed
+production oracle available to O. This is a finite in-process counterexample;
+it is not evidence of remote network reachability in a deployed system.
+
+The October 19 independent integration note already documents exactly this
+boundary and distinguishes it from the frozen artifact's declared acceptance
+requirements. The PR faithfully preserves that distinction; no new discovery
+priority or retroactive failure of the original acceptance record is established.
+
+The authenticated-successor document is explicitly requirements only. Separate
+endpoint private credentials, independently authenticated public-key provisioning,
+signed canonical event/context, peer authorization, replay/session/epoch handling,
+all-ingress enforcement and durable evidence are proposed and unimplemented.
+Its F01-F12 rows are unexecuted future cases. The proposal also correctly states
+that a valid signature alone cannot prove actual SEND receipt, honest execution,
+local logging or Byzantine safety. A malicious holder of S's signing key can sign
+a false ACK. No current test result validates those future controls. Implementing
+authentication should remain a separate, versioned contribution.
+
+Evidence bundle contents
+
+pr2-1030a509-run/: unmodified PR runner's fresh receipt, 20-test and 7-test logs,
+and complete unsigned-ACK observation.
+independent_checks.json: Git/tree/archive preservation checks and runner outcomes.
+independent_checks.py: the separate checker used for those outcomes; not part of
+the PR or its protocol tests. Run with a clean reviewed checkout path as its first
+argument and a fresh output directory containing the prior PR runner result.
+runner-check-*/ and *-process.txt: clearly labelled disposable-fixture runner
+checks. The altered-history and changed-packet fixtures are intentional negative
+checks; do not substitute their receipts for the pristine execution.
+SHA256SUMS.txt: hashes of bundle contents (excluding itself).
+
+Sources
+
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/corner_relay.py
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/test_corner_relay.py
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/extensions/c6_sender_authentication/test_sender_authentication.py
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/extensions/c6_sender_authentication/run_review.py
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/extensions/c6_sender_authentication/baseline.json
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/extensions/c6_sender_authentication/README.md
+https://github.com/aureoncorner-dotcom/Toroidal_scrotal_posturing/blob/1030a509b1afba7f6940332d620eacbe637a6379/extensions/c6_sender_authentication/AUTHENTICATED_EXTENSION_PROPOSAL.md
+https://docs.google.com/document/d/1Ip-xkbq-eMueQqwLVs5oITQ9KAC6EMLZCE2YF3kL1Ts/edit
